@@ -1,11 +1,14 @@
 {
-	"folders": [
-		{
-			"path": "I2DS-26-27"
-		},
-		{
-			"path": "my-aud-exercises"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "I2DS-26-27",
+    },
+    {
+      "path": "my-aud-exercises",
+    },
+    {
+      "path": "my-lab-exercises",
+    },
+  ],
+  "settings": {},
 }

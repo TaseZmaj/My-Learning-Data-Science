@@ -1,0 +1,401 @@
+customer_id,signed_on,device_model,contract,origin,package,payment,handset,calls,call_minutes,data_gb,lines,instalment,deposit,sms,monthly_bill
+91001,2024-12-03,Kestrel A3,personal,new number,small,direct debit,financed,28,93,18.5,2,450,7850,8,1000
+91002,2024-12-03,Aster 12,personal,new number,medium,card,financed,24,76,11.5,2,450,860,10,1174
+91003,2024-12-05,Terra 6,personal,new number,extra large,direct debit,financed,148,449,9.7,1,450,2330,28,1627
+91004,2024-12-06,Lumo 4,personal,upgrade,small,bank transfer,financed,100,294,4.3,1,450,1850,30,x
+91005,2024-12-06,Lark 21,personal,new number,extra large,cash,financed,59,165,9.7,1,900,1450,7,2019
+91006,2024-12-06,Kestrel A3,personal,ported,large,direct debit,financed,30,98,8.0,1,650,690,13,1550
+91007,2024-12-08,Pico Max,personal,upgrade,large,card,financed,28,74,9.1,3,1200,490,43,2041
+91008,2024-12-08,Vela Pro,personal,new number,small,card,financed,57,177,8.7,3,450,1610,20,958
+91009,2024-12-08,Pico Max,personal,new number,extra large,card,financed,31,102,6.1,1,650,410,16,1913
+91010,2024-12-10,Terra 6,personal,new number,small,direct debit,financed,57,166,8.5,3,900,3470,6,1288
+91011,2024-12-11,Lumo 4,personal,ported,large,cash,financed,32,105,13.2,1,900,2550,0,1833
+91012,2024-12-12,Lumo 4,personal,new number,small,bank transfer,financed,101,312,7.4,4,900,2100,12,1377
+91013,2024-12-12,Vela Pro,personal,new number,small,cash,financed,147,431,5.1,1,1800,1760,9,2305
+91014,2024-12-14,Lumo 4,personal,new number,large,cash,own device,63,177,15.2,2,x,1450,12,915
+91015,2024-12-15,Orbit S,personal,ported,medium,direct debit,own device,37,113,5.7,2,x,2030,18,694
+91016,2024-12-22,Lumo 4,personal,upgrade,medium,cash,financed,152,450,8.2,3,900,510,15,1586
+91017,2024-12-22,Kestrel A3,personal,ported,large,card,own device,32,x,8.2,2,x,2560,34,x
+91018,2024-12-22,Lumo 4,personal,upgrade,unlimited,card,financed,58,181,5.2,1,650,820,4,2182
+91019,2024-12-24,Kestrel A2,personal,ported,unlimited,cash,financed,145,x,9.8,1,650,2000,12,2132
+91020,2024-12-24,Lumo 4,personal,new number,large,direct debit,financed,148,449,12.8,3,900,2590,0,1766
+91021,2024-12-26,Lumo 4,personal,ported,large,cash,financed,56,162,7.6,1,650,930,6,1558
+91022,2024-12-27,Orbit S,personal,ported,extra large,direct debit,financed,99,x,17.8,2,1200,3110,0,2367
+91023,2024-12-28,Lumo 4,personal,upgrade,large,card,financed,101,295,9.2,1,1800,2600,7,2613
+91024,2024-12-28,Lumo 4,personal,ported,extra large,cash,financed,29,75,5.9,1,1800,2440,0,3024
+91025,2024-12-28,Vela Pro,personal,new number,large,cash,own device,30,78,9.2,2,x,1810,0,945
+91026,2024-12-29,Kestrel A3,personal,upgrade,extra large,card,financed,96,290,16.8,3,1800,1380,15,2966
+91027,2024-12-29,Nimbus 8,personal,upgrade,small,card,financed,62,178,7.1,2,450,1330,14,906
+91028,2024-12-30,Lumo 4,personal,new number,medium,card,financed,61,177,10.6,1,450,890,17,1093
+91029,2024-12-31,Lumo 4,personal,ported,large,direct debit,financed,62,x,20.9,2,650,1310,6,1579
+91030,2025-01-02,Nimbus 8,business,new number,extra large,direct debit,financed,143,434,16.9,34,1200,440,9,2397
+91031,2025-01-03,Lumo 4,personal,upgrade,medium,direct debit,financed,152,466,7.6,1,450,940,22,1168
+91032,2025-01-04,Nimbus 9,personal,new number,medium,card,financed,59,177,5.8,2,1800,1680,4,2480
+91033,2025-01-05,Terra 5,personal,ported,large,card,financed,61,x,5.9,2,1800,460,22,2715
+91034,2025-01-06,Vela Pro,personal,ported,small,card,financed,95,x,9.6,4,450,2440,0,886
+91035,2025-01-06,Nimbus 9,personal,ported,small,bank transfer,financed,63,x,10.6,2,450,2780,13,931
+91036,2025-01-06,Nimbus 8,personal,new number,large,card,financed,33,108,10.6,3,1800,1970,28,2765
+91037,2025-01-07,Orbit S Plus,personal,new number,large,cash,financed,101,310,9.5,1,1800,1620,6,2695
+91038,2025-01-07,Lumo 4,personal,new number,extra large,card,financed,27,85,10.8,3,900,1690,4,2079
+91039,2025-01-09,Vela Pro,personal,upgrade,large,direct debit,financed,33,107,12.9,1,650,1330,7,1573
+91040,2025-01-09,Orbit S,personal,new number,medium,direct debit,financed,30,x,6.1,4,900,3560,3,1654
+91041,2025-01-10,Orbit S Plus,personal,new number,extra large,direct debit,financed,33,116,x,1,1200,2610,14,2492
+91042,2025-01-10,Lumo 4,personal,ported,large,bank transfer,financed,150,452,6.6,2,1200,1910,29,2125
+91043,2025-01-10,Flint Two,personal,new number,unlimited,direct debit,financed,59,178,20.8,3,450,510,0,1974
+91044,2025-01-12,Pico X,personal,ported,small,cash,financed,148,447,7.9,1,1800,940,0,2248
+91045,2025-01-12,Pico Max,personal,new number,large,x,own device,25,72,17.1,100,x,3020,0,827
+91046,2025-01-12,Aster 13,personal,new number,large,card,financed,57,164,9.3,1,1800,1630,41,2659
+91047,2025-01-12,Aster 13,personal,upgrade,extra large,bank transfer,financed,61,183,11.5,1,650,1470,0,1823
+91048,2025-01-13,Kestrel A3,personal,upgrade,large,direct debit,financed,57,159,11.4,2,450,710,2,1361
+91049,2025-01-15,Kestrel A2,personal,upgrade,medium,direct debit,financed,104,308,12.4,1,1800,840,2,2474
+91050,2025-01-17,Vela Lite,personal,new number,large,bank transfer,financed,100,297,9.2,1,450,490,0,1347
+91051,2025-01-18,Nimbus 8,personal,ported,large,direct debit,financed,29,102,6.7,4,450,440,19,1348
+91052,2025-01-18,Pico Max,personal,ported,large,direct debit,financed,98,299,5.8,2,1200,1300,3,2163
+91053,2025-01-18,Vela Pro,business,ported,medium,direct debit,financed,61,195,4.0,35,900,2890,6,1649
+91054,2025-01-20,Orbit S,personal,new number,small,bank transfer,financed,106,312,13.7,4,450,2920,0,907
+91055,2025-01-20,Aster 12,personal,ported,medium,card,financed,64,187,9.1,1,900,1350,8,1658
+91056,2025-01-20,Flint Two,personal,new number,small,direct debit,financed,61,188,11.5,4,650,1640,9,1096
+91057,2025-01-20,Orbit S,personal,ported,unlimited,direct debit,financed,149,454,12.9,1,900,770,1,2376
+91058,2025-01-22,Vela Lite,business,ported,medium,direct debit,financed,107,337,12.5,22,1200,960,5,1862
+91059,2025-01-22,Sola Mini,personal,new number,large,cash,own device,63,209,4.0,3,x,1000,6,881
+91060,2025-01-23,Terra 6,personal,new number,extra large,card,financed,101,315,7.6,200,450,2310,0,1636
+91061,2025-01-23,Nimbus 8,personal,ported,large,direct debit,financed,59,x,5.0,1,1200,4470,3,2047
+91062,2025-01-25,Lumo 4,personal,upgrade,medium,cash,financed,30,89,20.5,2,900,990,23,1624
+91063,2025-01-26,Aster 13,personal,upgrade,medium,card,financed,30,79,7.3,1,450,3120,10,1175
+91064,2025-01-27,Lumo 4,personal,upgrade,medium,card,financed,63,180,13.0,1,1200,700,7,1864
+91065,2025-01-27,Kestrel A2,personal,upgrade,large,direct debit,financed,64,197,8.3,1,900,800,6,1777
+91066,2025-01-28,Lumo 4,personal,ported,extra large,bank transfer,financed,28,x,11.3,1,1200,5200,4,2402
+91067,2025-01-28,Lumo 4,personal,ported,large,direct debit,financed,33,x,4.5,1,1800,2560,21,2703
+91068,2025-01-29,Terra 6,personal,upgrade,extra large,card,financed,152,467,7.3,2,900,2180,8,2022
+91069,2025-01-29,Terra 6,personal,upgrade,large,direct debit,own device,58,191,11.4,1,x,430,14,843
+91070,2025-01-31,Pico Max,personal,new number,small,direct debit,financed,60,167,10.0,1,450,550,11,x
+91071,2025-02-01,Kestrel A2,personal,ported,small,card,financed,30,81,x,1,1200,910,5,1654
+91072,2025-02-01,Pico Max,personal,new number,medium,bank transfer,financed,59,174,4.0,1,1800,1860,10,2484
+91073,2025-02-05,Vela Pro,personal,ported,unlimited,direct debit,financed,29,101,14.5,2,1800,1950,2,3282
+91074,2025-02-05,Lumo 4,personal,upgrade,medium,direct debit,financed,56,166,12.7,4,1200,2970,14,1902
+91075,2025-02-07,Terra 6,personal,new number,unlimited,card,financed,105,315,23.2,2,450,2380,0,2014
+91076,2025-02-08,Orbit S,personal,ported,medium,card,financed,100,317,21.9,1,450,2730,10,1169
+91077,2025-02-08,Terra 6,personal,ported,extra large,card,financed,149,467,15.3,2,1200,2200,9,2408
+91078,2025-02-11,Lumo 4,personal,upgrade,unlimited,direct debit,own device,64,x,6.1,1,x,1100,9,1563
+91079,2025-02-13,Lumo 4,personal,upgrade,small,cash,financed,63,185,6.1,1,1200,1030,9,1724
+91080,2025-02-14,Aster 13,personal,upgrade,medium,direct debit,financed,60,169,6.4,3,1200,5480,12,1954
+91081,2025-02-15,Vela Pro,personal,new number,large,bank transfer,financed,22,67,10.8,1,1200,2140,9,2097
+91082,2025-02-16,Kestrel A3,personal,ported,medium,direct debit,financed,65,x,9.7,3,1200,400,0,1921
+91083,2025-02-17,Vela Lite,personal,upgrade,small,card,financed,60,170,8.9,1,1800,750,4,2266
+91084,2025-02-18,Flint One,personal,new number,small,direct debit,financed,32,97,6.5,1,1200,1330,13,1706
+91085,2025-02-18,Orbit S,personal,new number,small,card,own device,28,94,17.3,1,x,760,9,522
+91086,2025-02-19,Orbit S,personal,upgrade,medium,cash,financed,31,84,x,1,900,3290,30,1587
+91087,2025-02-19,Kestrel A2,personal,upgrade,medium,card,financed,99,277,8.1,3,450,370,14,1207
+91088,2025-02-20,Lumo 4,personal,new number,large,card,financed,55,183,13.8,2,1800,3430,7,2718
+91089,2025-02-20,Orbit S,personal,ported,unlimited,card,financed,60,x,15.3,1,450,1040,13,1956
+91090,2025-02-20,Terra 6,personal,ported,extra large,direct debit,financed,148,x,7.6,1,900,2040,12,2093
+91091,2025-02-20,Terra 6,personal,new number,large,card,financed,103,314,4.5,2,1800,1700,6,2631
+91092,2025-02-21,Terra 6,personal,new number,large,card,financed,27,92,7.1,2,1200,2200,6,2082
+91093,2025-02-21,Pico Max,personal,ported,large,direct debit,financed,62,191,10.8,3,650,700,5,1508
+91094,2025-02-22,Vela Pro,personal,new number,medium,bank transfer,financed,151,447,5.0,1,450,2040,11,1113
+91095,2025-02-24,Nimbus 9,personal,upgrade,medium,card,financed,58,179,17.1,3,1200,1830,14,1917
+91096,2025-02-25,Lumo 4,personal,ported,large,cash,financed,32,x,10.7,2,1200,950,6,2138
+91097,2025-02-26,Lumo 4,personal,upgrade,large,direct debit,financed,147,422,8.7,3,1800,2860,5,2742
+91098,2025-02-27,Vela Pro,personal,upgrade,small,card,financed,105,316,7.7,1,650,4600,22,1227
+91099,2025-02-27,Orbit S,personal,upgrade,medium,cash,own device,54,152,x,2,x,1640,9,673
+91100,2025-02-28,Terra 6,personal,ported,large,cash,financed,23,x,7.1,3,650,950,8,1562
+91101,2025-03-01,Nimbus 9,personal,new number,extra large,direct debit,financed,26,443,9.0,2,1800,890,0,2961
+91102,2025-03-02,Lumo 4,personal,ported,large,card,financed,146,443,10.8,1,1200,2020,4,2154
+91103,2025-03-02,Terra 5,personal,new number,extra large,cash,financed,33,93,9.1,4,1800,1320,8,2983
+91104,2025-03-04,Vela Pro,personal,new number,medium,card,own device,149,442,6.2,2,x,210,7,686
+91105,2025-03-05,Kestrel A3,personal,ported,large,bank transfer,financed,61,171,11.1,1,1200,1190,27,2089
+91106,2025-03-07,Vela Lite,personal,upgrade,large,bank transfer,financed,59,176,14.5,100,650,1830,11,1534
+91107,2025-03-10,Pico Max,personal,upgrade,large,cash,financed,60,175,6.9,1,650,1970,4,1545
+91108,2025-03-10,Terra 6,personal,new number,large,direct debit,financed,61,175,3.6,1,1800,670,32,2704
+91109,2025-03-12,Kestrel A3,business,ported,large,card,financed,28,96,22.9,26,1200,940,3,2131
+91110,2025-03-14,Orbit S,personal,new number,medium,direct debit,financed,99,305,6.6,4,650,1150,6,1279
+91111,2025-03-15,Vela Pro,personal,ported,medium,direct debit,financed,58,168,7.2,1,650,680,8,1273
+91112,2025-03-15,Lumo 4,personal,upgrade,medium,direct debit,financed,36,101,11.2,2,1200,1210,7,1950
+91113,2025-03-15,Lumo 4,personal,ported,large,cash,financed,30,80,6.8,3,900,770,12,1808
+91114,2025-03-18,Terra 5,personal,new number,medium,cash,financed,30,72,8.1,1,900,3830,0,1652
+91115,2025-03-19,Pico Max,personal,upgrade,unlimited,card,financed,100,294,5.3,1,1800,1970,0,3336
+91116,2025-03-20,Nimbus 8,personal,upgrade,small,direct debit,financed,61,181,17.9,1,650,1440,3,1151
+91117,2025-03-21,Lumo 4,personal,ported,large,cash,financed,62,194,3.4,2,650,1160,3,1457
+91118,2025-03-21,Kestrel A3,personal,ported,small,bank transfer,financed,31,86,13.5,2,1800,2340,0,2212
+91119,2025-03-22,Lumo 4,personal,ported,large,bank transfer,financed,35,121,5.5,2,900,2250,18,1846
+91120,2025-03-22,Aster 13,personal,new number,small,card,financed,98,x,x,2,1200,1330,17,1682
+91121,2025-03-24,Terra 5,business,new number,unlimited,direct debit,financed,96,288,14.8,16,650,700,6,2215
+91122,2025-03-25,Kestrel A2,business,upgrade,extra large,direct debit,financed,101,306,8.0,30,650,1400,12,1784
+91123,2025-03-25,Pico X,personal,ported,small,card,financed,25,x,14.6,4,1800,1500,0,2300
+91124,2025-03-26,Orbit S,personal,ported,medium,direct debit,financed,59,194,4.3,100,450,490,0,1193
+91125,2025-03-27,Orbit S,personal,upgrade,large,cash,financed,28,86,7.5,3,900,2540,3,1754
+91126,2025-03-27,Kestrel A3,personal,ported,small,card,financed,62,177,11.0,1,450,480,7,957
+91127,2025-03-28,Nimbus 9,personal,new number,medium,direct debit,own device,99,282,5.0,1,x,1620,3,694
+91128,2025-03-29,Pico X,personal,upgrade,extra large,card,own device,61,181,11.7,2,x,1540,21,1176
+91129,2025-03-30,Nimbus 8,personal,ported,small,direct debit,financed,150,451,5.5,2,650,650,20,1166
+91130,2025-03-30,Lumo 4,personal,upgrade,medium,cash,financed,32,95,x,1,1200,470,6,1786
+91131,2025-04-01,Kestrel A3,personal,upgrade,small,x,financed,65,184,14.3,3,450,1350,8,991
+91132,2025-04-02,Sola Mini,personal,new number,large,card,financed,30,433,6.0,1,650,1860,12,1560
+91133,2025-04-05,Pico X,personal,new number,medium,direct debit,financed,29,87,8.6,2,900,1350,14,1651
+91134,2025-04-05,Vela Pro,personal,ported,large,cash,financed,30,91,x,3,450,1000,4,1369
+91135,2025-04-11,Kestrel A3,personal,ported,large,cash,financed,154,x,6.2,3,450,810,0,1369
+91136,2025-04-11,Nimbus 9,personal,ported,large,bank transfer,own device,98,295,4.7,1,x,1590,19,894
+91137,2025-04-12,Terra 5,personal,new number,unlimited,card,financed,104,318,12.5,1,650,1450,0,2161
+91138,2025-04-13,Lumo 3,personal,ported,large,cash,financed,97,x,6.9,2,1200,1420,15,2118
+91139,2025-04-13,Lumo 4,personal,ported,medium,cash,own device,29,89,5.7,2,x,820,12,705
+91140,2025-04-14,Vela Pro,personal,ported,extra large,card,financed,59,162,5.1,4,1200,1340,7,2325
+91141,2025-04-14,Terra 6,personal,ported,large,card,financed,59,x,5.8,4,1200,1150,4,2166
+91142,2025-04-15,Lumo 4,personal,ported,medium,direct debit,financed,98,305,10.1,3,650,2570,3,1352
+91143,2025-04-16,Lumo 4,personal,upgrade,medium,card,financed,34,x,8.6,2,650,620,9,1399
+91144,2025-04-17,Pico X,personal,new number,large,direct debit,own device,59,194,5.2,2,x,2170,4,947
+91145,2025-04-18,Terra 6,personal,new number,extra large,card,financed,34,105,9.1,1,900,2640,15,2045
+91146,2025-04-18,Lumo 3,personal,new number,medium,bank transfer,financed,25,86,x,2,450,770,19,1162
+91147,2025-04-18,Vela Pro,personal,upgrade,extra large,direct debit,financed,31,81,x,1,450,1380,1,1670
+91148,2025-04-18,Flint One,personal,new number,large,x,financed,104,294,5.2,1,1200,1240,11,2150
+91149,2025-04-20,Lumo 4,personal,new number,medium,direct debit,financed,65,199,x,4,1800,370,4,x
+91150,2025-04-20,Kestrel A2,personal,new number,medium,direct debit,financed,147,432,18.8,2,650,2230,6,1361
+91151,2025-04-20,Vela Pro,personal,ported,small,cash,own device,62,x,10.2,1,x,2310,3,481
+91152,2025-04-21,Vela Lite,personal,new number,large,card,financed,58,187,10.1,1,900,2070,10,1738
+91153,2025-04-22,Terra 6,personal,new number,medium,cash,financed,24,84,7.0,1,450,1550,0,1160
+91154,2025-04-27,Kestrel A2,personal,ported,unlimited,card,own device,100,299,9.3,1,x,1540,22,1480
+91155,2025-04-28,Orbit S,personal,upgrade,unlimited,card,own device,98,273,23.1,1,x,1640,32,1573
+91156,2025-04-28,Lumo 4,personal,upgrade,small,cash,financed,60,177,3.7,3,650,590,19,1184
+91157,2025-04-29,Brio 7,personal,upgrade,large,cash,financed,98,290,8.8,2,650,3000,11,1551
+91158,2025-04-29,Lumo 4,personal,upgrade,medium,bank transfer,financed,148,422,6.0,4,650,1060,11,1381
+91159,2025-04-30,Kestrel A3,personal,new number,large,bank transfer,financed,31,95,14.3,2,1800,2360,25,2667
+91160,2025-04-30,Nimbus 9,personal,ported,medium,card,financed,59,188,14.1,2,1200,1700,13,1820
+91161,2025-05-02,Kestrel A2,personal,new number,medium,card,financed,61,185,5.0,4,900,1430,17,1623
+91162,2025-05-03,Nimbus 9,personal,new number,medium,direct debit,financed,31,95,2.8,1,1200,1190,9,1895
+91163,2025-05-03,Vela Lite,personal,new number,large,direct debit,financed,29,93,10.3,1,450,280,4,1271
+91164,2025-05-04,Orbit S,personal,new number,large,cash,financed,150,443,14.1,3,450,710,7,1412
+91165,2025-05-04,Aster 13,personal,upgrade,unlimited,card,financed,58,148,3.3,1,1200,760,19,2685
+91166,2025-05-05,Kestrel A2,personal,new number,medium,card,financed,155,443,12.6,2,1800,570,3,2587
+91167,2025-05-05,Pico Max,personal,upgrade,medium,card,financed,99,293,13.6,2,650,1570,1,1335
+91168,2025-05-08,Nimbus 9,personal,new number,large,direct debit,financed,59,190,15.2,1,450,2340,6,1420
+91169,2025-05-08,Lumo 4,personal,new number,large,x,own device,104,307,6.7,1,x,1150,18,930
+91170,2025-05-09,Nimbus 8,personal,ported,medium,card,own device,102,x,2.0,1,x,1480,0,773
+91171,2025-05-09,Aster 13,personal,new number,large,bank transfer,financed,100,296,6.4,1,900,1080,14,1747
+91172,2025-05-09,Lumo 4,personal,ported,medium,bank transfer,financed,59,x,7.5,2,650,3390,4,1354
+91173,2025-05-10,Kestrel A2,personal,upgrade,large,direct debit,financed,29,x,8.1,3,650,1250,2,1548
+91174,2025-05-13,Vela Lite,personal,upgrade,large,card,financed,104,312,17.2,1,900,1870,0,1850
+91175,2025-05-16,Sola Mini,personal,new number,large,bank transfer,financed,62,186,3.0,2,1800,1970,15,2691
+91176,2025-05-16,Lumo 4,personal,ported,extra large,card,financed,58,171,4.5,1,1800,1420,5,3029
+91177,2025-05-17,Lumo 4,personal,ported,large,card,financed,62,x,13.5,3,650,910,2,1567
+91178,2025-05-20,Sola Mini,personal,ported,large,bank transfer,financed,58,176,10.7,2,900,2990,48,1837
+91179,2025-05-21,Nimbus 9,personal,new number,large,direct debit,financed,26,86,19.2,1,1200,910,16,2167
+91180,2025-05-21,Vela Lite,personal,ported,small,card,financed,61,x,9.6,1,1800,1420,7,2273
+91181,2025-05-23,Orbit S,business,new number,large,direct debit,financed,155,466,4.4,18,1800,710,14,2761
+91182,2025-05-24,Terra 6,personal,ported,extra large,direct debit,financed,30,102,5.8,1,900,4080,11,2062
+91183,2025-05-24,Kestrel A3,personal,upgrade,unlimited,cash,financed,147,444,8.6,2,1200,3330,4,2640
+91184,2025-05-25,Orbit S,personal,new number,medium,x,financed,59,174,13.9,1,1800,670,36,2431
+91185,2025-05-26,Vela Pro,personal,upgrade,medium,cash,financed,96,282,4.6,4,650,3030,9,1333
+91186,2025-05-28,Nimbus 9,personal,ported,large,bank transfer,financed,29,87,10.4,2,1800,1200,50,2759
+91187,2025-05-28,Lumo 4,personal,new number,large,card,financed,152,458,9.3,1,1800,6440,12,2678
+91188,2025-05-29,Lumo 4,personal,new number,medium,direct debit,financed,27,63,12.1,2,1200,1480,0,1850
+91189,2025-05-30,Nimbus 8,personal,new number,medium,direct debit,financed,26,76,8.9,2,1800,1530,0,2510
+91190,2025-05-31,Kestrel A2,personal,upgrade,medium,cash,financed,98,298,4.4,4,1800,1120,5,2535
+91191,2025-05-31,Orbit S Plus,personal,ported,large,card,financed,27,88,9.6,1,450,1200,4,1299
+91192,2025-05-31,Nimbus 9,personal,ported,extra large,cash,financed,151,471,5.5,2,1800,1190,0,2989
+91193,2025-06-02,Orbit S,personal,ported,large,x,own device,147,425,6.0,1,x,2340,5,907
+91194,2025-06-02,Lumo 4,business,ported,extra large,direct debit,financed,27,x,6.5,22,1200,1800,15,2381
+91195,2025-06-04,Orbit S,personal,upgrade,large,direct debit,financed,97,278,7.9,3,450,850,23,1310
+91196,2025-06-05,Orbit S,personal,ported,medium,card,financed,59,171,8.4,1,650,1950,0,1381
+91197,2025-06-05,Lumo 4,personal,upgrade,unlimited,direct debit,financed,60,164,13.1,1,900,1440,0,2385
+91198,2025-06-07,Aster 13,personal,ported,medium,card,financed,59,188,12.7,1,1800,510,6,2549
+91199,2025-06-07,Terra 6,personal,ported,medium,direct debit,financed,28,x,7.9,1,450,740,28,1153
+91200,2025-06-07,Vela Pro,personal,new number,medium,direct debit,financed,60,193,10.3,4,650,3010,35,1313
+91201,2025-06-07,Lumo 4,personal,ported,large,card,financed,61,189,8.0,1,450,2500,20,1375
+91202,2025-06-08,Lumo 4,personal,ported,extra large,card,financed,56,174,12.3,2,900,1490,5,2050
+91203,2025-06-08,Terra 6,personal,ported,medium,x,financed,55,x,8.0,2,1200,1070,20,1898
+91204,2025-06-09,Kestrel A2,personal,ported,medium,cash,financed,58,168,5.7,4,900,2010,15,1620
+91205,2025-06-10,Pico X,personal,ported,small,direct debit,financed,60,179,9.0,3,650,970,18,1105
+91206,2025-06-12,Terra 6,personal,new number,large,card,own device,64,186,x,1,x,980,10,879
+91207,2025-06-14,Orbit S Plus,personal,new number,small,card,financed,31,85,7.5,3,450,920,0,985
+91208,2025-06-14,Aster 13,personal,new number,medium,direct debit,financed,32,92,2.8,4,1800,1510,9,x
+91209,2025-06-15,Corvo M,personal,upgrade,medium,direct debit,financed,27,96,5.7,1,450,910,2,1189
+91210,2025-06-15,Terra 6,personal,new number,large,x,financed,98,291,x,4,900,420,6,1753
+91211,2025-06-15,Terra 5,personal,upgrade,medium,cash,financed,58,175,7.6,2,900,3400,8,1573
+91212,2025-06-15,Lumo 4,personal,new number,unlimited,x,financed,100,307,6.6,1,1200,600,5,2723
+91213,2025-06-15,Lumo 4,personal,ported,large,cash,financed,101,299,16.3,3,650,1070,11,1559
+91214,2025-06-18,Flint One,personal,upgrade,large,direct debit,financed,24,81,9.9,1,450,3220,7,1416
+91215,2025-06-20,Lumo 4,personal,ported,large,direct debit,own device,56,x,7.0,4,x,870,9,806
+91216,2025-06-23,Aster 13,personal,new number,extra large,bank transfer,financed,35,110,7.5,3,900,3430,6,2132
+91217,2025-06-24,Aster 13,personal,upgrade,medium,x,financed,56,158,11.2,3,1800,630,7,2610
+91218,2025-06-25,Aster 13,personal,new number,large,x,financed,98,299,8.7,1,1200,6600,0,2085
+91219,2025-06-27,Aster 13,personal,ported,large,direct debit,financed,58,174,x,3,650,870,15,1549
+91220,2025-06-29,Brio 7s,personal,upgrade,small,cash,financed,149,449,14.9,1,1200,890,27,1709
+91221,2025-06-29,Lumo 4,personal,ported,extra large,cash,financed,62,190,7.3,2,1200,670,21,2380
+91222,2025-06-30,Nimbus 9,personal,new number,large,cash,financed,59,174,23.0,1,450,1130,26,1385
+91223,2025-06-30,Kestrel A3,personal,upgrade,extra large,cash,financed,103,301,5.9,1,1800,640,11,3090
+91224,2025-07-02,Vela Lite,personal,ported,large,card,financed,34,x,6.6,1,650,2040,0,1453
+91225,2025-07-02,Orbit S,business,upgrade,medium,direct debit,financed,36,100,11.7,23,1800,1590,15,2533
+91226,2025-07-02,Orbit S,personal,ported,medium,direct debit,financed,55,x,12.0,1,900,610,0,1561
+91227,2025-07-02,Aster 13,personal,upgrade,medium,cash,financed,148,455,6.2,4,450,2510,0,1164
+91228,2025-07-03,Nimbus 9,personal,upgrade,medium,bank transfer,financed,31,88,15.0,1,650,1380,14,1336
+91229,2025-07-04,Vela Pro,personal,ported,small,cash,financed,99,291,9.6,1,1200,2830,6,1673
+91230,2025-07-04,Nimbus 9,personal,ported,medium,bank transfer,financed,63,x,5.5,1,900,1920,5,1611
+91231,2025-07-05,Pico Max,personal,new number,medium,card,financed,63,196,4.4,1,1200,2160,0,1942
+91232,2025-07-06,Orbit S Plus,personal,new number,extra large,card,financed,27,62,11.2,2,1800,700,4,3095
+91233,2025-07-07,Pico Max,personal,new number,medium,direct debit,financed,26,63,6.2,1,900,1280,12,1641
+91234,2025-07-08,Nimbus 9,personal,ported,extra large,direct debit,own device,62,x,7.1,1,x,760,1,1196
+91235,2025-07-10,Kestrel A3,personal,new number,small,direct debit,financed,66,181,15.1,1,1200,1750,7,1658
+91236,2025-07-11,Orbit S,personal,new number,medium,card,financed,31,93,6.6,2,1200,3040,0,1931
+91237,2025-07-11,Nimbus 9,personal,ported,large,card,financed,146,455,7.5,2,1800,2460,24,2737
+91238,2025-07-13,Vela Lite,personal,upgrade,medium,card,financed,28,71,7.6,4,1800,1080,3,2440
+91239,2025-07-13,Orbit S,personal,ported,large,bank transfer,financed,102,297,5.9,3,1800,1040,11,2773
+91240,2025-07-14,Lumo 4,personal,new number,large,card,financed,151,441,5.7,1,450,1760,5,1287
+91241,2025-07-14,Lumo 4,personal,new number,extra large,x,financed,57,164,12.0,1,450,2540,13,1646
+91242,2025-07-15,Nimbus 8,personal,upgrade,small,direct debit,financed,29,88,8.9,2,900,1780,0,1444
+91243,2025-07-17,Lumo 4,personal,new number,large,card,financed,32,94,4.9,1,650,2210,4,1583
+91244,2025-07-19,Sola Neo,personal,new number,medium,bank transfer,financed,96,303,4.9,1,650,1430,4,1310
+91245,2025-07-20,Kestrel A2,personal,upgrade,large,card,financed,56,159,8.4,1,1800,1920,8,2696
+91246,2025-07-20,Pico Max,business,ported,medium,cash,financed,58,x,7.2,20,450,1600,2,1160
+91247,2025-07-21,Lumo 4,personal,new number,large,cash,financed,96,286,8.8,1,450,660,6,1383
+91248,2025-07-21,Vela Lite,personal,ported,small,cash,financed,64,192,4.2,1,900,3570,12,1452
+91249,2025-07-22,Vela Pro,personal,upgrade,extra large,direct debit,financed,31,86,11.3,2,450,6350,4,1731
+91250,2025-07-24,Terra 6,personal,new number,medium,direct debit,financed,61,185,7.5,1,650,2600,6,1330
+91251,2025-07-24,Vela Pro,personal,new number,large,card,financed,152,446,12.5,3,1200,1250,7,2106
+91252,2025-07-26,Lumo 4,personal,ported,medium,direct debit,financed,61,x,11.5,1,1800,1660,6,2414
+91253,2025-07-26,Kestrel A3,personal,new number,medium,direct debit,financed,65,187,5.2,4,1800,880,7,2544
+91254,2025-07-28,Vela Pro,personal,upgrade,medium,card,financed,55,162,14.0,1,1800,2830,7,2477
+91255,2025-07-29,Nimbus 9,personal,ported,small,cash,financed,27,x,8.5,2,1200,670,12,1614
+91256,2025-07-29,Kestrel A3,personal,ported,small,cash,own device,29,81,7.2,2,x,1080,10,490
+91257,2025-07-29,Nimbus 9,personal,new number,medium,direct debit,financed,98,x,9.2,3,450,920,5,x
+91258,2025-07-29,Nimbus 9,personal,upgrade,unlimited,direct debit,own device,64,177,9.9,2,x,2510,2,1484
+91259,2025-07-31,Aster 13,personal,ported,medium,card,financed,28,92,27.5,2,1800,910,1,2596
+91260,2025-07-31,Lumo 4,personal,new number,small,card,financed,40,115,6.2,1,650,3940,12,1227
+91261,2025-08-01,Kestrel A3,personal,new number,medium,direct debit,financed,33,105,3.4,4,1200,2970,7,1852
+91262,2025-08-02,Orbit S,personal,ported,large,card,financed,147,462,14.1,1,1800,1810,6,2682
+91263,2025-08-03,Lumo 4,personal,ported,extra large,cash,financed,148,443,4.1,1,1200,1090,11,2425
+91264,2025-08-04,Terra 6,personal,ported,unlimited,direct debit,financed,56,x,9.0,2,450,2760,4,1955
+91265,2025-08-05,Orbit S,personal,new number,unlimited,cash,financed,63,170,13.8,1,900,7880,3,2352
+91266,2025-08-05,Lumo 4,personal,upgrade,unlimited,x,financed,100,318,7.1,1,1200,2500,8,2563
+91267,2025-08-06,Lumo 4,business,new number,small,card,financed,148,436,6.5,34,1800,1220,5,2256
+91268,2025-08-08,Lumo 4,personal,ported,large,card,financed,149,453,11.0,3,900,1400,13,1767
+91269,2025-08-09,Nimbus 9,personal,new number,extra large,card,financed,152,452,4.4,1,1800,980,19,3061
+91270,2025-08-09,Kestrel A2,personal,new number,unlimited,card,financed,33,450,15.0,1,1200,2560,3,2611
+91271,2025-08-10,Vela Pro,personal,new number,medium,card,financed,62,186,2.7,1,1800,2130,4,2467
+91272,2025-08-11,Lumo 4,personal,ported,medium,x,financed,151,453,12.6,1,1800,3050,5,2499
+91273,2025-08-11,Vela Pro,personal,ported,medium,bank transfer,financed,39,x,2.6,2,1800,620,9,2574
+91274,2025-08-11,Kestrel A3,personal,ported,small,direct debit,financed,59,189,12.6,3,900,690,1,1350
+91275,2025-08-12,Lumo 4,personal,ported,extra large,direct debit,financed,100,x,14.4,2,450,980,4,1647
+91276,2025-08-13,Lumo 4,personal,ported,large,x,financed,35,104,2.3,1,900,1150,36,1773
+91277,2025-08-14,Sola Neo,personal,ported,large,direct debit,financed,148,433,9.8,2,450,2410,32,1394
+91278,2025-08-14,Flint One,personal,upgrade,extra large,card,financed,29,62,10.7,2,1200,2260,0,2409
+91279,2025-08-15,Lumo 4,personal,new number,large,card,financed,29,82,x,1,1800,1360,10,2693
+91280,2025-08-16,Corvo M2,personal,ported,medium,cash,financed,31,85,7.8,1,1200,1560,10,1823
+91281,2025-08-16,Kestrel A3,personal,ported,small,card,financed,57,x,9.9,2,1200,1830,4,1654
+91282,2025-08-16,Kestrel A3,personal,ported,large,card,financed,34,97,10.9,1,450,1420,3,1417
+91283,2025-08-18,Terra 6,personal,new number,large,card,financed,35,109,13.1,2,1800,820,19,2698
+91284,2025-08-19,Kestrel A3,personal,upgrade,extra large,direct debit,own device,27,83,13.1,4,x,2390,0,1283
+91285,2025-08-20,Nimbus 8,personal,new number,unlimited,direct debit,financed,29,79,9.9,1,450,2540,15,1981
+91286,2025-08-20,Lumo 4,personal,new number,medium,direct debit,financed,60,166,6.2,1,450,1610,12,1148
+91287,2025-08-22,Pico Max,personal,new number,extra large,direct debit,financed,60,192,2.7,1,1200,1510,19,2402
+91288,2025-08-22,Vela Pro,personal,ported,large,cash,financed,60,192,5.4,2,650,530,4,1573
+91289,2025-08-22,Sola Neo,personal,ported,medium,direct debit,financed,98,305,9.5,1,900,1500,0,1636
+91290,2025-08-23,Lumo 3,personal,upgrade,unlimited,card,own device,150,x,11.4,1,x,810,4,1527
+91291,2025-08-23,Kestrel A2,personal,upgrade,medium,direct debit,own device,58,172,6.6,2,x,2130,16,695
+91292,2025-08-24,Vela Pro,personal,ported,large,direct debit,financed,68,190,19.0,2,900,550,0,1819
+91293,2025-08-25,Terra 6,personal,new number,large,direct debit,financed,32,92,13.5,2,900,720,7,1828
+91294,2025-08-25,Lumo 4,personal,upgrade,medium,direct debit,financed,62,x,5.1,1,1200,570,0,1851
+91295,2025-08-28,Aster 13,personal,new number,medium,card,financed,31,440,10.4,3,1800,1010,18,2527
+91296,2025-08-29,Lumo 4,personal,new number,medium,direct debit,financed,62,179,9.1,2,650,1670,27,1380
+91297,2025-08-29,Lumo 4,business,new number,small,card,financed,98,294,8.6,10,450,1830,4,967
+91298,2025-08-29,Lumo 4,personal,upgrade,large,cash,financed,58,163,7.1,1,1200,1030,4,2073
+91299,2025-08-31,Orbit S,personal,ported,large,cash,financed,150,x,6.9,2,1200,1150,0,2075
+91300,2025-08-31,Pico Max,personal,new number,medium,direct debit,financed,36,112,4.2,1,1200,370,7,1864
+91301,2025-09-01,Pico X,personal,upgrade,large,card,financed,25,81,6.9,3,650,1120,0,1577
+91302,2025-09-02,Terra 6,personal,upgrade,small,bank transfer,financed,29,86,15.5,2,650,1260,16,1159
+91303,2025-09-02,Vela Pro,personal,upgrade,medium,cash,own device,34,109,16.0,3,x,3940,81,663
+91304,2025-09-02,Corvo M,personal,upgrade,small,card,own device,27,71,4.3,4,x,1230,16,543
+91305,2025-09-03,Lumo 4,personal,upgrade,unlimited,card,financed,59,194,4.1,2,450,400,4,1966
+91306,2025-09-04,Lumo 4,personal,new number,large,bank transfer,financed,99,306,6.1,4,450,520,8,1265
+91307,2025-09-04,Nimbus 8,personal,new number,medium,card,financed,57,169,5.6,1,1200,5810,11,1938
+91308,2025-09-04,Terra 5,business,new number,unlimited,bank transfer,financed,59,182,17.3,15,1200,780,7,2684
+91309,2025-09-05,Pico Max,personal,ported,unlimited,card,financed,100,x,6.8,3,650,2260,0,2142
+91310,2025-09-05,Lumo 5,personal,upgrade,medium,direct debit,financed,155,x,90.4,4,650,1470,38,1994
+91311,2025-09-05,Lumo 4,personal,ported,medium,card,financed,101,x,8.7,1,1800,2170,8,2546
+91312,2025-09-07,Nimbus 9,personal,new number,large,card,financed,148,451,6.9,1,1200,3530,4,2017
+91313,2025-09-09,Terra 6,personal,new number,large,x,financed,31,x,x,2,1800,5260,0,2727
+91314,2025-09-09,Lumo 3,personal,upgrade,large,direct debit,financed,147,426,11.6,3,1800,2600,9,2624
+91315,2025-09-10,Kestrel A4,personal,ported,medium,bank transfer,financed,96,292,89.6,1,650,1610,3,2119
+91316,2025-09-10,Lumo 4,personal,new number,medium,direct debit,own device,150,442,5.3,1,x,3020,0,702
+91317,2025-09-10,Lumo 3,personal,new number,medium,card,financed,66,195,5.2,4,900,1850,20,1673
+91318,2025-09-13,Aster 13,personal,ported,large,cash,financed,35,x,10.5,3,1200,850,13,2043
+91319,2025-09-14,Lumo 4,personal,ported,unlimited,cash,financed,102,293,7.3,3,1200,1130,19,2641
+91320,2025-09-14,Kestrel A2,personal,upgrade,large,direct debit,financed,101,304,6.7,2,450,1440,20,1323
+91321,2025-09-14,Nimbus 8,personal,ported,medium,card,financed,27,x,10.1,1,1800,1450,13,2552
+91322,2025-09-18,Lumo 4,personal,ported,unlimited,card,financed,29,x,8.4,1,450,2150,8,1976
+91323,2025-09-21,Orbit S,personal,ported,medium,card,financed,62,168,10.4,1,450,1440,7,1165
+91324,2025-09-24,Orbit S,personal,upgrade,unlimited,card,financed,59,172,8.6,1,1800,2050,8,3337
+91325,2025-09-24,Vela Lite,personal,ported,unlimited,cash,financed,56,x,17.1,2,1800,310,5,3301
+91326,2025-09-26,Lumo 3,personal,new number,small,card,financed,153,469,10.7,2,650,2770,5,1183
+91327,2025-09-27,Kestrel A4,personal,ported,large,bank transfer,financed,58,160,83.7,1,1200,2750,4,2709
+91328,2025-09-28,Lumo 4,personal,upgrade,unlimited,card,financed,100,297,5.8,1,450,290,3,1955
+91329,2025-09-30,Orbit S,personal,upgrade,large,card,financed,100,300,x,1,1200,1310,0,2136
+91330,2025-09-30,Lumo 4,personal,ported,medium,x,financed,102,320,5.4,2,1200,1220,7,1923
+91331,2025-10-02,Kestrel A2,personal,new number,medium,x,financed,71,216,x,1,1200,990,9,1902
+91332,2025-10-02,Nimbus 9,personal,ported,large,cash,financed,32,x,7.2,1,900,1650,2,1735
+91333,2025-10-02,Aster 13,personal,ported,large,direct debit,financed,33,x,5.6,1,1800,1880,0,2643
+91334,2025-10-03,Lumo 4,personal,upgrade,large,cash,financed,102,307,10.2,1,900,1410,13,1822
+91335,2025-10-05,Vela Pro,personal,ported,small,direct debit,financed,147,x,5.9,2,1800,960,3,2297
+91336,2025-10-07,Flint Two,personal,ported,large,bank transfer,financed,54,x,5.4,2,900,1490,6,1759
+91337,2025-10-10,Lumo 5,personal,upgrade,medium,direct debit,financed,148,458,92.5,2,650,2350,6,2048
+91338,2025-10-11,Aster 13,personal,ported,small,direct debit,financed,33,77,16.9,1,1200,860,9,1705
+91339,2025-10-11,Nimbus 9,personal,ported,small,card,financed,148,x,4.6,4,900,950,18,1408
+91340,2025-10-12,Orbit S,personal,upgrade,large,direct debit,financed,151,451,2.8,2,1800,1370,0,2718
+91341,2025-10-12,Terra 6,personal,ported,large,direct debit,financed,153,x,6.0,2,650,1030,23,1468
+91342,2025-10-13,Terra 6,personal,upgrade,extra large,card,financed,98,309,13.9,1,450,2880,11,1697
+91343,2025-10-15,Lumo 4,personal,ported,unlimited,cash,financed,61,177,6.5,4,1800,1300,0,3329
+91344,2025-10-16,Nimbus 8,personal,ported,medium,cash,own device,56,168,8.0,1,x,2610,5,716
+91345,2025-10-17,Lumo 4,personal,new number,medium,card,financed,97,275,3.4,3,1800,770,3,2499
+91346,2025-10-19,Terra 6,personal,upgrade,medium,cash,financed,61,165,10.9,1,900,1050,0,1602
+91347,2025-10-20,Kestrel A4,personal,ported,extra large,cash,financed,59,167,94.1,2,450,1230,50,2378
+91348,2025-10-24,Terra 6,personal,ported,small,x,financed,151,458,6.6,2,900,1800,21,1363
+91349,2025-10-25,Kestrel A2,personal,new number,unlimited,direct debit,financed,30,86,4.0,2,1200,650,6,2633
+91350,2025-10-25,Vela Lite,personal,ported,extra large,x,financed,101,315,7.7,1,1800,2430,1,3081
+91351,2025-10-26,Vela Lite,personal,ported,medium,bank transfer,own device,61,x,16.5,2,x,3030,5,x
+91352,2025-10-26,Lumo 4,personal,ported,large,card,financed,33,x,7.0,1,1800,330,6,2738
+91353,2025-10-26,Pico Max,personal,upgrade,small,direct debit,financed,28,x,9.2,1,1800,3200,6,2320
+91354,2025-10-26,Lumo 4,personal,new number,medium,direct debit,financed,57,179,3.4,1,900,700,21,1627
+91355,2025-10-27,Aster 13,personal,new number,medium,direct debit,financed,60,184,6.7,3,900,1130,75,1643
+91356,2025-10-28,Kestrel A3,personal,new number,small,cash,own device,31,103,8.4,2,x,1630,14,508
+91357,2025-10-29,Nimbus 8,personal,ported,small,cash,financed,103,x,7.1,2,450,2260,7,891
+91358,2025-10-29,Lumo 3,personal,new number,large,direct debit,financed,29,80,4.3,1,900,3360,0,1762
+91359,2025-10-31,Lumo 4,business,ported,medium,direct debit,financed,61,169,8.2,38,900,1480,2,1588
+91360,2025-11-01,Lumo 4,personal,new number,medium,direct debit,financed,55,164,10.4,1,1200,1690,0,1890
+91361,2025-11-01,Vela Pro,personal,new number,large,card,financed,147,441,6.1,1,900,570,11,1815
+91362,2025-11-02,Vela Lite,personal,ported,large,card,financed,61,184,12.3,2,450,2560,13,1285
+91363,2025-11-05,Terra 6,personal,upgrade,medium,direct debit,financed,61,166,4.1,2,450,1040,15,1145
+91364,2025-11-06,Lumo 4,personal,upgrade,large,cash,financed,105,303,7.7,1,1200,1970,0,2055
+91365,2025-11-06,Vela Lite,personal,upgrade,large,x,financed,62,200,x,1,900,810,7,1785
+91366,2025-11-07,Kestrel A3,personal,new number,small,cash,financed,148,448,10.4,1,450,770,13,974
+91367,2025-11-07,Lumo 5,personal,ported,small,cash,financed,28,x,78.2,3,650,1190,11,1704
+91368,2025-11-07,Terra 6,personal,upgrade,large,direct debit,financed,147,444,5.6,2,450,2590,49,1344
+91369,2025-11-08,Aster 12,personal,upgrade,large,card,own device,101,305,18.9,3,x,2740,29,850
+91370,2025-11-10,Lumo 4,personal,upgrade,small,direct debit,financed,63,188,4.5,1,650,1280,4,1172
+91371,2025-11-10,Lumo 4,personal,new number,large,card,financed,63,182,3.5,2,1200,1730,6,2142
+91372,2025-11-10,Kestrel A3,personal,new number,extra large,card,financed,100,x,7.0,1,900,2890,3,2076
+91373,2025-11-10,Vela Lite,personal,new number,medium,bank transfer,financed,56,157,16.6,2,900,650,6,1559
+91374,2025-11-11,Aster 13,personal,ported,medium,card,financed,101,294,8.0,1,1200,820,2,1883
+91375,2025-11-12,Lumo 4,personal,ported,large,direct debit,financed,100,301,5.7,1,900,800,10,1844
+91376,2025-11-12,Lumo 4,personal,upgrade,large,direct debit,financed,56,166,6.8,1,450,1570,4,1379
+91377,2025-11-14,Lumo 3,personal,ported,large,x,financed,28,80,9.3,1,900,790,17,1781
+91378,2025-11-16,Flint One,personal,new number,medium,card,financed,30,77,9.4,1,650,1700,27,x
+91379,2025-11-17,Lumo 4,personal,upgrade,medium,card,financed,103,309,3.3,1,650,1870,6,1348
+91380,2025-11-17,Orbit S,personal,upgrade,small,bank transfer,financed,30,x,17.8,1,650,670,0,1114
+91381,2025-11-17,Vela Lite,personal,ported,large,card,financed,61,x,14.0,3,450,2060,8,1292
+91382,2025-11-18,Orbit S,personal,ported,medium,bank transfer,financed,65,210,9.9,1,1200,1470,59,1824
+91383,2025-11-18,Flint One,personal,ported,large,cash,financed,149,x,5.0,2,450,1060,1,1392
+91384,2025-11-19,Aster 13,personal,new number,large,card,own device,59,176,12.8,2,x,2620,3,907
+91385,2025-11-19,Vela Pro,personal,new number,small,bank transfer,financed,101,302,3.9,2,1800,1210,12,2245
+91386,2025-11-19,Lumo 4,personal,upgrade,medium,direct debit,financed,29,82,10.2,1,1200,1960,13,1959
+91387,2025-11-20,Vela Pro,personal,new number,medium,cash,financed,62,x,5.7,1,1200,2600,13,2016
+91388,2025-11-20,Terra 6,personal,ported,large,direct debit,financed,152,x,x,1,900,3190,8,1811
+91389,2025-11-22,Lumo 4,personal,upgrade,medium,cash,financed,146,420,6.4,2,900,230,11,1620
+91390,2025-11-22,Pico X,personal,upgrade,medium,cash,own device,101,304,8.5,3,x,3140,12,721
+91391,2025-11-22,Corvo M2,personal,ported,small,direct debit,financed,59,x,7.7,2,1200,690,2,1742
+91392,2025-11-24,Lumo 4,personal,new number,large,cash,financed,60,175,12.7,1,1200,2290,5,2104
+91393,2025-11-24,Aster 13,personal,ported,unlimited,cash,financed,58,x,11.9,4,1800,900,0,3300
+91394,2025-11-25,Pico Max,personal,ported,unlimited,card,financed,32,x,3.3,2,1800,940,16,3263
+91395,2025-11-27,Kestrel A2,personal,upgrade,small,direct debit,own device,61,194,5.4,3,x,860,0,518
+91396,2025-11-27,Terra 5,personal,upgrade,extra large,direct debit,financed,101,278,9.2,2,650,1710,9,1832
+91397,2025-11-28,Lumo 4,personal,upgrade,medium,direct debit,financed,58,160,7.1,3,450,2520,5,1160
+91398,2025-11-28,Orbit S,personal,ported,medium,bank transfer,financed,104,x,2.9,2,450,1420,3,1149
+91399,2025-11-29,Nimbus 9,business,ported,large,cash,financed,104,306,21.7,38,900,1220,14,1788
+91400,2025-11-29,Lumo 4,personal,new number,medium,direct debit,own device,147,435,4.7,2,x,940,17,639
