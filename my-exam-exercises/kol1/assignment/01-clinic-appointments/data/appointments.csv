@@ -1,0 +1,1921 @@
+appointment_id,patient_id,appointment_date,department,booking_channel,priority,reminder,lead_days,patient_age,insurance,distance_km,prior_visits,prior_no_shows,waiting_minutes,no_show
+500001,10066,2025-07-01,ophthalmology,phone,low,none,24,35.0,public,2.9,3,1,10.0,no
+500002,10120,2025-07-01,cardiology,online,normal,call,36,53.0,public,6.5,1,0,?,yes
+500003,10249,2025-07-01,dermatology,phone,high,sms,5,52.0,private,9.2,1,0,21.0,no
+500004,10545,2025-07-01,orthopaedics,phone,normal,none,0,61.0,public,18.0,6,5,?,yes
+500005,10601,2025-07-01,paediatrics,online,low,sms,12,7.0,public,3.6,5,0,30.0,no
+500006,10050,2025-07-02,paediatrics,online,normal,sms,6,3.0,public,3.7,4,2,?,yes
+500007,10230,2025-07-02,paediatrics,online,normal,sms,12,11.0,private,9.2,3,0,2.0,no
+500008,10640,2025-07-02,dermatology,phone,normal,none,6,73.0,public,1.2,1,0,18.0,no
+500009,10954,2025-07-02,cardiology,phone,high,call,7,92.0,private,3.3,3,2,?,yes
+500010,10224,2025-07-03,cardiology,phone,normal,sms,25,60.0,public,7.6,1,0,?,yes
+500011,10934,2025-07-03,paediatrics,phone,high,none,1,14.0,public,1.8,6,3,20.0,no
+500012,10947,2025-07-03,cardiology,referral,normal,sms,11,53.0,public,1.8,7,2,?,yes
+500013,10058,2025-07-04,cardiology,referral,high,call,11,92.0,private,3.0,3,1,10.0,no
+500014,10263,2025-07-04,ophthalmology,phone,low,sms,3,63.0,private,?,2,0,6.0,no
+500015,10292,2025-07-04,ophthalmology,phone,low,sms,54,58.0,public,8.2,2,0,1.0,no
+500016,10682,2025-07-04,general practice,online,high,call,1,53.0,private,3.7,1,1,27.0,no
+500017,10076,2025-07-05,ophthalmology,phone,normal,sms,5,90.0,public,7.4,1,1,?,yes
+500018,10278,2025-07-06,dermatology,phone,low,call,2,43.0,public,2.1,2,0,?,yes
+500019,10616,2025-07-06,paediatrics,phone,low,sms,37,3.0,public,2.4,3,1,8.0,no
+500020,10028,2025-07-07,orthopaedics,online,low,sms,39,41.0,public,1.0,1,1,?,yes
+500021,10144,2025-07-07,general practice,phone,high,none,1,83.0,public,1.2,6,0,40.0,no
+500022,10350,2025-07-07,paediatrics,referral,low,sms,13,4.0,public,3.0,2,0,24.0,no
+500023,10512,2025-07-07,dermatology,phone,normal,sms,1,88.0,public,5.1,6,1,41.0,no
+500024,10629,2025-07-07,dermatology,referral,normal,sms,12,54.0,public,2.5,0,0,11.0,no
+500025,11063,2025-07-07,paediatrics,referral,normal,none,1,4.0,public,12.1,2,0,15.0,no
+500026,10087,2025-07-08,cardiology,referral,low,sms,21,59.0,public,11.4,4,1,13.0,no
+500027,10199,2025-07-08,paediatrics,phone,normal,sms,8,12.0,public,13.5,4,0,11.0,no
+500028,10230,2025-07-08,paediatrics,phone,normal,none,4,11.0,private,9.2,4,0,22.0,no
+500029,10725,2025-07-08,paediatrics,online,normal,none,7,12.0,public,10.8,3,0,24.0,no
+500030,10861,2025-07-08,gynaecology,phone,normal,sms,0,43.0,public,3.0,5,2,13.0,no
+500031,10166,2025-07-09,dermatology,phone,high,none,8,73.0,private,6.1,5,1,2.0,no
+500032,10663,2025-07-09,gynaecology,phone,low,sms,98,76.0,private,5.0,3,0,32.0,no
+500033,10711,2025-07-09,dermatology,phone,low,none,9,48.0,public,1.2,3,2,?,yes
+500034,10097,2025-07-10,ophthalmology,phone,normal,none,1,31.0,public,1.3,4,0,16.0,no
+500035,10466,2025-07-10,ophthalmology,phone,normal,sms,18,64.0,private,2.7,2,0,44.0,no
+500036,11080,2025-07-10,general practice,online,low,sms,11,44.0,public,3.8,1,0,23.0,no
+500037,11127,2025-07-10,paediatrics,phone,normal,sms,10,2.0,public,1.9,4,2,5.0,no
+500038,10039,2025-07-11,general practice,phone,low,sms,0,92.0,public,4.4,1,0,22.0,no
+500039,10079,2025-07-11,ophthalmology,phone,low,sms,149,92.0,public,3.8,5,0,10.0,no
+500040,10227,2025-07-11,ophthalmology,referral,low,sms,9,59.0,public,2.0,3,2,12.0,no
+500041,10289,2025-07-11,general practice,online,low,none,7,45.0,public,3.4,5,0,39.0,no
+500042,10367,2025-07-11,paediatrics,online,low,sms,5,7.0,public,8.8,4,0,17.0,no
+500043,10539,2025-07-11,dermatology,online,high,sms,5,53.0,public,5.9,2,1,6.0,no
+500044,10056,2025-07-12,ophthalmology,online,low,call,56,47.0,public,6.0,6,2,11.0,no
+500045,10649,2025-07-12,general practice,phone,normal,sms,1,69.0,public,0.9,3,0,14.0,no
+500046,10445,2025-07-13,general practice,phone,high,none,0,53.0,private,1.3,2,0,39.0,no
+500047,10654,2025-07-13,cardiology,referral,normal,call,27,43.0,private,2.7,2,1,?,yes
+500048,11126,2025-07-13,ophthalmology,referral,normal,sms,17,39.0,public,23.5,2,1,4.0,no
+500049,11143,2025-07-13,orthopaedics,phone,high,sms,3,58.0,public,3.0,1,0,?,yes
+500050,10403,2025-07-14,cardiology,online,high,sms,2,?,public,5.5,5,2,13.0,no
+500051,10588,2025-07-14,general practice,phone,normal,none,4,35.0,public,4.7,5,1,14.0,no
+500052,10764,2025-07-14,gynaecology,online,low,sms,13,37.0,private,9.9,7,0,24.0,no
+500053,10919,2025-07-14,cardiology,online,low,sms,50,42.0,public,3.3,2,1,?,yes
+500054,11114,2025-07-14,general practice,referral,normal,sms,3,50.0,public,6.4,3,2,15.0,no
+500055,10015,2025-07-15,paediatrics,phone,low,sms,4,12.0,public,3.2,3,0,21.0,no
+500056,10158,2025-07-15,paediatrics,phone,normal,sms,5,13.0,private,4.1,1,0,26.0,no
+500057,10357,2025-07-15,general practice,referral,low,none,11,92.0,public,2.1,4,2,17.0,no
+500058,10523,2025-07-15,general practice,online,low,sms,0,32.0,private,9.6,1,1,9.0,no
+500059,10769,2025-07-15,general practice,phone,normal,none,1,92.0,private,0.9,3,2,12.0,no
+500060,11137,2025-07-15,general practice,online,low,sms,7,58.0,public,10.5,2,1,18.0,no
+500061,10846,2025-07-16,cardiology,phone,high,sms,1,63.0,public,6.7,3,1,13.0,no
+500062,10966,2025-07-16,cardiology,phone,low,call,26,78.0,public,1.6,3,1,?,yes
+500063,11010,2025-07-16,cardiology,referral,high,none,0,71.0,public,2.5,6,0,22.0,no
+500064,10060,2025-07-17,dermatology,phone,low,none,8,84.0,public,9.8,4,0,2.0,no
+500065,10298,2025-07-17,orthopaedics,online,low,none,30,38.0,public,5.1,4,0,?,yes
+500066,10341,2025-07-17,cardiology,phone,high,sms,2,61.0,public,2.6,2,0,10.0,no
+500067,10896,2025-07-17,paediatrics,phone,low,call,13,13.0,public,6.3,1,0,25.0,no
+500068,11115,2025-07-17,cardiology,online,low,sms,41,37.0,public,6.1,2,0,3.0,no
+500069,10186,2025-07-18,cardiology,referral,low,sms,32,71.0,public,3.8,2,0,24.0,no
+500070,10395,2025-07-18,general practice,referral,low,none,2,71.0,private,6.6,2,1,20.0,no
+500071,10493,2025-07-18,cardiology,phone,normal,call,23,78.0,public,4.9,3,0,?,yes
+500072,10783,2025-07-18,ophthalmology,referral,low,none,33,85.0,private,3.7,5,1,?,yes
+500073,10808,2025-07-18,cardiology,phone,low,sms,2,89.0,public,3.8,5,0,24.0,no
+500074,10048,2025-07-19,orthopaedics,referral,low,none,24,68.0,public,5.4,3,2,?,yes
+500075,10730,2025-07-19,general practice,phone,normal,call,4,46.0,public,7.7,6,2,16.0,no
+500076,10831,2025-07-19,general practice,phone,high,sms,3,77.0,public,9.6,4,0,16.0,no
+500077,10935,2025-07-19,paediatrics,phone,normal,none,1,11.0,public,3.8,5,0,?,yes
+500078,11054,2025-07-19,general practice,referral,low,none,5,47.0,public,4.1,1,0,21.0,no
+500079,11061,2025-07-19,orthopaedics,online,low,sms,6,46.0,public,4.8,3,1,16.0,no
+500080,10222,2025-07-20,gynaecology,phone,low,none,12,43.0,public,3.9,4,1,?,yes
+500081,10252,2025-07-20,paediatrics,online,normal,call,2,9.0,public,3.1,5,2,12.0,no
+500082,10672,2025-07-20,orthopaedics,phone,normal,sms,1,25.0,public,2.9,2,1,30.0,no
+500083,10755,2025-07-20,gynaecology,phone,low,none,15,66.0,public,?,4,1,32.0,no
+500084,10982,2025-07-20,ophthalmology,phone,normal,none,10,54.0,public,8.1,3,2,?,yes
+500085,11034,2025-07-20,ophthalmology,phone,normal,call,20,49.0,public,4.9,7,5,?,yes
+500086,10182,2025-07-21,orthopaedics,phone,normal,sms,6,66.0,private,1.6,0,0,?,yes
+500087,10479,2025-07-21,cardiology,online,normal,none,17,49.0,public,0.8,2,0,31.0,no
+500088,10546,2025-07-21,general practice,online,normal,none,4,?,public,3.8,5,0,4.0,no
+500089,10956,2025-07-21,paediatrics,phone,normal,sms,12,11.0,public,1.8,2,0,33.0,no
+500090,10479,2025-07-22,dermatology,online,low,sms,11,49.0,public,0.8,3,0,17.0,no
+500091,10306,2025-07-23,general practice,online,low,sms,8,63.0,private,1.2,6,1,13.0,no
+500092,10711,2025-07-24,cardiology,referral,high,sms,2,48.0,public,1.2,4,3,12.0,no
+500093,10736,2025-07-25,paediatrics,phone,high,call,1,11.0,public,2.1,3,0,6.0,no
+500094,10904,2025-07-25,dermatology,referral,low,none,30,36.0,public,1.3,0,0,?,yes
+500095,11084,2025-07-25,paediatrics,referral,normal,none,6,12.0,private,12.0,1,0,32.0,no
+500096,10065,2025-07-26,general practice,online,normal,call,5,?,public,3.7,2,0,31.0,no
+500097,10075,2025-07-26,general practice,phone,normal,call,7,92.0,public,7.6,3,0,8.0,no
+500098,10849,2025-07-26,orthopaedics,referral,normal,none,16,92.0,public,8.5,6,2,17.0,no
+500099,10859,2025-07-26,general practice,phone,normal,none,3,75.0,public,3.5,1,0,30.0,no
+500100,11020,2025-07-26,orthopaedics,phone,normal,none,5,43.0,private,6.1,4,1,?,yes
+500101,11146,2025-07-26,orthopaedics,phone,high,call,4,92.0,public,6.1,3,1,21.0,no
+500102,10044,2025-07-27,dermatology,referral,normal,sms,4,68.0,private,5.0,4,1,11.0,no
+500103,10334,2025-07-27,dermatology,phone,normal,call,17,32.0,private,4.4,4,2,3.0,no
+500104,10546,2025-07-27,general practice,phone,low,none,13,54.0,public,3.8,6,0,31.0,no
+500105,10779,2025-07-27,ophthalmology,online,low,sms,19,26.0,public,?,1,0,?,yes
+500106,10173,2025-07-28,dermatology,referral,high,sms,3,64.0,public,4.0,0,0,?,yes
+500107,10232,2025-07-28,ophthalmology,referral,high,none,2,61.0,public,3.1,1,0,21.0,no
+500108,10298,2025-07-28,ophthalmology,online,normal,sms,28,38.0,public,5.1,5,1,38.0,no
+500109,10445,2025-07-28,ophthalmology,referral,high,none,6,53.0,private,1.3,3,0,12.0,no
+500110,10487,2025-07-28,cardiology,phone,normal,sms,22,92.0,private,1.0,3,0,?,yes
+500111,10675,2025-07-28,cardiology,phone,low,sms,20,79.0,public,6.0,1,0,?,yes
+500112,10691,2025-07-28,general practice,phone,low,sms,1,59.0,public,3.2,2,0,19.0,no
+500113,10719,2025-07-28,general practice,online,high,sms,0,42.0,public,1.0,7,3,24.0,no
+500114,10061,2025-07-29,general practice,referral,normal,sms,4,80.0,private,3.3,3,0,10.0,no
+500115,10208,2025-07-29,orthopaedics,referral,normal,call,22,62.0,public,8.8,2,0,?,yes
+500116,10282,2025-07-29,paediatrics,phone,low,sms,3,7.0,public,7.6,4,2,?,yes
+500117,10396,2025-07-29,orthopaedics,online,high,none,7,52.0,private,1.2,0,0,28.0,no
+500118,10553,2025-07-29,general practice,online,low,sms,7,62.0,private,5.8,4,0,14.0,no
+500119,10770,2025-07-29,general practice,referral,normal,sms,1,27.0,public,2.3,4,3,9.0,no
+500120,10348,2025-07-30,general practice,online,low,sms,5,69.0,public,4.7,0,0,13.0,no
+500121,10516,2025-07-30,ophthalmology,referral,normal,sms,4,49.0,public,5.3,2,0,31.0,no
+500122,10519,2025-07-30,paediatrics,online,low,sms,10,9.0,public,8.6,7,0,31.0,no
+500123,10921,2025-07-30,dermatology,phone,low,none,1,76.0,public,18.5,2,0,31.0,no
+500124,10088,2025-07-31,cardiology,phone,normal,none,4,55.0,public,1.5,5,2,50.0,no
+500125,10639,2025-07-31,general practice,online,normal,sms,1,26.0,public,12.6,5,0,22.0,no
+500126,10665,2025-07-31,dermatology,referral,low,none,18,82.0,public,3.0,3,0,?,yes
+500127,11095,2025-07-31,ophthalmology,phone,normal,none,0,70.0,public,9.9,4,1,7.0,no
+500128,11145,2025-07-31,ophthalmology,referral,low,none,8,40.0,public,1.4,4,1,42.0,no
+500129,10046,2025-08-01,orthopaedics,phone,low,sms,63,73.0,public,2.2,0,0,31.0,no
+500130,10123,2025-08-01,paediatrics,online,normal,none,7,6.0,private,?,2,1,6.0,no
+500131,10258,2025-08-01,general practice,phone,normal,call,3,43.0,public,?,2,0,14.0,no
+500132,10358,2025-08-01,gynaecology,phone,normal,sms,2,92.0,public,3.6,2,0,29.0,no
+500133,10405,2025-08-01,gynaecology,phone,normal,none,1,88.0,public,2.0,4,1,26.0,no
+500134,10633,2025-08-01,paediatrics,online,high,sms,0,11.0,private,5.8,3,2,13.0,no
+500135,10784,2025-08-01,gynaecology,online,low,none,32,56.0,private,2.0,4,0,15.0,no
+500136,10818,2025-08-01,general practice,phone,high,none,1,64.0,private,3.8,2,2,15.0,no
+500137,10928,2025-08-01,general practice,online,low,none,2,?,private,9.1,4,0,10.0,no
+500138,10012,2025-08-02,general practice,phone,normal,sms,2,92.0,public,4.3,1,0,23.0,no
+500139,10578,2025-08-02,gynaecology,online,low,call,60,37.0,public,1.3,1,0,?,yes
+500140,10228,2025-08-03,general practice,phone,low,sms,28,67.0,public,9.1,1,0,6.0,no
+500141,10253,2025-08-03,paediatrics,phone,normal,sms,4,6.0,private,4.4,3,1,23.0,no
+500142,10332,2025-08-03,ophthalmology,phone,normal,none,3,71.0,public,5.6,2,1,9.0,no
+500143,10375,2025-08-03,dermatology,phone,low,sms,25,32.0,public,2.5,3,1,8.0,no
+500144,10648,2025-08-03,cardiology,online,normal,sms,9,57.0,public,7.8,3,1,9.0,no
+500145,10975,2025-08-03,general practice,phone,low,call,7,69.0,public,11.5,2,0,17.0,no
+500146,11059,2025-08-03,cardiology,phone,high,none,1,67.0,private,6.8,6,3,6.0,no
+500147,10016,2025-08-04,paediatrics,phone,normal,none,13,5.0,public,3.4,4,0,14.0,no
+500148,10069,2025-08-04,ophthalmology,online,normal,none,6,35.0,public,4.6,3,1,18.0,no
+500149,10206,2025-08-04,general practice,phone,low,none,21,57.0,public,6.9,3,0,21.0,no
+500150,10924,2025-08-04,general practice,online,low,sms,3,61.0,public,7.0,0,0,?,yes
+500151,10140,2025-08-05,ophthalmology,referral,low,none,2,?,public,1.8,5,2,?,yes
+500152,10312,2025-08-05,general practice,online,normal,call,13,54.0,public,11.0,5,3,5.0,no
+500153,10769,2025-08-05,gynaecology,referral,normal,none,1,92.0,private,0.9,4,2,15.0,no
+500154,10893,2025-08-05,gynaecology,online,low,sms,5,?,public,14.2,1,0,30.0,no
+500155,10978,2025-08-05,general practice,phone,normal,none,1,47.0,public,1.0,0,0,4.0,no
+500156,11093,2025-08-05,general practice,phone,high,sms,1,71.0,public,6.4,1,0,51.0,no
+500157,10572,2025-08-06,orthopaedics,phone,normal,sms,37,21.0,private,14.3,1,0,?,yes
+500158,10670,2025-08-06,paediatrics,referral,normal,sms,5,11.0,public,16.5,5,1,22.0,no
+500159,10897,2025-08-06,ophthalmology,referral,low,none,5,92.0,public,9.1,2,0,20.0,no
+500160,10404,2025-08-07,general practice,referral,normal,sms,11,92.0,public,8.3,2,0,27.0,no
+500161,10712,2025-08-07,paediatrics,referral,low,none,3,12.0,private,?,1,1,26.0,no
+500162,10872,2025-08-07,paediatrics,phone,low,none,26,4.0,public,2.4,3,1,?,yes
+500163,10908,2025-08-07,dermatology,online,low,none,6,65.0,public,6.5,1,0,10.0,no
+500164,10942,2025-08-07,general practice,online,low,sms,9,40.0,public,8.3,5,0,1.0,no
+500165,11087,2025-08-07,paediatrics,phone,low,none,38,5.0,private,4.8,5,1,?,yes
+500166,10092,2025-08-08,cardiology,online,normal,call,16,92.0,private,6.3,3,0,15.0,no
+500167,10564,2025-08-08,paediatrics,phone,normal,none,7,10.0,public,6.2,3,0,44.0,no
+500168,10571,2025-08-09,general practice,phone,low,none,5,46.0,public,6.7,0,0,?,yes
+500169,10916,2025-08-09,general practice,phone,normal,call,5,69.0,private,2.0,2,1,29.0,no
+500170,11049,2025-08-09,ophthalmology,phone,normal,sms,25,84.0,public,1.3,5,0,46.0,no
+500171,11132,2025-08-09,orthopaedics,phone,normal,none,29,66.0,public,3.7,5,3,?,yes
+500172,10046,2025-08-10,general practice,referral,low,none,5,?,public,2.2,1,0,21.0,no
+500173,10239,2025-08-10,gynaecology,online,high,sms,13,43.0,public,2.6,3,0,11.0,no
+500174,10668,2025-08-10,ophthalmology,phone,low,none,2,82.0,public,2.2,4,2,15.0,no
+500175,10671,2025-08-10,orthopaedics,online,low,call,58,40.0,public,15.7,2,2,5.0,no
+500176,10035,2025-08-11,ophthalmology,phone,high,call,2,41.0,private,13.2,6,0,5.0,no
+500177,10058,2025-08-11,ophthalmology,referral,low,none,29,92.0,private,3.0,4,1,?,yes
+500178,10196,2025-08-11,dermatology,referral,low,call,14,50.0,public,3.8,3,0,15.0,no
+500179,10718,2025-08-11,general practice,online,low,none,10,34.0,public,8.3,6,0,18.0,no
+500180,10141,2025-08-12,paediatrics,online,normal,none,14,10.0,public,13.2,2,0,50.0,no
+500181,10567,2025-08-12,cardiology,online,high,call,0,37.0,public,14.9,3,2,17.0,no
+500182,10911,2025-08-12,dermatology,online,normal,none,11,34.0,public,1.2,4,0,25.0,no
+500183,10178,2025-08-13,gynaecology,referral,low,sms,11,81.0,public,1.5,0,0,41.0,no
+500184,10195,2025-08-13,orthopaedics,referral,normal,sms,22,92.0,public,1.3,4,1,9.0,no
+500185,10681,2025-08-13,cardiology,phone,normal,sms,31,39.0,public,3.9,4,1,1.0,no
+500186,10759,2025-08-13,paediatrics,phone,low,call,1,5.0,public,8.8,3,1,12.0,no
+500187,10983,2025-08-13,paediatrics,referral,high,none,3,10.0,public,0.8,2,2,2.0,no
+500188,11090,2025-08-13,orthopaedics,phone,normal,none,7,36.0,public,6.9,3,0,13.0,no
+500189,10001,2025-08-14,paediatrics,phone,low,call,13,5.0,public,3.0,1,1,10.0,no
+500190,10057,2025-08-15,paediatrics,phone,low,none,1,6.0,public,11.2,3,0,39.0,no
+500191,10642,2025-08-15,paediatrics,referral,normal,none,0,7.0,public,14.0,6,1,28.0,no
+500192,10051,2025-08-16,gynaecology,phone,low,call,2,72.0,private,4.3,2,1,16.0,no
+500193,10791,2025-08-16,orthopaedics,online,low,none,16,59.0,private,?,3,1,26.0,no
+500194,10875,2025-08-16,paediatrics,referral,normal,sms,5,1.0,public,2.1,1,0,40.0,no
+500195,10070,2025-08-17,general practice,referral,low,sms,1,60.0,public,6.5,2,1,9.0,no
+500196,10227,2025-08-17,ophthalmology,phone,low,sms,9,59.0,public,2.0,4,2,?,yes
+500197,10464,2025-08-17,dermatology,referral,normal,none,36,63.0,public,3.6,2,2,?,yes
+500198,10629,2025-08-17,ophthalmology,phone,high,none,2,54.0,public,2.5,1,0,19.0,no
+500199,10838,2025-08-17,paediatrics,online,low,call,12,13.0,public,2.2,3,0,19.0,no
+500200,10346,2025-08-18,ophthalmology,online,high,sms,1,?,public,8.2,4,1,9.0,no
+500201,10795,2025-08-18,ophthalmology,phone,low,none,16,61.0,private,6.2,1,1,63.0,no
+500202,10052,2025-08-19,general practice,online,normal,sms,1,?,public,4.9,5,0,?,yes
+500203,10551,2025-08-19,dermatology,phone,normal,none,3,36.0,public,1.0,1,1,24.0,no
+500204,10752,2025-08-19,general practice,referral,low,sms,17,66.0,public,5.2,4,0,32.0,no
+500205,10128,2025-08-20,paediatrics,online,normal,sms,11,9.0,private,3.7,2,0,5.0,no
+500206,10641,2025-08-20,cardiology,online,normal,sms,21,50.0,public,4.9,4,0,4.0,no
+500207,11011,2025-08-20,paediatrics,phone,low,none,8,3.0,private,14.3,3,1,?,yes
+500208,11097,2025-08-20,general practice,phone,normal,none,1,26.0,public,5.2,2,0,12.0,no
+500209,10570,2025-08-21,orthopaedics,phone,high,none,0,49.0,private,?,0,0,26.0,no
+500210,10723,2025-08-21,general practice,phone,normal,sms,5,92.0,public,5.8,4,2,47.0,no
+500211,10907,2025-08-21,cardiology,referral,low,sms,27,69.0,public,2.7,4,1,13.0,no
+500212,11053,2025-08-21,orthopaedics,referral,low,sms,7,44.0,private,7.7,7,2,29.0,no
+500213,10467,2025-08-22,ophthalmology,phone,normal,none,14,74.0,public,1.4,3,0,29.0,no
+500214,10547,2025-08-22,paediatrics,online,normal,none,10,?,public,12.6,4,3,?,yes
+500215,10574,2025-08-22,dermatology,phone,low,call,85,56.0,public,10.1,5,3,?,yes
+500216,10614,2025-08-22,gynaecology,phone,high,none,2,40.0,private,8.5,4,1,11.0,no
+500217,10637,2025-08-22,gynaecology,online,normal,call,16,92.0,private,4.9,1,0,15.0,no
+500218,10338,2025-08-23,dermatology,online,normal,sms,12,?,public,?,6,1,32.0,no
+500219,10342,2025-08-23,general practice,phone,normal,none,0,46.0,public,2.7,3,0,4.0,no
+500220,10561,2025-08-23,general practice,phone,normal,none,2,87.0,public,3.2,2,1,?,yes
+500221,10623,2025-08-23,orthopaedics,phone,normal,none,30,68.0,public,6.2,4,1,10.0,no
+500222,10944,2025-08-23,general practice,referral,low,none,7,49.0,public,8.2,5,2,32.0,no
+500223,11041,2025-08-24,ophthalmology,phone,normal,none,17,88.0,public,10.7,3,0,9.0,no
+500224,10088,2025-08-25,cardiology,phone,low,call,68,55.0,public,?,6,2,39.0,no
+500225,10095,2025-08-25,orthopaedics,phone,high,sms,1,65.0,public,21.6,5,0,10.0,no
+500226,10137,2025-08-25,orthopaedics,phone,high,none,3,42.0,public,5.5,5,3,?,yes
+500227,10298,2025-08-25,dermatology,online,normal,sms,12,38.0,public,5.1,6,1,18.0,no
+500228,10577,2025-08-25,dermatology,online,normal,none,2,86.0,public,3.5,1,0,38.0,no
+500229,10584,2025-08-25,gynaecology,online,high,sms,1,55.0,public,1.0,1,0,40.0,no
+500230,10596,2025-08-25,paediatrics,phone,high,none,6,2.0,public,2.3,1,0,8.0,no
+500231,10856,2025-08-25,gynaecology,phone,normal,none,14,58.0,public,4.8,1,0,8.0,no
+500232,10895,2025-08-25,general practice,phone,normal,call,4,82.0,public,14.5,2,0,6.0,no
+500233,10099,2025-08-27,cardiology,online,normal,none,76,56.0,private,5.1,1,0,13.0,no
+500234,10287,2025-08-27,dermatology,phone,normal,none,43,65.0,private,7.6,5,0,4.0,no
+500235,10539,2025-08-27,general practice,referral,normal,sms,4,53.0,public,5.9,3,1,?,yes
+500236,10871,2025-08-27,cardiology,online,normal,sms,11,76.0,private,10.4,2,1,?,yes
+500237,10946,2025-08-27,ophthalmology,phone,normal,none,0,77.0,public,7.2,5,1,?,yes
+500238,11067,2025-08-27,paediatrics,referral,low,none,5,7.0,private,1.8,5,0,?,yes
+500239,10265,2025-08-28,orthopaedics,phone,high,call,2,92.0,public,3.0,4,1,2.0,no
+500240,10380,2025-08-28,paediatrics,online,low,sms,17,2.0,public,15.3,2,0,17.0,no
+500241,10552,2025-08-28,general practice,phone,normal,sms,2,61.0,public,3.8,2,0,9.0,no
+500242,10884,2025-08-28,paediatrics,online,normal,sms,15,8.0,private,15.0,3,1,32.0,no
+500243,11003,2025-08-28,paediatrics,online,normal,sms,3,4.0,public,13.5,5,0,7.0,no
+500244,10013,2025-08-29,orthopaedics,online,low,sms,9,28.0,public,0.9,2,1,?,yes
+500245,10105,2025-08-29,gynaecology,referral,normal,none,10,92.0,private,0.6,2,0,34.0,no
+500246,10567,2025-08-29,ophthalmology,phone,low,call,16,37.0,public,14.9,4,2,?,yes
+500247,10793,2025-08-29,gynaecology,phone,low,none,53,33.0,public,2.2,0,0,8.0,no
+500248,10974,2025-08-29,ophthalmology,phone,normal,call,25,?,public,1.3,3,1,26.0,no
+500249,11116,2025-08-29,cardiology,online,low,call,110,59.0,public,2.1,3,0,9.0,no
+500250,11130,2025-08-29,dermatology,online,normal,sms,3,69.0,public,?,5,1,24.0,no
+500251,10116,2025-08-30,general practice,online,low,call,7,?,private,5.5,0,0,11.0,no
+500252,10446,2025-08-30,paediatrics,phone,high,sms,1,7.0,private,5.8,2,0,30.0,no
+500253,10510,2025-08-30,orthopaedics,phone,low,sms,9,51.0,public,3.3,3,0,61.0,no
+500254,10706,2025-08-30,general practice,online,low,sms,6,62.0,public,5.1,2,1,?,yes
+500255,10196,2025-08-31,dermatology,phone,low,sms,30,?,public,3.8,4,0,?,yes
+500256,10296,2025-08-31,gynaecology,online,low,sms,5,?,public,6.2,2,0,9.0,no
+500257,10436,2025-08-31,paediatrics,phone,low,none,7,13.0,private,4.5,2,1,?,yes
+500258,10636,2025-08-31,paediatrics,phone,low,none,11,1.0,public,?,6,0,26.0,no
+500259,10732,2025-08-31,general practice,phone,normal,call,3,34.0,public,7.7,2,1,25.0,no
+500260,10970,2025-08-31,paediatrics,referral,normal,sms,2,13.0,public,9.9,3,0,28.0,no
+500261,10979,2025-08-31,ophthalmology,phone,normal,sms,13,57.0,public,7.4,2,0,17.0,no
+500262,10340,2025-09-01,general practice,referral,low,none,12,79.0,public,8.0,6,4,?,yes
+500263,10524,2025-09-01,ophthalmology,phone,normal,none,19,76.0,private,1.8,3,1,?,yes
+500264,10747,2025-09-01,general practice,referral,normal,sms,0,34.0,public,3.8,6,0,20.0,no
+500265,10760,2025-09-01,ophthalmology,online,low,none,4,43.0,public,5.8,3,3,?,yes
+500266,10796,2025-09-01,ophthalmology,online,normal,call,22,41.0,public,5.7,3,0,27.0,no
+500267,10031,2025-09-02,orthopaedics,phone,low,none,8,34.0,public,2.0,7,0,11.0,no
+500268,10056,2025-09-02,dermatology,phone,low,none,16,47.0,public,6.0,7,2,20.0,no
+500269,10540,2025-09-02,paediatrics,referral,normal,call,11,3.0,public,2.9,2,0,21.0,no
+500270,10980,2025-09-02,orthopaedics,online,high,call,1,47.0,public,5.0,2,1,13.0,no
+500271,10382,2025-09-03,ophthalmology,online,high,sms,2,62.0,public,?,3,1,19.0,no
+500272,10661,2025-09-03,general practice,phone,low,none,5,81.0,public,0.5,4,1,52.0,no
+500273,10865,2025-09-03,orthopaedics,phone,normal,none,48,92.0,private,9.5,4,2,?,yes
+500274,10623,2025-09-04,cardiology,phone,low,none,19,68.0,public,6.2,5,1,8.0,no
+500275,11072,2025-09-04,general practice,phone,normal,call,11,36.0,public,5.1,3,0,17.0,no
+500276,10340,2025-09-05,general practice,phone,low,none,32,79.0,public,8.0,7,5,3.0,no
+500277,10463,2025-09-05,cardiology,phone,high,call,0,26.0,public,5.5,1,0,7.0,no
+500278,10025,2025-09-06,dermatology,online,low,sms,5,49.0,private,8.9,3,0,8.0,no
+500279,10161,2025-09-06,general practice,phone,normal,sms,31,88.0,public,6.7,3,0,36.0,no
+500280,10931,2025-09-06,ophthalmology,online,normal,sms,4,43.0,public,6.5,5,2,5.0,no
+500281,10006,2025-09-07,general practice,phone,low,call,2,82.0,private,6.5,1,0,18.0,no
+500282,10092,2025-09-07,ophthalmology,phone,high,none,11,92.0,private,6.3,4,0,41.0,no
+500283,10142,2025-09-07,orthopaedics,phone,low,none,4,36.0,private,6.7,1,1,20.0,no
+500284,10420,2025-09-07,dermatology,referral,low,none,12,70.0,public,2.7,2,0,32.0,no
+500285,10683,2025-09-07,general practice,phone,high,call,1,73.0,private,11.0,3,0,3.0,no
+500286,10010,2025-09-08,orthopaedics,phone,high,none,20,66.0,private,8.6,1,0,21.0,no
+500287,10528,2025-09-08,general practice,phone,normal,call,4,57.0,public,1.7,4,0,3.0,no
+500288,10705,2025-09-08,general practice,online,normal,sms,10,32.0,public,?,5,2,37.0,no
+500289,10922,2025-09-08,cardiology,online,low,sms,16,?,public,1.7,0,0,24.0,no
+500290,11074,2025-09-08,general practice,phone,low,call,10,51.0,public,2.9,4,0,7.0,no
+500291,10086,2025-09-09,paediatrics,phone,low,call,35,2.0,public,7.3,1,1,17.0,no
+500292,10396,2025-09-09,orthopaedics,online,normal,none,52,52.0,private,1.2,1,0,10.0,no
+500293,10452,2025-09-09,dermatology,online,low,none,57,64.0,public,2.4,3,1,16.0,no
+500294,10616,2025-09-09,paediatrics,referral,normal,none,0,3.0,public,2.4,4,1,19.0,no
+500295,10089,2025-09-10,dermatology,online,high,none,3,54.0,public,5.8,6,5,?,yes
+500296,10377,2025-09-10,ophthalmology,online,low,none,10,59.0,public,1.3,3,0,?,yes
+500297,10077,2025-09-11,paediatrics,referral,low,sms,20,12.0,private,5.1,2,1,21.0,no
+500298,10136,2025-09-11,dermatology,phone,low,none,17,92.0,public,6.2,2,0,30.0,no
+500299,10321,2025-09-11,orthopaedics,online,low,none,17,37.0,public,8.4,2,1,45.0,no
+500300,10396,2025-09-11,orthopaedics,phone,normal,none,14,52.0,private,1.2,2,0,17.0,no
+500301,10532,2025-09-11,cardiology,phone,normal,none,18,72.0,public,2.1,1,0,?,yes
+500302,10579,2025-09-11,dermatology,phone,low,call,19,49.0,public,13.7,3,0,21.0,no
+500303,10775,2025-09-12,orthopaedics,phone,low,none,4,60.0,public,3.3,0,0,25.0,no
+500304,11089,2025-09-12,gynaecology,online,high,sms,11,29.0,public,10.0,1,0,4.0,no
+500305,10221,2025-09-13,gynaecology,online,high,sms,1,?,public,9.1,2,0,9.0,no
+500306,10349,2025-09-13,paediatrics,online,high,call,0,?,public,2.8,5,2,34.0,no
+500307,10375,2025-09-13,gynaecology,referral,normal,call,4,32.0,public,2.5,4,1,39.0,no
+500308,10698,2025-09-13,cardiology,phone,normal,sms,3,67.0,public,4.0,3,0,?,yes
+500309,10985,2025-09-13,paediatrics,phone,low,none,16,3.0,public,1.2,3,0,25.0,no
+500310,11091,2025-09-13,ophthalmology,phone,high,call,3,89.0,public,2.5,5,1,10.0,no
+500311,10009,2025-09-14,general practice,phone,normal,sms,2,54.0,public,2.0,4,0,14.0,no
+500312,10148,2025-09-14,general practice,phone,high,call,1,90.0,public,2.7,4,0,5.0,no
+500313,10550,2025-09-14,dermatology,referral,low,sms,1,71.0,public,4.5,4,0,27.0,no
+500314,11046,2025-09-14,cardiology,online,normal,sms,1,28.0,public,10.4,0,0,27.0,no
+500315,10137,2025-09-15,dermatology,referral,normal,sms,26,42.0,public,5.5,6,4,6.0,no
+500316,10212,2025-09-15,general practice,referral,normal,none,1,?,public,10.0,2,1,32.0,no
+500317,10425,2025-09-15,gynaecology,online,normal,call,29,92.0,public,10.4,2,1,13.0,no
+500318,10501,2025-09-15,paediatrics,phone,low,call,7,3.0,private,4.8,6,1,17.0,no
+500319,10668,2025-09-15,general practice,phone,low,sms,2,82.0,public,2.2,5,2,?,yes
+500320,11016,2025-09-15,cardiology,phone,normal,none,23,38.0,public,8.9,5,0,30.0,no
+500321,10619,2025-09-16,paediatrics,referral,normal,sms,5,3.0,public,12.8,4,3,11.0,no
+500322,10704,2025-09-16,general practice,online,low,call,22,35.0,public,6.1,4,0,55.0,no
+500323,10711,2025-09-16,cardiology,online,high,call,2,48.0,public,1.2,5,3,25.0,no
+500324,10932,2025-09-16,general practice,referral,low,call,6,62.0,private,2.4,5,1,12.0,no
+500325,10344,2025-09-17,gynaecology,online,high,call,8,46.0,private,1.1,5,0,3.0,no
+500326,10421,2025-09-17,general practice,online,low,none,8,?,public,2.2,2,0,18.0,no
+500327,11118,2025-09-17,cardiology,phone,low,call,1,60.0,private,3.0,2,0,5.0,no
+500328,10350,2025-09-18,paediatrics,phone,normal,sms,6,4.0,public,3.0,3,0,19.0,no
+500329,10374,2025-09-18,general practice,referral,low,call,4,24.0,public,5.0,3,0,8.0,no
+500330,10705,2025-09-18,general practice,phone,low,none,6,32.0,public,7.1,6,2,4.0,no
+500331,10706,2025-09-18,gynaecology,phone,high,call,5,62.0,public,5.1,3,2,7.0,no
+500332,11094,2025-09-18,orthopaedics,phone,normal,sms,3,60.0,private,4.4,1,0,10.0,no
+500333,10010,2025-09-19,orthopaedics,phone,normal,sms,29,66.0,private,8.6,2,0,22.0,no
+500334,10175,2025-09-19,cardiology,phone,normal,sms,36,47.0,public,4.0,4,0,32.0,no
+500335,10500,2025-09-19,general practice,phone,low,sms,9,92.0,public,1.1,2,1,12.0,no
+500336,10606,2025-09-19,ophthalmology,online,low,sms,28,?,public,2.3,8,0,51.0,no
+500337,10810,2025-09-19,gynaecology,phone,low,none,14,29.0,private,16.7,1,0,58.0,no
+500338,10974,2025-09-19,dermatology,referral,low,none,15,55.0,public,1.3,4,1,56.0,no
+500339,11040,2025-09-19,dermatology,online,low,sms,34,?,public,2.2,2,1,10.0,no
+500340,11095,2025-09-19,cardiology,phone,low,call,35,70.0,public,9.9,5,1,?,yes
+500341,11110,2025-09-19,gynaecology,referral,normal,sms,29,92.0,public,9.2,1,0,?,yes
+500342,11111,2025-09-19,cardiology,referral,low,sms,18,92.0,public,3.4,2,0,17.0,no
+500343,10007,2025-09-20,general practice,phone,normal,none,3,71.0,private,0.8,4,2,9.0,no
+500344,10575,2025-09-20,dermatology,phone,high,none,5,92.0,public,5.1,3,2,11.0,no
+500345,11045,2025-09-20,general practice,online,normal,sms,4,40.0,public,3.2,0,0,?,yes
+500346,11089,2025-09-20,cardiology,phone,normal,none,7,29.0,public,10.0,2,0,9.0,no
+500347,11109,2025-09-20,general practice,online,normal,sms,3,49.0,public,2.4,4,0,15.0,no
+500348,10544,2025-09-21,paediatrics,online,low,sms,2,7.0,private,9.6,4,0,5.0,no
+500349,10753,2025-09-21,gynaecology,phone,normal,none,33,84.0,public,5.0,3,0,?,yes
+500350,10807,2025-09-21,general practice,online,low,sms,0,44.0,public,2.2,4,2,14.0,no
+500351,11138,2025-09-21,ophthalmology,phone,high,none,1,49.0,public,5.5,3,0,45.0,no
+500352,10019,2025-09-22,ophthalmology,phone,normal,call,26,54.0,public,5.5,1,1,43.0,no
+500353,10192,2025-09-22,general practice,online,low,sms,1,47.0,public,4.4,2,1,33.0,no
+500354,10527,2025-09-22,cardiology,phone,low,none,8,39.0,public,4.6,4,0,15.0,no
+500355,10555,2025-09-22,orthopaedics,referral,low,none,5,64.0,public,0.8,3,1,17.0,no
+500356,10892,2025-09-22,dermatology,referral,low,none,14,57.0,public,14.1,6,0,7.0,no
+500357,10146,2025-09-23,cardiology,online,low,none,60,?,public,11.2,3,1,9.0,no
+500358,10252,2025-09-23,paediatrics,phone,normal,sms,12,9.0,public,3.1,6,2,21.0,no
+500359,10591,2025-09-23,ophthalmology,phone,low,none,28,84.0,private,12.6,0,0,?,yes
+500360,10297,2025-09-24,gynaecology,online,high,none,2,39.0,public,2.9,0,0,6.0,no
+500361,10595,2025-09-24,paediatrics,online,low,sms,1,?,private,3.7,3,0,10.0,no
+500362,10735,2025-09-25,general practice,phone,normal,none,1,37.0,public,3.2,3,1,?,yes
+500363,11018,2025-09-25,orthopaedics,phone,low,call,17,80.0,public,?,4,1,13.0,no
+500364,10134,2025-09-26,general practice,online,low,none,3,82.0,public,2.7,4,1,?,yes
+500365,10496,2025-09-26,dermatology,phone,low,none,1,41.0,public,1.8,2,2,37.0,no
+500366,10576,2025-09-26,general practice,phone,normal,sms,2,81.0,public,4.4,4,2,35.0,no
+500367,10598,2025-09-26,general practice,phone,low,none,18,31.0,public,1.2,5,2,6.0,no
+500368,10377,2025-09-27,general practice,phone,normal,sms,2,59.0,public,1.3,4,1,?,yes
+500369,10536,2025-09-27,paediatrics,phone,low,sms,6,?,public,7.1,2,1,?,yes
+500370,10630,2025-09-27,ophthalmology,phone,high,sms,4,35.0,public,5.1,5,0,70.0,no
+500371,11119,2025-09-27,gynaecology,phone,low,sms,26,73.0,private,2.0,3,1,7.0,no
+500372,10081,2025-09-28,dermatology,phone,low,sms,23,53.0,public,5.3,0,0,?,yes
+500373,10646,2025-09-28,general practice,phone,high,call,0,59.0,public,3.0,0,0,26.0,no
+500374,10674,2025-09-28,cardiology,phone,normal,sms,18,88.0,public,5.5,4,0,?,yes
+500375,10798,2025-09-28,dermatology,online,high,call,3,53.0,public,14.1,3,0,12.0,no
+500376,10847,2025-09-28,gynaecology,phone,low,none,3,74.0,public,3.0,4,3,35.0,no
+500377,10198,2025-09-29,paediatrics,phone,normal,none,3,10.0,public,2.6,3,0,13.0,no
+500378,10310,2025-09-30,general practice,online,low,none,0,39.0,public,6.7,4,2,16.0,no
+500379,10327,2025-09-30,ophthalmology,phone,low,call,13,73.0,public,4.0,6,0,27.0,no
+500380,10677,2025-09-30,paediatrics,phone,high,none,1,12.0,private,11.2,2,1,10.0,no
+500381,10708,2025-09-30,general practice,phone,low,sms,14,37.0,public,5.9,4,1,68.0,no
+500382,10208,2025-10-01,dermatology,phone,low,none,18,62.0,public,8.8,3,1,24.0,no
+500383,10307,2025-10-01,gynaecology,referral,normal,call,12,51.0,public,2.8,1,0,14.0,no
+500384,10391,2025-10-01,cardiology,online,low,call,90,62.0,public,13.5,2,0,?,yes
+500385,10057,2025-10-02,paediatrics,online,normal,sms,11,6.0,public,11.2,4,0,13.0,no
+500386,10423,2025-10-02,general practice,phone,low,call,13,74.0,public,3.2,3,1,7.0,no
+500387,10491,2025-10-02,gynaecology,online,normal,sms,28,60.0,private,3.6,5,1,54.0,no
+500388,10677,2025-10-02,paediatrics,referral,low,none,9,12.0,private,11.2,3,1,35.0,no
+500389,10754,2025-10-02,general practice,online,normal,sms,7,?,public,3.8,1,0,17.0,no
+500390,10768,2025-10-02,ophthalmology,phone,high,none,3,21.0,private,3.8,1,0,?,yes
+500391,10981,2025-10-02,cardiology,online,low,sms,5,60.0,public,4.3,3,0,13.0,no
+500392,10105,2025-10-03,gynaecology,referral,low,sms,7,92.0,private,0.6,3,0,31.0,no
+500393,10559,2025-10-03,paediatrics,phone,low,sms,7,11.0,public,3.1,0,0,31.0,no
+500394,10564,2025-10-03,paediatrics,referral,high,sms,5,10.0,public,6.2,4,0,12.0,no
+500395,10635,2025-10-03,gynaecology,online,high,none,4,?,public,1.5,5,1,21.0,no
+500396,10320,2025-10-04,gynaecology,phone,high,none,10,68.0,public,6.9,3,0,22.0,no
+500397,10392,2025-10-04,gynaecology,referral,low,sms,10,92.0,public,9.6,1,1,27.0,no
+500398,10040,2025-10-05,general practice,phone,low,none,14,44.0,public,3.1,3,0,13.0,no
+500399,10313,2025-10-05,general practice,referral,low,sms,11,83.0,public,15.5,0,0,11.0,no
+500400,10797,2025-10-05,general practice,online,low,call,1,44.0,private,4.2,3,1,19.0,no
+500401,10448,2025-10-06,general practice,phone,low,sms,3,40.0,public,4.9,2,0,?,yes
+500402,10938,2025-10-06,general practice,phone,normal,call,1,43.0,public,2.7,4,3,9.0,no
+500403,10451,2025-10-07,paediatrics,phone,low,none,7,9.0,private,2.7,2,1,26.0,no
+500404,10494,2025-10-07,general practice,phone,low,sms,1,50.0,private,8.4,2,0,?,yes
+500405,10852,2025-10-07,paediatrics,phone,normal,none,1,5.0,public,6.3,3,1,74.0,no
+500406,10965,2025-10-07,general practice,online,high,none,0,31.0,private,3.2,1,1,17.0,no
+500407,10259,2025-10-08,paediatrics,phone,high,sms,1,9.0,public,1.3,2,0,15.0,no
+500408,10384,2025-10-08,gynaecology,online,low,none,10,?,public,3.0,0,0,61.0,no
+500409,10521,2025-10-08,paediatrics,phone,high,sms,2,11.0,public,3.1,2,0,37.0,no
+500410,10845,2025-10-08,general practice,phone,high,call,1,50.0,public,2.5,2,1,26.0,no
+500411,10091,2025-10-09,orthopaedics,phone,low,call,7,87.0,public,3.9,2,2,11.0,no
+500412,11005,2025-10-09,gynaecology,referral,normal,none,2,43.0,private,10.3,4,0,5.0,no
+500413,11122,2025-10-09,general practice,online,low,sms,6,66.0,public,2.7,3,2,61.0,no
+500414,10157,2025-10-10,dermatology,online,normal,sms,13,36.0,public,1.7,0,0,30.0,no
+500415,10930,2025-10-10,general practice,phone,low,call,10,41.0,public,?,4,0,37.0,no
+500416,10328,2025-10-11,dermatology,phone,normal,sms,11,67.0,private,2.2,2,1,36.0,no
+500417,10739,2025-10-11,general practice,phone,low,none,3,88.0,public,2.7,1,0,17.0,no
+500418,10163,2025-10-12,dermatology,phone,normal,none,23,70.0,public,4.7,1,1,15.0,no
+500419,10190,2025-10-12,paediatrics,online,high,sms,1,13.0,public,1.3,2,0,11.0,no
+500420,10736,2025-10-12,paediatrics,online,low,call,3,11.0,public,2.1,4,0,7.0,no
+500421,10903,2025-10-12,general practice,online,normal,call,0,62.0,private,7.6,4,0,4.0,no
+500422,10963,2025-10-12,orthopaedics,phone,low,none,1,53.0,public,7.0,0,0,?,yes
+500423,11107,2025-10-12,dermatology,phone,high,none,6,74.0,public,9.2,1,1,23.0,no
+500424,10462,2025-10-13,paediatrics,online,low,none,21,12.0,public,10.4,3,0,7.0,no
+500425,10594,2025-10-13,general practice,online,normal,sms,13,57.0,public,3.9,5,0,21.0,no
+500426,10695,2025-10-13,general practice,phone,normal,none,4,81.0,private,4.8,2,0,38.0,no
+500427,10770,2025-10-13,general practice,referral,low,none,0,27.0,public,2.3,5,3,12.0,no
+500428,10991,2025-10-13,dermatology,referral,low,none,24,68.0,public,3.7,2,1,?,yes
+500429,10237,2025-10-14,paediatrics,referral,low,sms,35,6.0,private,20.7,1,0,?,yes
+500430,10581,2025-10-14,paediatrics,phone,low,none,0,11.0,public,4.8,2,0,21.0,no
+500431,10340,2025-10-15,ophthalmology,phone,high,sms,0,79.0,public,8.0,8,5,8.0,no
+500432,10508,2025-10-15,ophthalmology,referral,normal,none,35,92.0,private,1.9,5,1,4.0,no
+500433,10360,2025-10-16,dermatology,phone,low,none,17,51.0,public,2.1,3,1,34.0,no
+500434,10658,2025-10-16,ophthalmology,phone,low,none,67,53.0,public,4.8,3,0,4.0,no
+500435,11065,2025-10-16,ophthalmology,online,high,none,0,46.0,public,1.1,2,0,19.0,no
+500436,11012,2025-10-17,orthopaedics,phone,high,sms,4,48.0,public,1.0,7,2,4.0,no
+500437,10829,2025-10-18,general practice,phone,normal,sms,0,92.0,public,6.8,3,0,18.0,no
+500438,10159,2025-10-19,gynaecology,online,low,sms,20,47.0,public,6.6,3,0,54.0,no
+500439,10728,2025-10-19,general practice,online,normal,sms,6,56.0,public,5.4,2,0,?,yes
+500440,10732,2025-10-19,ophthalmology,phone,low,sms,28,34.0,public,?,3,1,?,yes
+500441,10834,2025-10-20,general practice,phone,low,none,2,43.0,private,1.8,3,0,17.0,no
+500442,10027,2025-10-21,general practice,referral,high,sms,0,85.0,public,4.2,4,0,30.0,no
+500443,10210,2025-10-21,cardiology,online,normal,call,8,41.0,public,2.1,3,0,2.0,no
+500444,10692,2025-10-21,general practice,phone,low,sms,1,32.0,public,2.8,4,1,15.0,no
+500445,10999,2025-10-21,general practice,online,normal,sms,2,61.0,public,12.6,3,0,26.0,no
+500446,10053,2025-10-22,general practice,online,high,sms,0,92.0,public,1.7,5,3,13.0,no
+500447,10925,2025-10-22,general practice,online,low,sms,15,42.0,private,3.7,6,4,23.0,no
+500448,11022,2025-10-22,cardiology,online,low,none,40,43.0,private,3.0,1,0,52.0,no
+500449,11090,2025-10-22,general practice,online,low,none,15,36.0,public,6.9,4,0,11.0,no
+500450,10546,2025-10-23,ophthalmology,referral,high,none,7,54.0,public,3.8,7,0,15.0,no
+500451,10812,2025-10-23,general practice,phone,normal,sms,3,92.0,public,1.9,3,0,25.0,no
+500452,10033,2025-10-24,paediatrics,phone,low,none,6,9.0,public,5.4,3,0,22.0,no
+500453,10465,2025-10-24,paediatrics,online,normal,sms,3,3.0,public,29.8,3,2,?,yes
+500454,10522,2025-10-24,general practice,referral,high,call,0,39.0,public,1.9,3,0,35.0,no
+500455,10894,2025-10-24,general practice,phone,low,call,10,88.0,public,2.3,1,0,6.0,no
+500456,10669,2025-10-25,cardiology,phone,low,none,36,71.0,private,4.4,2,0,7.0,no
+500457,10876,2025-10-25,paediatrics,online,normal,sms,1,11.0,public,7.6,4,0,23.0,no
+500458,10866,2025-10-26,general practice,phone,low,sms,2,31.0,public,5.2,2,1,12.0,no
+500459,10922,2025-10-26,general practice,online,normal,none,6,44.0,public,1.7,1,0,27.0,no
+500460,11016,2025-10-26,general practice,phone,normal,call,13,38.0,public,8.9,6,0,30.0,no
+500461,11037,2025-10-26,cardiology,phone,high,none,2,92.0,public,1.8,3,0,?,yes
+500462,11098,2025-10-26,general practice,phone,low,none,11,42.0,public,4.6,3,0,7.0,no
+500463,11102,2025-10-26,general practice,phone,normal,sms,1,52.0,public,3.9,1,0,?,yes
+500464,10027,2025-10-27,general practice,phone,high,none,2,85.0,public,4.2,5,0,40.0,no
+500465,10028,2025-10-27,general practice,online,normal,none,1,41.0,public,1.0,2,2,?,yes
+500466,10100,2025-10-27,paediatrics,phone,low,sms,1,11.0,public,9.3,4,0,32.0,no
+500467,10202,2025-10-27,general practice,phone,high,sms,1,56.0,public,12.8,3,0,14.0,no
+500468,10491,2025-10-27,orthopaedics,phone,low,sms,11,60.0,private,3.6,6,1,2.0,no
+500469,10815,2025-10-27,general practice,online,normal,sms,15,53.0,private,2.6,4,2,18.0,no
+500470,10095,2025-10-28,cardiology,online,normal,none,7,65.0,public,21.6,6,0,24.0,no
+500471,10608,2025-10-28,dermatology,phone,normal,sms,33,38.0,public,7.5,5,1,?,yes
+500472,10954,2025-10-28,dermatology,phone,low,none,22,92.0,private,3.3,4,3,?,yes
+500473,10054,2025-10-29,gynaecology,phone,normal,sms,12,44.0,public,2.4,3,0,?,yes
+500474,10396,2025-10-29,dermatology,online,low,none,2,52.0,private,1.2,3,0,18.0,no
+500475,10463,2025-10-29,gynaecology,phone,high,none,8,26.0,public,5.5,2,0,?,yes
+500476,10529,2025-10-29,dermatology,referral,low,call,0,60.0,public,4.1,2,0,17.0,no
+500477,10742,2025-10-29,general practice,phone,normal,none,8,63.0,public,3.1,2,1,33.0,no
+500478,11030,2025-10-29,dermatology,referral,high,call,0,47.0,public,3.3,3,1,18.0,no
+500479,10198,2025-10-30,paediatrics,phone,normal,sms,2,10.0,public,?,4,0,?,yes
+500480,10632,2025-10-30,general practice,phone,low,sms,9,61.0,public,24.4,5,3,?,yes
+500481,10804,2025-10-30,dermatology,online,normal,none,7,59.0,public,19.5,2,1,?,yes
+500482,10886,2025-10-30,cardiology,phone,high,none,1,75.0,public,4.7,4,0,3.0,no
+500483,11147,2025-10-30,orthopaedics,phone,low,none,3,44.0,public,2.6,3,0,36.0,no
+500484,11101,2025-10-31,paediatrics,phone,low,sms,1,1.0,public,5.0,4,3,16.0,no
+500485,10499,2025-11-01,general practice,phone,normal,sms,3,54.0,public,4.5,5,2,16.0,no
+500486,10606,2025-11-01,orthopaedics,referral,high,none,2,52.0,public,2.3,9,0,24.0,no
+500487,10684,2025-11-01,dermatology,phone,low,call,2,78.0,public,2.5,4,1,12.0,no
+500488,10784,2025-11-01,cardiology,phone,low,none,10,56.0,private,2.0,5,0,11.0,no
+500489,10105,2025-11-02,cardiology,phone,high,none,10,92.0,private,0.6,4,0,10.0,no
+500490,10172,2025-11-02,orthopaedics,phone,low,call,55,65.0,public,2.5,0,0,13.0,no
+500491,10216,2025-11-02,ophthalmology,phone,normal,call,24,67.0,private,4.9,5,5,?,yes
+500492,10517,2025-11-02,ophthalmology,phone,low,none,30,33.0,private,6.2,3,0,25.0,no
+500493,10347,2025-11-03,paediatrics,online,low,none,14,8.0,public,4.5,2,2,?,yes
+500494,10508,2025-11-03,general practice,phone,high,none,6,92.0,private,1.9,6,1,22.0,no
+500495,10076,2025-11-04,general practice,phone,low,none,6,90.0,public,7.4,2,2,17.0,no
+500496,10339,2025-11-04,general practice,phone,low,call,1,38.0,public,1.5,2,0,8.0,no
+500497,10618,2025-11-04,dermatology,phone,low,none,0,70.0,public,0.8,2,0,18.0,no
+500498,10093,2025-11-05,orthopaedics,phone,low,sms,30,64.0,public,7.1,2,0,16.0,no
+500499,10203,2025-11-05,general practice,phone,low,none,1,92.0,public,18.0,4,0,?,yes
+500500,10773,2025-11-05,gynaecology,phone,high,none,1,92.0,public,4.2,8,0,20.0,no
+500501,10030,2025-11-06,gynaecology,referral,normal,none,3,74.0,public,13.3,3,0,15.0,no
+500502,10044,2025-11-06,orthopaedics,referral,low,sms,15,68.0,private,5.0,5,1,38.0,no
+500503,10081,2025-11-06,general practice,referral,low,call,2,53.0,public,5.3,1,1,13.0,no
+500504,11099,2025-11-06,orthopaedics,phone,low,none,9,66.0,public,1.3,3,1,15.0,no
+500505,10141,2025-11-07,paediatrics,online,normal,none,3,10.0,public,13.2,3,0,9.0,no
+500506,10752,2025-11-07,cardiology,referral,low,sms,35,66.0,public,5.2,5,0,39.0,no
+500507,10891,2025-11-07,general practice,phone,normal,none,0,38.0,private,9.4,4,0,2.0,no
+500508,11060,2025-11-07,cardiology,referral,low,sms,2,77.0,public,4.0,1,0,28.0,no
+500509,11068,2025-11-07,general practice,phone,low,none,4,76.0,private,1.4,1,0,25.0,no
+500510,11136,2025-11-07,dermatology,phone,normal,sms,19,75.0,private,1.7,2,1,26.0,no
+500511,10129,2025-11-08,gynaecology,phone,low,sms,45,92.0,public,1.6,2,1,45.0,no
+500512,10180,2025-11-08,general practice,phone,normal,none,3,52.0,private,2.8,5,2,?,yes
+500513,10293,2025-11-09,ophthalmology,phone,normal,none,1,36.0,public,7.0,0,0,26.0,no
+500514,10399,2025-11-09,general practice,referral,normal,none,5,61.0,public,1.0,3,1,13.0,no
+500515,10519,2025-11-09,paediatrics,phone,low,call,0,9.0,public,8.6,8,0,7.0,no
+500516,10589,2025-11-09,gynaecology,phone,normal,sms,11,57.0,public,5.1,1,0,8.0,no
+500517,10631,2025-11-09,general practice,online,high,sms,1,75.0,private,2.7,2,0,13.0,no
+500518,10775,2025-11-09,dermatology,phone,high,none,14,60.0,public,3.3,1,0,30.0,no
+500519,10278,2025-11-10,ophthalmology,referral,low,sms,108,43.0,public,2.1,3,1,?,yes
+500520,10326,2025-11-10,gynaecology,referral,low,call,60,56.0,public,4.5,2,0,24.0,no
+500521,10357,2025-11-10,gynaecology,phone,normal,none,24,92.0,public,2.1,5,2,18.0,no
+500522,10370,2025-11-10,ophthalmology,phone,normal,sms,2,31.0,private,5.3,5,0,18.0,no
+500523,10520,2025-11-10,general practice,referral,low,none,5,46.0,public,4.1,1,0,14.0,no
+500524,10740,2025-11-10,paediatrics,phone,normal,sms,2,13.0,public,6.8,3,0,4.0,no
+500525,10017,2025-11-11,ophthalmology,online,low,sms,28,69.0,public,2.8,1,0,7.0,no
+500526,10925,2025-11-11,gynaecology,online,low,sms,33,42.0,private,3.7,7,4,?,yes
+500527,10942,2025-11-11,orthopaedics,phone,normal,call,1,40.0,public,8.3,6,0,11.0,no
+500528,11123,2025-11-11,cardiology,phone,normal,call,1,91.0,public,3.7,6,0,70.0,no
+500529,11138,2025-11-11,cardiology,online,low,sms,1,49.0,public,5.5,4,0,20.0,no
+500530,10060,2025-11-12,general practice,referral,normal,sms,0,84.0,public,?,5,0,7.0,no
+500531,10294,2025-11-13,cardiology,phone,low,none,31,47.0,public,15.7,3,0,?,yes
+500532,10861,2025-11-13,general practice,phone,low,call,8,43.0,public,3.0,6,2,27.0,no
+500533,11144,2025-11-13,general practice,phone,low,call,2,38.0,public,5.0,4,1,25.0,no
+500534,10002,2025-11-14,gynaecology,referral,normal,none,22,84.0,public,2.5,4,0,23.0,no
+500535,10336,2025-11-14,dermatology,online,low,sms,62,53.0,public,3.7,3,0,37.0,no
+500536,10758,2025-11-14,ophthalmology,online,normal,call,1,50.0,public,4.6,3,1,24.0,no
+500537,10880,2025-11-14,cardiology,online,normal,none,7,64.0,public,3.4,2,0,36.0,no
+500538,10180,2025-11-15,orthopaedics,online,low,sms,47,52.0,private,2.8,6,3,?,yes
+500539,10220,2025-11-15,dermatology,phone,low,call,1,47.0,public,10.3,2,1,23.0,no
+500540,10597,2025-11-15,ophthalmology,referral,normal,none,6,65.0,private,?,4,0,?,yes
+500541,10915,2025-11-15,ophthalmology,phone,low,sms,20,40.0,public,3.7,2,0,25.0,no
+500542,10025,2025-11-16,cardiology,online,high,sms,4,49.0,private,8.9,4,0,40.0,no
+500543,10823,2025-11-16,cardiology,online,low,none,33,50.0,public,3.8,5,1,45.0,no
+500544,10865,2025-11-16,gynaecology,referral,low,call,63,92.0,private,9.5,5,3,27.0,no
+500545,10327,2025-11-17,orthopaedics,phone,normal,none,13,73.0,public,4.0,7,0,5.0,no
+500546,10429,2025-11-17,general practice,online,low,sms,8,42.0,private,6.6,9,4,16.0,no
+500547,10667,2025-11-17,paediatrics,phone,low,sms,2,?,public,3.0,0,0,32.0,no
+500548,10814,2025-11-17,general practice,online,low,sms,11,42.0,public,7.7,2,0,12.0,no
+500549,10882,2025-11-17,cardiology,online,low,sms,23,66.0,public,?,4,0,?,yes
+500550,10084,2025-11-18,general practice,phone,low,none,46,54.0,public,15.1,0,0,?,yes
+500551,10347,2025-11-18,paediatrics,referral,low,call,8,8.0,public,4.5,3,3,25.0,no
+500552,10444,2025-11-18,orthopaedics,online,normal,sms,26,35.0,public,?,1,1,30.0,no
+500553,10073,2025-11-19,paediatrics,online,normal,call,3,13.0,public,3.9,2,1,23.0,no
+500554,10337,2025-11-19,ophthalmology,phone,normal,sms,18,?,public,2.0,4,1,61.0,no
+500555,10488,2025-11-19,general practice,phone,high,sms,1,69.0,public,4.0,4,0,24.0,no
+500556,10490,2025-11-19,gynaecology,phone,low,sms,18,54.0,public,5.1,1,1,?,yes
+500557,10852,2025-11-19,paediatrics,online,low,sms,19,5.0,public,6.3,4,1,?,yes
+500558,10992,2025-11-19,general practice,phone,low,sms,18,66.0,public,1.3,6,0,5.0,no
+500559,10069,2025-11-20,general practice,phone,high,none,1,35.0,public,4.6,4,1,22.0,no
+500560,10131,2025-11-20,gynaecology,online,normal,sms,15,27.0,public,2.2,2,0,40.0,no
+500561,10324,2025-11-20,dermatology,online,normal,sms,3,62.0,public,10.0,4,1,?,yes
+500562,10502,2025-11-20,ophthalmology,referral,normal,call,8,38.0,public,2.6,1,0,15.0,no
+500563,10899,2025-11-20,orthopaedics,online,high,none,3,86.0,public,3.0,3,0,27.0,no
+500564,10032,2025-11-21,general practice,referral,normal,none,9,64.0,public,13.6,4,2,?,yes
+500565,10108,2025-11-21,general practice,phone,low,call,7,70.0,public,2.0,3,0,57.0,no
+500566,10333,2025-11-21,gynaecology,phone,low,sms,82,44.0,public,0.9,5,2,?,yes
+500567,10340,2025-11-21,dermatology,phone,normal,call,4,79.0,public,?,9,5,36.0,no
+500568,10762,2025-11-21,dermatology,phone,low,none,35,58.0,private,6.0,1,0,21.0,no
+500569,10898,2025-11-21,general practice,online,high,sms,2,92.0,private,1.5,2,0,38.0,no
+500570,10195,2025-11-22,dermatology,phone,low,none,11,92.0,public,1.3,5,1,7.0,no
+500571,10251,2025-11-22,cardiology,online,normal,none,4,?,public,2.7,5,1,11.0,no
+500572,10351,2025-11-22,general practice,phone,normal,none,1,71.0,public,2.9,4,0,31.0,no
+500573,10363,2025-11-22,dermatology,phone,normal,sms,4,62.0,public,4.0,1,0,4.0,no
+500574,10373,2025-11-22,ophthalmology,phone,low,none,5,38.0,public,2.6,4,1,19.0,no
+500575,10388,2025-11-22,general practice,online,low,sms,3,34.0,public,18.3,1,0,40.0,no
+500576,10427,2025-11-22,general practice,phone,low,sms,18,81.0,public,9.1,0,0,?,yes
+500577,10678,2025-11-22,ophthalmology,referral,normal,sms,1,81.0,public,1.0,1,0,?,yes
+500578,10827,2025-11-22,dermatology,referral,normal,none,43,66.0,public,?,3,1,?,yes
+500579,10957,2025-11-22,general practice,referral,normal,call,0,74.0,public,9.8,1,1,?,yes
+500580,10082,2025-11-23,general practice,online,high,sms,0,45.0,public,3.4,3,3,15.0,no
+500581,10326,2025-11-23,ophthalmology,phone,low,call,9,56.0,public,4.5,3,0,88.0,no
+500582,10402,2025-11-23,ophthalmology,phone,normal,sms,10,89.0,private,2.5,2,1,33.0,no
+500583,10419,2025-11-23,general practice,online,high,call,1,92.0,public,5.9,0,0,35.0,no
+500584,10424,2025-11-23,general practice,online,low,sms,0,?,public,4.6,6,0,23.0,no
+500585,10440,2025-11-23,general practice,phone,low,none,4,57.0,public,5.8,2,0,9.0,no
+500586,10538,2025-11-23,cardiology,phone,low,sms,13,48.0,private,5.2,1,0,10.0,no
+500587,10682,2025-11-23,gynaecology,referral,normal,none,10,53.0,private,3.7,2,1,?,yes
+500588,10729,2025-11-23,general practice,phone,low,sms,2,58.0,public,1.9,5,1,40.0,no
+500589,11055,2025-11-23,general practice,phone,normal,sms,1,?,public,8.4,1,1,?,yes
+500590,10047,2025-11-24,general practice,phone,normal,sms,3,83.0,public,2.0,1,1,48.0,no
+500591,10261,2025-11-24,general practice,phone,low,call,0,92.0,public,1.9,1,0,18.0,no
+500592,10604,2025-11-24,paediatrics,phone,normal,none,1,12.0,private,11.1,1,0,22.0,no
+500593,10615,2025-11-24,general practice,phone,normal,sms,17,92.0,public,2.2,6,0,11.0,no
+500594,10634,2025-11-24,general practice,phone,low,call,3,76.0,public,7.4,3,2,?,yes
+500595,10687,2025-11-24,cardiology,referral,normal,call,31,69.0,private,20.5,1,0,49.0,no
+500596,10730,2025-11-24,orthopaedics,online,normal,call,6,46.0,public,7.7,7,2,5.0,no
+500597,10790,2025-11-24,ophthalmology,online,low,sms,18,41.0,public,3.2,3,1,38.0,no
+500598,10116,2025-11-25,gynaecology,referral,normal,sms,18,65.0,private,5.5,1,0,44.0,no
+500599,10339,2025-11-25,orthopaedics,phone,low,none,2,38.0,public,1.5,3,0,22.0,no
+500600,10806,2025-11-25,ophthalmology,online,normal,sms,2,29.0,public,5.7,2,1,20.0,no
+500601,11121,2025-11-25,general practice,phone,low,call,4,43.0,public,?,2,0,28.0,no
+500602,10290,2025-11-26,ophthalmology,phone,low,none,27,85.0,public,1.3,1,1,?,yes
+500603,10522,2025-11-26,general practice,phone,normal,sms,8,39.0,public,1.9,4,0,23.0,no
+500604,10023,2025-11-27,general practice,phone,low,call,0,38.0,public,12.1,3,0,26.0,no
+500605,10151,2025-11-27,general practice,phone,normal,none,16,59.0,private,6.4,1,1,11.0,no
+500606,10152,2025-11-27,ophthalmology,phone,low,sms,7,76.0,public,11.8,5,0,10.0,no
+500607,10385,2025-11-27,general practice,phone,low,none,2,92.0,public,4.8,1,0,?,yes
+500608,10676,2025-11-27,orthopaedics,referral,normal,call,26,92.0,public,3.8,4,1,20.0,no
+500609,10873,2025-11-27,general practice,referral,normal,none,2,90.0,public,2.3,0,0,?,yes
+500610,11118,2025-11-27,orthopaedics,phone,high,none,3,60.0,private,3.0,3,0,27.0,no
+500611,10744,2025-11-28,ophthalmology,phone,normal,call,34,83.0,public,3.6,3,1,41.0,no
+500612,10170,2025-11-29,general practice,referral,low,none,1,92.0,public,1.6,2,0,34.0,no
+500613,10309,2025-11-29,gynaecology,referral,normal,sms,18,82.0,public,9.7,4,0,38.0,no
+500614,10554,2025-11-29,general practice,referral,normal,none,6,69.0,public,2.8,2,0,3.0,no
+500615,10801,2025-11-29,general practice,phone,low,call,1,92.0,public,4.4,3,0,30.0,no
+500616,10818,2025-11-29,general practice,online,low,sms,2,64.0,private,3.8,3,2,9.0,no
+500617,10860,2025-11-29,general practice,phone,normal,sms,9,81.0,private,?,1,0,57.0,no
+500618,11141,2025-11-29,orthopaedics,phone,low,none,32,58.0,public,12.9,5,1,25.0,no
+500619,10546,2025-11-30,ophthalmology,phone,low,call,7,54.0,public,3.8,8,0,25.0,no
+500620,10548,2025-11-30,paediatrics,phone,normal,call,6,8.0,public,?,2,0,8.0,no
+500621,10828,2025-11-30,cardiology,phone,normal,sms,4,52.0,private,3.4,1,0,26.0,no
+500622,10097,2025-12-01,ophthalmology,phone,high,sms,1,31.0,public,1.3,5,0,46.0,no
+500623,10435,2025-12-01,orthopaedics,phone,low,none,45,87.0,public,3.5,2,0,?,yes
+500624,10853,2025-12-01,general practice,phone,low,none,7,51.0,public,2.4,3,2,?,yes
+500625,10214,2025-12-02,gynaecology,referral,normal,none,25,55.0,public,1.1,2,0,14.0,no
+500626,10719,2025-12-02,dermatology,referral,low,call,33,42.0,public,1.0,8,3,19.0,no
+500627,10745,2025-12-02,orthopaedics,phone,normal,none,4,?,public,3.4,1,0,?,yes
+500628,10874,2025-12-02,dermatology,online,low,call,5,45.0,public,5.8,3,2,32.0,no
+500629,10345,2025-12-03,cardiology,online,normal,sms,32,40.0,private,9.3,3,1,7.0,no
+500630,10671,2025-12-03,orthopaedics,phone,normal,sms,15,40.0,public,15.7,3,2,?,yes
+500631,10794,2025-12-03,gynaecology,online,normal,call,14,92.0,public,1.9,6,2,7.0,no
+500632,11019,2025-12-03,paediatrics,phone,low,none,7,10.0,public,?,3,0,44.0,no
+500633,10401,2025-12-04,general practice,phone,normal,none,5,36.0,public,3.0,2,0,28.0,no
+500634,10476,2025-12-04,orthopaedics,phone,normal,sms,9,62.0,private,1.4,1,0,13.0,no
+500635,10084,2025-12-05,orthopaedics,referral,low,sms,36,54.0,public,15.1,1,1,?,yes
+500636,10498,2025-12-05,paediatrics,phone,low,call,22,12.0,public,4.3,2,0,24.0,no
+500637,10644,2025-12-05,ophthalmology,phone,low,sms,15,48.0,public,6.5,3,0,?,yes
+500638,10993,2025-12-05,general practice,phone,low,none,8,28.0,private,27.2,3,0,16.0,no
+500639,10015,2025-12-06,paediatrics,referral,low,none,10,12.0,public,3.2,4,0,5.0,no
+500640,10457,2025-12-06,orthopaedics,phone,low,sms,1,32.0,public,?,4,1,26.0,no
+500641,10523,2025-12-06,dermatology,phone,normal,call,31,32.0,private,9.6,2,1,22.0,no
+500642,10632,2025-12-06,general practice,phone,low,call,21,61.0,public,24.4,6,4,?,yes
+500643,11087,2025-12-06,paediatrics,online,low,call,4,5.0,private,4.8,6,2,17.0,no
+500644,10417,2025-12-07,orthopaedics,online,normal,sms,14,63.0,public,12.3,2,2,10.0,no
+500645,10777,2025-12-07,paediatrics,phone,low,none,6,3.0,public,1.7,4,0,?,yes
+500646,10832,2025-12-07,general practice,phone,low,none,6,45.0,public,?,6,0,4.0,no
+500647,10438,2025-12-08,general practice,phone,low,sms,2,52.0,public,1.9,3,1,29.0,no
+500648,10545,2025-12-08,ophthalmology,referral,high,none,2,61.0,public,18.0,7,6,?,yes
+500649,10693,2025-12-08,general practice,phone,low,call,1,92.0,public,2.0,3,0,35.0,no
+500650,11004,2025-12-08,orthopaedics,phone,low,sms,2,?,public,11.5,0,0,16.0,no
+500651,10952,2025-12-09,orthopaedics,phone,low,sms,7,78.0,public,4.1,3,0,33.0,no
+500652,11047,2025-12-09,orthopaedics,online,low,sms,26,47.0,public,1.6,5,1,16.0,no
+500653,10004,2025-12-10,gynaecology,referral,low,call,47,58.0,private,3.2,2,2,11.0,no
+500654,10064,2025-12-10,paediatrics,online,high,none,1,12.0,public,5.7,3,0,18.0,no
+500655,10752,2025-12-10,gynaecology,online,low,sms,17,66.0,public,5.2,6,0,?,yes
+500656,10895,2025-12-10,general practice,phone,normal,none,4,82.0,public,14.5,3,0,15.0,no
+500657,10008,2025-12-12,cardiology,phone,low,none,11,46.0,public,6.1,6,0,52.0,no
+500658,10083,2025-12-12,gynaecology,referral,normal,sms,26,35.0,public,13.7,1,0,3.0,no
+500659,10158,2025-12-12,paediatrics,online,low,call,5,13.0,private,4.1,2,0,8.0,no
+500660,10276,2025-12-12,dermatology,phone,low,none,6,39.0,public,2.5,5,1,?,yes
+500661,10318,2025-12-12,paediatrics,phone,normal,call,7,6.0,public,6.1,4,0,5.0,no
+500662,10413,2025-12-12,general practice,phone,high,sms,4,55.0,private,2.3,3,1,22.0,no
+500663,10576,2025-12-12,general practice,referral,low,call,2,81.0,public,4.4,5,2,9.0,no
+500664,10115,2025-12-13,orthopaedics,referral,high,call,10,38.0,public,1.5,5,1,7.0,no
+500665,10329,2025-12-13,paediatrics,online,low,none,5,?,public,?,6,2,9.0,no
+500666,10527,2025-12-13,dermatology,online,normal,none,4,39.0,public,4.6,5,0,?,yes
+500667,10957,2025-12-13,cardiology,phone,normal,none,3,74.0,public,9.8,2,2,36.0,no
+500668,11126,2025-12-13,cardiology,phone,normal,none,18,39.0,public,23.5,3,1,?,yes
+500669,10121,2025-12-14,paediatrics,phone,low,sms,13,10.0,public,2.5,0,0,52.0,no
+500670,10169,2025-12-14,dermatology,online,normal,sms,6,45.0,public,4.7,1,1,?,yes
+500671,10209,2025-12-14,paediatrics,phone,normal,sms,9,11.0,public,3.2,2,0,20.0,no
+500672,10430,2025-12-14,cardiology,phone,high,none,1,69.0,public,1.8,2,0,22.0,no
+500673,10816,2025-12-14,ophthalmology,referral,low,none,19,50.0,public,3.7,1,0,28.0,no
+500674,10883,2025-12-14,dermatology,phone,normal,sms,40,80.0,private,7.1,3,1,2.0,no
+500675,10994,2025-12-14,general practice,phone,low,sms,1,41.0,public,2.9,3,0,21.0,no
+500676,11128,2025-12-14,paediatrics,referral,low,none,23,2.0,public,3.6,3,0,?,yes
+500677,10010,2025-12-15,cardiology,online,low,sms,42,66.0,private,8.6,3,0,9.0,no
+500678,10231,2025-12-15,orthopaedics,referral,normal,sms,1,25.0,public,11.2,1,1,10.0,no
+500679,10016,2025-12-16,paediatrics,phone,normal,call,3,5.0,public,3.4,5,0,21.0,no
+500680,10548,2025-12-16,paediatrics,phone,normal,none,0,8.0,public,0.6,3,0,13.0,no
+500681,10680,2025-12-16,general practice,referral,low,sms,0,41.0,public,0.6,0,0,45.0,no
+500682,10844,2025-12-16,dermatology,online,normal,sms,1,46.0,private,?,1,0,10.0,no
+500683,10026,2025-12-17,cardiology,referral,low,sms,61,52.0,public,1.7,8,1,10.0,no
+500684,10187,2025-12-17,general practice,referral,low,none,26,92.0,public,3.6,5,0,8.0,no
+500685,10371,2025-12-17,gynaecology,referral,low,sms,1,92.0,private,5.3,2,0,10.0,no
+500686,10507,2025-12-17,orthopaedics,referral,normal,call,30,70.0,private,1.8,6,0,21.0,no
+500687,11096,2025-12-17,orthopaedics,phone,low,call,17,35.0,public,3.8,4,0,29.0,no
+500688,10074,2025-12-18,general practice,phone,normal,call,4,73.0,private,2.7,2,1,24.0,no
+500689,10100,2025-12-18,paediatrics,phone,high,sms,2,11.0,public,9.3,5,0,18.0,no
+500690,10449,2025-12-18,general practice,phone,low,sms,6,44.0,public,?,6,2,19.0,no
+500691,10599,2025-12-18,ophthalmology,online,normal,sms,11,30.0,public,3.0,3,0,12.0,no
+500692,10845,2025-12-18,ophthalmology,phone,normal,call,2,50.0,public,2.5,3,1,?,yes
+500693,10400,2025-12-19,cardiology,phone,normal,none,20,54.0,public,3.2,0,0,39.0,no
+500694,10659,2025-12-19,cardiology,online,low,none,35,44.0,private,6.4,2,0,7.0,no
+500695,11104,2025-12-19,general practice,phone,normal,sms,4,35.0,private,1.7,2,1,18.0,no
+500696,10109,2025-12-20,paediatrics,online,normal,call,1,3.0,public,9.1,3,0,23.0,no
+500697,10163,2025-12-20,ophthalmology,phone,normal,none,7,70.0,public,4.7,2,1,40.0,no
+500698,10317,2025-12-20,cardiology,phone,low,call,11,79.0,public,2.2,3,0,15.0,no
+500699,10657,2025-12-20,general practice,phone,low,none,19,46.0,public,13.1,2,1,?,yes
+500700,10797,2025-12-20,orthopaedics,online,normal,none,14,44.0,private,4.2,4,1,41.0,no
+500701,10873,2025-12-20,general practice,phone,low,sms,1,90.0,public,?,1,1,19.0,no
+500702,11038,2025-12-20,paediatrics,phone,normal,sms,8,11.0,public,2.6,3,1,19.0,no
+500703,10641,2025-12-22,general practice,online,low,sms,9,50.0,public,4.9,5,0,26.0,no
+500704,10660,2025-12-22,paediatrics,online,low,sms,3,5.0,public,7.1,5,1,54.0,no
+500705,10959,2025-12-22,general practice,phone,low,none,1,33.0,public,1.8,4,0,40.0,no
+500706,10295,2025-12-23,ophthalmology,referral,low,call,26,54.0,private,1.0,3,1,31.0,no
+500707,10410,2025-12-23,general practice,phone,high,none,1,83.0,public,5.8,7,2,15.0,no
+500708,10424,2025-12-23,gynaecology,online,normal,sms,4,38.0,public,4.6,7,0,18.0,no
+500709,10598,2025-12-23,ophthalmology,online,high,sms,4,31.0,public,1.2,6,2,19.0,no
+500710,10695,2025-12-23,general practice,phone,normal,sms,1,81.0,private,4.8,3,0,13.0,no
+500711,10815,2025-12-23,general practice,referral,low,none,3,53.0,private,2.6,5,2,10.0,no
+500712,10242,2025-12-24,general practice,referral,low,sms,6,50.0,public,4.3,1,1,10.0,no
+500713,10263,2025-12-24,gynaecology,phone,high,call,5,63.0,private,3.6,3,0,20.0,no
+500714,10386,2025-12-24,orthopaedics,referral,normal,none,64,55.0,private,12.7,1,0,22.0,no
+500715,10574,2025-12-24,ophthalmology,phone,normal,call,5,56.0,public,10.1,6,4,9.0,no
+500716,10979,2025-12-24,general practice,online,low,sms,1,57.0,public,7.4,3,0,16.0,no
+500717,10104,2025-12-25,general practice,phone,normal,call,9,83.0,public,15.9,2,0,8.0,no
+500718,10323,2025-12-25,paediatrics,referral,normal,sms,2,2.0,public,1.4,2,2,8.0,no
+500719,10888,2025-12-25,general practice,phone,normal,none,9,78.0,private,3.6,6,1,?,yes
+500720,11091,2025-12-25,general practice,phone,normal,none,11,89.0,public,2.5,6,1,27.0,no
+500721,10003,2025-12-26,ophthalmology,online,low,sms,10,?,private,5.5,6,2,24.0,no
+500722,10285,2025-12-26,ophthalmology,phone,normal,sms,9,45.0,public,6.3,2,0,15.0,no
+500723,10354,2025-12-26,orthopaedics,phone,normal,none,12,81.0,public,8.9,3,1,?,yes
+500724,10454,2025-12-26,general practice,referral,low,call,3,63.0,public,10.5,1,0,13.0,no
+500725,10686,2025-12-27,general practice,online,normal,call,1,44.0,public,1.7,5,1,21.0,no
+500726,10720,2025-12-27,paediatrics,phone,low,none,2,12.0,public,?,1,0,9.0,no
+500727,10947,2025-12-27,cardiology,phone,normal,call,29,53.0,public,1.8,8,3,12.0,no
+500728,11014,2025-12-27,ophthalmology,phone,normal,none,2,77.0,private,23.7,4,0,36.0,no
+500729,10279,2025-12-28,dermatology,online,low,none,11,55.0,public,2.7,2,0,46.0,no
+500730,10443,2025-12-28,ophthalmology,online,normal,call,6,76.0,public,7.2,5,0,?,yes
+500731,10458,2025-12-28,paediatrics,referral,low,none,5,9.0,public,0.7,3,0,?,yes
+500732,10467,2025-12-28,cardiology,phone,normal,call,0,74.0,public,1.4,4,0,44.0,no
+500733,10601,2025-12-28,paediatrics,online,normal,call,5,7.0,public,3.6,6,0,?,yes
+500734,10723,2025-12-28,dermatology,phone,low,sms,36,92.0,public,5.8,5,2,31.0,no
+500735,10935,2025-12-28,paediatrics,phone,low,sms,2,11.0,public,3.8,6,1,15.0,no
+500736,10940,2025-12-28,general practice,phone,low,none,3,68.0,public,4.0,1,1,22.0,no
+500737,10256,2025-12-29,general practice,phone,normal,call,3,44.0,public,9.8,5,3,?,yes
+500738,10395,2025-12-29,dermatology,phone,low,sms,23,71.0,private,6.6,3,1,3.0,no
+500739,10538,2025-12-29,gynaecology,referral,normal,none,53,48.0,private,5.2,2,0,3.0,no
+500740,10775,2025-12-29,general practice,online,low,sms,3,60.0,public,3.3,2,0,21.0,no
+500741,11111,2025-12-29,dermatology,phone,normal,sms,35,92.0,public,3.4,3,0,24.0,no
+500742,11117,2025-12-29,gynaecology,phone,low,none,29,48.0,public,2.5,3,0,?,yes
+500743,10238,2025-12-30,cardiology,phone,low,none,4,72.0,private,1.5,0,0,?,yes
+500744,10300,2025-12-30,paediatrics,phone,low,sms,9,8.0,public,3.3,0,0,1.0,no
+500745,10412,2025-12-30,general practice,phone,normal,none,2,61.0,private,1.1,1,0,31.0,no
+500746,10611,2025-12-30,dermatology,online,low,none,39,67.0,public,8.7,0,0,?,yes
+500747,10068,2025-12-31,general practice,referral,low,none,5,92.0,private,2.6,2,0,14.0,no
+500748,10118,2025-12-31,general practice,online,low,sms,4,92.0,public,2.1,5,1,6.0,no
+500749,10495,2025-12-31,general practice,online,low,sms,25,?,public,11.3,7,1,?,yes
+500750,11079,2025-12-31,general practice,referral,high,sms,1,74.0,public,2.7,2,0,27.0,no
+500751,10154,2026-01-01,cardiology,phone,normal,call,4,49.0,public,?,4,0,?,yes
+500752,10486,2026-01-01,dermatology,phone,low,none,69,92.0,public,?,3,0,31.0,no
+500753,10817,2026-01-01,ophthalmology,phone,low,none,14,52.0,public,5.4,7,0,37.0,no
+500754,10910,2026-01-01,cardiology,phone,low,none,1,49.0,public,5.7,4,0,9.0,no
+500755,11017,2026-01-01,paediatrics,phone,high,sms,1,5.0,public,5.1,4,0,51.0,no
+500756,10399,2026-01-02,general practice,referral,normal,none,8,61.0,public,1.0,4,1,20.0,no
+500757,10488,2026-01-02,cardiology,online,normal,call,17,?,public,4.0,5,0,11.0,no
+500758,10609,2026-01-02,cardiology,phone,normal,none,28,52.0,private,11.5,7,1,22.0,no
+500759,10639,2026-01-02,ophthalmology,phone,low,sms,18,26.0,public,12.6,6,0,?,yes
+500760,10862,2026-01-02,general practice,online,low,sms,3,44.0,public,4.9,4,0,2.0,no
+500761,10970,2026-01-02,paediatrics,online,normal,sms,20,13.0,public,9.9,4,0,41.0,no
+500762,11112,2026-01-02,cardiology,phone,low,call,62,44.0,public,4.0,0,0,28.0,no
+500763,10051,2026-01-03,gynaecology,phone,high,none,1,72.0,private,4.3,3,1,28.0,no
+500764,10350,2026-01-03,paediatrics,phone,normal,none,6,4.0,public,3.0,4,0,10.0,no
+500765,10436,2026-01-03,paediatrics,online,low,sms,1,13.0,private,4.5,3,2,27.0,no
+500766,10018,2026-01-04,general practice,referral,low,none,10,92.0,public,29.5,3,2,?,yes
+500767,10045,2026-01-04,paediatrics,phone,normal,call,1,2.0,public,1.9,0,0,19.0,no
+500768,10379,2026-01-04,paediatrics,phone,normal,sms,3,6.0,public,2.3,1,0,15.0,no
+500769,10406,2026-01-04,gynaecology,phone,low,sms,23,47.0,public,1.0,3,0,11.0,no
+500770,10479,2026-01-04,gynaecology,phone,low,call,25,49.0,public,0.8,4,0,14.0,no
+500771,10726,2026-01-04,general practice,phone,normal,call,9,?,public,0.8,1,0,?,yes
+500772,10971,2026-01-04,ophthalmology,phone,normal,call,34,74.0,public,3.8,3,0,22.0,no
+500773,10241,2026-01-05,dermatology,phone,low,sms,45,84.0,public,2.1,3,1,?,yes
+500774,10398,2026-01-05,gynaecology,online,low,sms,1,49.0,public,?,2,0,19.0,no
+500775,10074,2026-01-06,orthopaedics,referral,normal,call,2,73.0,private,2.7,3,1,40.0,no
+500776,10251,2026-01-06,cardiology,phone,low,none,6,47.0,public,2.7,6,1,6.0,no
+500777,10374,2026-01-06,general practice,referral,low,none,0,24.0,public,5.0,4,0,10.0,no
+500778,11148,2026-01-06,orthopaedics,online,low,none,24,?,public,3.0,5,3,16.0,no
+500779,10283,2026-01-07,dermatology,online,low,none,8,47.0,private,2.7,0,0,15.0,no
+500780,10952,2026-01-07,orthopaedics,referral,low,sms,15,78.0,public,?,4,0,9.0,no
+500781,10645,2026-01-08,general practice,online,normal,sms,3,?,public,3.3,4,1,12.0,no
+500782,10800,2026-01-08,general practice,phone,low,sms,5,80.0,public,15.7,3,1,23.0,no
+500783,10953,2026-01-08,dermatology,phone,normal,call,6,70.0,public,4.9,0,0,20.0,no
+500784,10968,2026-01-08,general practice,online,low,none,13,39.0,private,2.9,5,2,9.0,no
+500785,10793,2026-01-09,general practice,online,low,sms,1,33.0,public,2.2,1,0,4.0,no
+500786,10961,2026-01-09,general practice,phone,low,none,6,54.0,public,3.9,0,0,?,yes
+500787,11078,2026-01-09,general practice,phone,high,sms,1,68.0,public,0.9,6,1,29.0,no
+500788,10135,2026-01-10,gynaecology,phone,low,call,20,91.0,public,9.3,3,0,29.0,no
+500789,10221,2026-01-10,cardiology,referral,low,call,4,63.0,public,9.1,3,0,17.0,no
+500790,10227,2026-01-10,dermatology,online,low,none,9,59.0,public,2.0,5,3,33.0,no
+500791,10272,2026-01-10,cardiology,phone,high,none,3,92.0,public,2.0,4,1,62.0,no
+500792,10301,2026-01-10,general practice,phone,high,call,1,84.0,public,4.2,4,1,31.0,no
+500793,10511,2026-01-10,cardiology,phone,high,call,2,48.0,public,4.2,3,1,35.0,no
+500794,10872,2026-01-10,paediatrics,phone,low,call,0,4.0,public,2.4,4,2,3.0,no
+500795,10213,2026-01-11,orthopaedics,referral,low,none,67,74.0,public,1.3,3,0,35.0,no
+500796,10225,2026-01-11,cardiology,referral,low,none,1,44.0,private,3.1,2,0,11.0,no
+500797,10908,2026-01-11,orthopaedics,referral,low,sms,10,65.0,public,6.5,2,0,25.0,no
+500798,10135,2026-01-12,gynaecology,phone,low,call,14,91.0,public,9.3,4,0,22.0,no
+500799,10003,2026-01-13,gynaecology,referral,high,none,2,42.0,private,5.5,7,2,12.0,no
+500800,10178,2026-01-13,dermatology,phone,low,sms,13,81.0,public,1.5,1,0,21.0,no
+500801,10505,2026-01-13,general practice,phone,high,call,1,45.0,public,2.3,4,0,11.0,no
+500802,10988,2026-01-13,ophthalmology,referral,normal,none,2,55.0,public,8.5,4,0,24.0,no
+500803,10072,2026-01-14,general practice,phone,low,call,8,37.0,public,4.1,5,1,22.0,no
+500804,10078,2026-01-14,general practice,phone,low,none,2,92.0,public,2.0,3,2,?,yes
+500805,10780,2026-01-14,orthopaedics,online,low,sms,19,36.0,public,15.3,2,0,?,yes
+500806,10821,2026-01-14,general practice,online,normal,sms,8,?,public,9.3,4,1,41.0,no
+500807,10905,2026-01-14,general practice,phone,low,none,3,70.0,public,1.6,1,1,29.0,no
+500808,10990,2026-01-14,general practice,online,low,none,7,38.0,public,2.0,1,0,7.0,no
+500809,10945,2026-01-15,general practice,referral,low,none,2,52.0,public,5.1,6,0,25.0,no
+500810,10062,2026-01-16,cardiology,phone,low,none,10,68.0,public,18.0,2,0,3.0,no
+500811,10080,2026-01-16,ophthalmology,referral,low,none,2,60.0,public,2.8,2,0,7.0,no
+500812,10725,2026-01-16,paediatrics,online,normal,sms,3,12.0,public,10.8,4,0,20.0,no
+500813,10977,2026-01-16,gynaecology,online,normal,sms,4,92.0,private,1.8,4,0,42.0,no
+500814,10474,2026-01-17,general practice,online,normal,sms,3,34.0,private,2.9,3,0,24.0,no
+500815,10609,2026-01-17,dermatology,referral,low,sms,9,52.0,private,11.5,8,1,1.0,no
+500816,10319,2026-01-18,cardiology,phone,low,call,23,51.0,public,3.2,5,2,40.0,no
+500817,10627,2026-01-18,paediatrics,phone,low,sms,12,11.0,public,4.4,3,1,23.0,no
+500818,10802,2026-01-18,general practice,referral,low,none,8,48.0,public,15.2,3,1,?,yes
+500819,10621,2026-01-19,general practice,online,high,sms,3,?,public,2.1,3,0,19.0,no
+500820,11034,2026-01-19,orthopaedics,phone,normal,none,62,49.0,public,4.9,8,6,?,yes
+500821,10328,2026-01-20,general practice,referral,low,none,9,67.0,private,2.2,3,1,35.0,no
+500822,10354,2026-01-20,orthopaedics,phone,normal,sms,26,81.0,public,8.9,4,2,?,yes
+500823,10543,2026-01-20,ophthalmology,online,high,none,4,?,public,7.0,6,2,20.0,no
+500824,10570,2026-01-20,orthopaedics,online,low,none,8,?,private,4.1,1,0,5.0,no
+500825,10805,2026-01-20,general practice,phone,normal,none,1,92.0,public,5.4,2,1,7.0,no
+500826,11102,2026-01-20,general practice,online,low,none,1,52.0,public,3.9,2,1,19.0,no
+500827,11103,2026-01-20,general practice,phone,normal,sms,4,45.0,public,4.0,2,0,13.0,no
+500828,10291,2026-01-21,general practice,referral,low,none,3,64.0,public,6.4,0,0,27.0,no
+500829,10472,2026-01-21,general practice,phone,normal,sms,5,38.0,public,?,5,3,?,yes
+500830,10893,2026-01-21,general practice,referral,normal,sms,3,47.0,public,14.2,2,0,?,yes
+500831,11126,2026-01-21,general practice,phone,low,sms,5,39.0,public,23.5,4,2,?,yes
+500832,10161,2026-01-22,ophthalmology,phone,low,sms,38,88.0,public,6.7,4,0,39.0,no
+500833,10265,2026-01-22,ophthalmology,phone,low,none,34,92.0,public,3.0,5,1,33.0,no
+500834,10454,2026-01-22,gynaecology,phone,low,sms,4,63.0,public,10.5,2,0,15.0,no
+500835,10866,2026-01-22,orthopaedics,phone,low,sms,1,31.0,public,5.2,3,1,14.0,no
+500836,10497,2026-01-23,general practice,referral,normal,sms,4,83.0,public,11.7,5,1,20.0,no
+500837,10634,2026-01-23,general practice,referral,low,none,20,76.0,public,7.4,4,3,?,yes
+500838,11059,2026-01-23,general practice,online,high,sms,2,67.0,private,6.8,7,3,3.0,no
+500839,11129,2026-01-23,ophthalmology,phone,low,none,1,39.0,public,3.1,3,2,?,yes
+500840,10209,2026-01-24,paediatrics,referral,low,call,4,11.0,public,3.2,3,0,24.0,no
+500841,10492,2026-01-24,paediatrics,online,low,sms,10,14.0,private,3.1,3,0,15.0,no
+500842,10594,2026-01-24,orthopaedics,referral,normal,none,6,57.0,public,3.9,6,0,12.0,no
+500843,10720,2026-01-24,paediatrics,phone,high,none,2,12.0,public,5.3,2,0,1.0,no
+500844,10009,2026-01-25,ophthalmology,phone,normal,none,38,54.0,public,2.0,5,0,17.0,no
+500845,10067,2026-01-25,orthopaedics,phone,high,call,2,34.0,public,17.5,3,0,25.0,no
+500846,10251,2026-01-25,general practice,phone,low,call,4,47.0,public,2.7,7,1,39.0,no
+500847,10462,2026-01-25,paediatrics,online,low,sms,12,12.0,public,10.4,4,0,?,yes
+500848,10967,2026-01-25,general practice,referral,low,none,15,67.0,private,7.1,3,0,39.0,no
+500849,11005,2026-01-25,dermatology,online,normal,none,7,43.0,private,10.3,5,0,18.0,no
+500850,10891,2026-01-26,general practice,online,low,call,13,38.0,private,9.4,5,0,2.0,no
+500851,10191,2026-01-27,paediatrics,phone,low,sms,7,6.0,public,1.0,0,0,19.0,no
+500852,10345,2026-01-27,general practice,online,low,sms,2,40.0,private,9.3,4,1,6.0,no
+500853,10958,2026-01-27,general practice,phone,high,sms,1,67.0,public,4.9,6,0,19.0,no
+500854,10960,2026-01-27,general practice,phone,low,sms,1,76.0,public,?,6,2,?,yes
+500855,10187,2026-01-28,general practice,phone,low,sms,10,92.0,public,3.6,6,0,49.0,no
+500856,10495,2026-01-28,orthopaedics,online,high,call,2,?,public,11.3,8,2,8.0,no
+500857,10724,2026-01-28,dermatology,referral,low,call,12,69.0,public,2.5,3,0,48.0,no
+500858,10883,2026-01-28,gynaecology,phone,normal,sms,40,80.0,private,7.1,4,1,7.0,no
+500859,11070,2026-01-28,ophthalmology,phone,low,none,38,62.0,public,5.4,5,1,26.0,no
+500860,10143,2026-01-29,dermatology,phone,normal,call,7,71.0,public,2.7,1,0,6.0,no
+500861,10547,2026-01-29,paediatrics,phone,high,sms,0,2.0,public,12.6,5,4,14.0,no
+500862,10917,2026-01-29,ophthalmology,phone,low,none,39,57.0,private,1.4,4,1,18.0,no
+500863,11142,2026-01-29,cardiology,online,low,sms,11,?,public,16.0,3,1,29.0,no
+500864,10246,2026-01-30,paediatrics,online,low,none,1,4.0,public,5.7,5,3,44.0,no
+500865,10316,2026-01-30,orthopaedics,phone,normal,none,12,568.0,private,1.2,2,0,20.0,no
+500866,10406,2026-01-31,orthopaedics,phone,normal,sms,35,47.0,public,1.0,4,0,17.0,no
+500867,10618,2026-01-31,general practice,phone,low,none,5,70.0,public,0.8,3,0,54.0,no
+500868,10722,2026-01-31,general practice,phone,low,sms,5,72.0,private,3.3,2,0,18.0,no
+500869,10738,2026-01-31,general practice,referral,normal,none,0,40.0,public,5.8,5,1,6.0,no
+500870,10823,2026-01-31,gynaecology,online,low,call,34,50.0,public,3.8,6,1,16.0,no
+500871,11038,2026-01-31,paediatrics,phone,normal,none,13,11.0,public,2.6,4,1,24.0,no
+500872,11056,2026-01-31,ophthalmology,phone,normal,call,1,41.0,public,5.3,2,1,7.0,no
+500873,10216,2026-02-01,general practice,phone,normal,none,7,67.0,private,?,6,6,?,yes
+500874,10277,2026-02-01,paediatrics,referral,high,call,0,?,public,5.5,4,0,41.0,no
+500875,10301,2026-02-01,ophthalmology,online,normal,sms,24,84.0,public,?,5,1,11.0,no
+500876,10356,2026-02-01,ophthalmology,online,low,sms,23,?,public,1.5,3,0,12.0,no
+500877,10681,2026-02-01,general practice,phone,high,none,0,39.0,public,3.9,5,1,7.0,no
+500878,10418,2026-02-02,paediatrics,referral,low,sms,1,5.0,public,2.7,6,2,53.0,no
+500879,10828,2026-02-02,general practice,referral,normal,none,3,52.0,private,3.4,2,0,29.0,no
+500880,10830,2026-02-02,cardiology,online,low,sms,21,30.0,public,3.8,6,0,?,yes
+500881,10362,2026-02-03,gynaecology,online,high,call,22,51.0,public,8.8,4,0,23.0,no
+500882,10786,2026-02-03,general practice,phone,low,none,15,60.0,public,9.4,2,1,41.0,no
+500883,10826,2026-02-03,dermatology,online,high,call,0,?,private,5.0,1,0,9.0,no
+500884,10087,2026-02-04,dermatology,phone,low,none,15,59.0,public,11.4,5,1,?,yes
+500885,10090,2026-02-04,orthopaedics,online,low,none,36,92.0,private,2.2,2,0,15.0,no
+500886,10102,2026-02-04,ophthalmology,phone,low,call,4,57.0,public,6.9,8,5,22.0,no
+500887,10122,2026-02-04,cardiology,online,low,sms,18,60.0,public,5.8,3,1,13.0,no
+500888,10541,2026-02-04,gynaecology,phone,high,none,12,92.0,public,1.2,1,0,15.0,no
+500889,10720,2026-02-04,paediatrics,phone,low,sms,0,12.0,public,5.3,3,0,40.0,no
+500890,10001,2026-02-05,paediatrics,phone,low,none,9,5.0,public,3.0,2,1,24.0,no
+500891,10117,2026-02-05,cardiology,online,low,call,73,42.0,public,5.5,2,0,?,yes
+500892,10656,2026-02-05,general practice,phone,high,none,1,35.0,public,1.7,4,2,7.0,no
+500893,10710,2026-02-05,general practice,online,normal,sms,16,50.0,public,4.4,1,0,19.0,no
+500894,11034,2026-02-05,general practice,referral,high,none,3,?,public,4.9,9,7,?,yes
+500895,10085,2026-02-06,orthopaedics,phone,low,call,22,39.0,public,9.2,2,2,29.0,no
+500896,10260,2026-02-06,ophthalmology,online,normal,sms,33,40.0,public,1.7,3,0,4.0,no
+500897,10280,2026-02-06,orthopaedics,phone,normal,call,6,54.0,public,1.7,1,0,5.0,no
+500898,10789,2026-02-06,general practice,phone,low,none,7,54.0,public,2.3,3,1,12.0,no
+500899,10799,2026-02-06,dermatology,phone,high,none,9,34.0,private,4.9,3,0,14.0,no
+500900,11113,2026-02-06,cardiology,phone,low,none,2,61.0,public,4.3,5,0,16.0,no
+500901,11123,2026-02-06,dermatology,phone,low,none,5,91.0,public,3.7,7,0,18.0,no
+500902,10243,2026-02-07,general practice,phone,normal,none,2,70.0,private,5.4,3,0,9.0,no
+500903,10367,2026-02-07,paediatrics,online,normal,none,6,7.0,public,8.8,5,0,5.0,no
+500904,10426,2026-02-07,general practice,phone,normal,none,3,37.0,public,3.7,3,0,11.0,no
+500905,10103,2026-02-08,general practice,online,high,none,1,34.0,private,8.6,4,0,6.0,no
+500906,10331,2026-02-08,general practice,phone,normal,sms,3,?,private,1.0,6,1,12.0,no
+500907,10651,2026-02-08,gynaecology,phone,low,sms,5,73.0,public,12.6,2,1,15.0,no
+500908,10701,2026-02-08,general practice,phone,high,call,0,68.0,public,3.2,2,0,7.0,no
+500909,10848,2026-02-08,general practice,online,low,sms,11,58.0,private,8.9,2,1,15.0,no
+500910,10011,2026-02-09,cardiology,online,normal,sms,9,?,public,7.4,2,2,?,yes
+500911,10171,2026-02-09,general practice,online,low,sms,14,47.0,public,5.7,3,0,36.0,no
+500912,10723,2026-02-09,general practice,phone,normal,sms,1,92.0,public,5.8,6,2,13.0,no
+500913,10922,2026-02-09,dermatology,phone,normal,sms,4,44.0,public,1.7,2,0,2.0,no
+500914,10158,2026-02-10,paediatrics,phone,low,sms,14,13.0,private,4.1,3,0,15.0,no
+500915,10255,2026-02-10,general practice,online,low,sms,34,92.0,public,6.0,2,0,21.0,no
+500916,10307,2026-02-10,gynaecology,phone,normal,none,2,51.0,public,2.8,2,0,12.0,no
+500917,10576,2026-02-10,cardiology,phone,normal,none,5,81.0,public,4.4,6,2,9.0,no
+500918,10707,2026-02-10,ophthalmology,phone,low,none,53,43.0,public,1.0,3,0,34.0,no
+500919,10918,2026-02-10,general practice,online,low,sms,4,?,public,?,4,1,30.0,no
+500920,11007,2026-02-10,cardiology,phone,low,sms,2,64.0,public,11.2,5,0,12.0,no
+500921,10021,2026-02-11,general practice,online,low,sms,0,78.0,private,8.9,2,0,7.0,no
+500922,10523,2026-02-11,ophthalmology,referral,normal,none,7,32.0,private,9.6,3,1,14.0,no
+500923,10633,2026-02-11,paediatrics,referral,low,sms,19,11.0,private,5.8,4,2,?,yes
+500924,10817,2026-02-11,cardiology,referral,normal,none,6,52.0,public,5.4,8,0,9.0,no
+500925,10895,2026-02-11,general practice,referral,high,none,0,82.0,public,14.5,4,0,16.0,no
+500926,11013,2026-02-11,general practice,referral,high,sms,0,35.0,public,6.3,3,0,16.0,no
+500927,11065,2026-02-11,general practice,referral,normal,call,0,46.0,public,1.1,3,0,38.0,no
+500928,10194,2026-02-12,general practice,phone,normal,call,1,84.0,public,2.9,1,0,9.0,no
+500929,10231,2026-02-12,gynaecology,phone,normal,none,4,25.0,public,11.2,2,1,4.0,no
+500930,10554,2026-02-12,general practice,referral,low,none,4,69.0,public,2.8,3,0,14.0,no
+500931,10620,2026-02-12,dermatology,online,low,call,52,48.0,public,3.5,3,0,?,yes
+500932,11015,2026-02-12,general practice,phone,low,sms,3,65.0,public,2.8,3,1,12.0,no
+500933,11038,2026-02-12,paediatrics,phone,low,call,1,11.0,public,2.6,5,1,7.0,no
+500934,10156,2026-02-13,ophthalmology,phone,low,none,27,92.0,public,1.2,5,1,?,yes
+500935,10433,2026-02-13,cardiology,phone,high,none,18,60.0,public,4.2,1,1,?,yes
+500936,10505,2026-02-13,dermatology,phone,low,sms,19,45.0,public,2.3,5,0,20.0,no
+500937,10699,2026-02-13,gynaecology,referral,normal,sms,16,80.0,public,6.1,3,0,23.0,no
+500938,10803,2026-02-13,dermatology,phone,normal,call,11,499.0,public,4.4,1,0,21.0,no
+500939,10287,2026-02-14,cardiology,online,normal,none,19,?,private,7.6,6,0,12.0,no
+500940,10790,2026-02-14,dermatology,online,low,call,21,41.0,public,3.2,4,1,18.0,no
+500941,10927,2026-02-14,general practice,phone,low,sms,2,69.0,private,0.5,5,0,12.0,no
+500942,10206,2026-02-15,ophthalmology,online,normal,sms,21,?,public,6.9,4,0,12.0,no
+500943,10324,2026-02-15,dermatology,phone,low,none,46,62.0,public,10.0,5,2,?,yes
+500944,10924,2026-02-15,dermatology,phone,low,call,1,61.0,public,7.0,1,1,?,yes
+500945,11042,2026-02-15,ophthalmology,phone,low,sms,19,92.0,public,2.5,3,0,14.0,no
+500946,10144,2026-02-16,ophthalmology,phone,low,none,73,83.0,public,1.2,7,0,11.0,no
+500947,10378,2026-02-16,general practice,phone,low,call,10,41.0,public,8.2,5,1,17.0,no
+500948,10784,2026-02-16,dermatology,online,low,sms,24,56.0,private,2.0,6,0,63.0,no
+500949,10825,2026-02-16,gynaecology,referral,low,none,33,57.0,public,7.2,2,1,33.0,no
+500950,10310,2026-02-17,general practice,referral,low,call,11,39.0,public,6.7,5,2,15.0,no
+500951,10557,2026-02-17,general practice,phone,normal,sms,5,83.0,public,26.7,6,1,19.0,no
+500952,10582,2026-02-17,orthopaedics,phone,low,call,19,86.0,public,4.1,4,0,24.0,no
+500953,10748,2026-02-17,general practice,phone,normal,none,18,35.0,public,10.7,3,0,14.0,no
+500954,10063,2026-02-18,general practice,referral,low,none,16,81.0,public,1.8,3,0,21.0,no
+500955,10485,2026-02-18,dermatology,phone,low,none,42,35.0,public,3.5,4,1,17.0,no
+500956,10643,2026-02-18,ophthalmology,phone,high,none,1,56.0,public,2.7,0,0,25.0,no
+500957,10657,2026-02-18,ophthalmology,referral,normal,none,21,46.0,public,13.1,3,2,?,yes
+500958,10743,2026-02-18,orthopaedics,phone,normal,sms,14,92.0,public,3.9,4,2,26.0,no
+500959,11048,2026-02-18,general practice,phone,normal,sms,9,59.0,public,17.6,5,1,?,yes
+500960,10580,2026-02-19,dermatology,online,normal,call,2,54.0,public,11.1,3,0,12.0,no
+500961,10831,2026-02-19,general practice,online,normal,call,6,?,public,9.6,5,0,37.0,no
+500962,11100,2026-02-19,gynaecology,online,high,sms,4,53.0,public,5.0,0,0,12.0,no
+500963,11101,2026-02-19,paediatrics,phone,normal,call,11,1.0,public,5.0,5,3,?,yes
+500964,10264,2026-02-20,orthopaedics,phone,high,sms,2,55.0,private,?,2,1,34.0,no
+500965,11000,2026-02-20,ophthalmology,referral,low,call,5,81.0,public,6.4,3,0,26.0,no
+500966,10185,2026-02-21,gynaecology,phone,normal,sms,34,84.0,private,6.6,5,0,25.0,no
+500967,10455,2026-02-21,gynaecology,phone,normal,sms,19,27.0,private,3.0,3,0,26.0,no
+500968,10717,2026-02-21,general practice,phone,normal,none,2,81.0,private,7.8,3,1,21.0,no
+500969,11066,2026-02-21,general practice,phone,high,sms,1,79.0,private,4.4,4,0,6.0,no
+500970,10171,2026-02-22,general practice,phone,normal,call,1,47.0,public,5.7,4,0,29.0,no
+500971,10476,2026-02-22,general practice,online,normal,none,3,?,private,1.4,2,0,5.0,no
+500972,10697,2026-02-22,paediatrics,online,high,sms,5,12.0,public,3.0,3,1,8.0,no
+500973,10975,2026-02-22,dermatology,referral,normal,call,0,69.0,public,11.5,3,0,32.0,no
+500974,10984,2026-02-22,ophthalmology,online,low,sms,26,53.0,public,9.4,2,1,?,yes
+500975,11008,2026-02-22,dermatology,online,low,sms,34,66.0,private,2.8,2,0,8.0,no
+500976,11099,2026-02-22,general practice,phone,low,call,13,66.0,public,1.3,4,1,3.0,no
+500977,11108,2026-02-22,gynaecology,phone,low,none,8,68.0,public,44.0,3,1,19.0,no
+500978,10254,2026-02-23,dermatology,online,low,sms,7,?,public,2.8,3,0,15.0,no
+500979,10430,2026-02-23,gynaecology,phone,low,call,52,69.0,public,1.8,3,0,11.0,no
+500980,10469,2026-02-23,general practice,phone,low,sms,3,87.0,public,12.7,1,0,13.0,no
+500981,10990,2026-02-23,general practice,phone,high,sms,1,38.0,public,?,2,0,23.0,no
+500982,11118,2026-02-23,gynaecology,referral,low,call,1,60.0,private,3.0,4,0,10.0,no
+500983,11134,2026-02-23,paediatrics,online,low,none,1,8.0,public,4.4,1,0,27.0,no
+500984,10120,2026-02-24,general practice,phone,low,call,7,53.0,public,6.5,2,1,52.0,no
+500985,10138,2026-02-24,cardiology,phone,normal,sms,16,92.0,public,1.4,3,1,50.0,no
+500986,10863,2026-02-24,dermatology,online,normal,sms,2,45.0,public,?,0,0,?,yes
+500987,10976,2026-02-24,general practice,online,normal,sms,0,?,private,3.3,4,0,20.0,no
+500988,10012,2026-02-25,general practice,referral,normal,sms,0,92.0,public,4.3,2,0,8.0,no
+500989,10034,2026-02-25,paediatrics,phone,low,sms,7,2.0,private,2.5,4,3,24.0,no
+500990,10295,2026-02-25,general practice,referral,low,sms,6,54.0,private,1.0,4,1,42.0,no
+500991,10540,2026-02-25,paediatrics,phone,normal,sms,5,3.0,public,2.9,3,0,38.0,no
+500992,10881,2026-02-25,paediatrics,online,low,none,6,9.0,private,1.9,6,3,22.0,no
+500993,10987,2026-02-25,orthopaedics,phone,low,call,19,36.0,private,13.7,4,0,25.0,no
+500994,11019,2026-02-25,paediatrics,referral,normal,none,3,10.0,public,5.5,4,0,33.0,no
+500995,10013,2026-02-26,general practice,phone,low,none,0,28.0,public,0.9,3,2,3.0,no
+500996,10625,2026-02-26,gynaecology,online,normal,sms,43,55.0,public,28.6,4,0,10.0,no
+500997,10809,2026-02-26,gynaecology,phone,low,sms,101,78.0,public,1.2,4,2,?,yes
+500998,11029,2026-02-26,dermatology,phone,low,call,93,48.0,public,1.4,2,0,7.0,no
+500999,10042,2026-02-27,paediatrics,referral,normal,none,2,1.0,public,14.1,1,0,15.0,no
+501000,10089,2026-02-27,general practice,phone,low,none,4,54.0,public,5.8,7,6,?,yes
+501001,10295,2026-02-27,general practice,online,low,none,9,?,private,1.0,5,1,49.0,no
+501002,10839,2026-02-27,dermatology,online,low,none,1,92.0,public,2.2,3,0,33.0,no
+501003,10916,2026-02-27,general practice,phone,normal,sms,1,69.0,private,2.0,3,1,17.0,no
+501004,10027,2026-03-01,dermatology,phone,low,none,53,85.0,public,4.2,6,0,11.0,no
+501005,10124,2026-03-01,general practice,online,low,call,2,40.0,public,6.1,1,0,20.0,no
+501006,10343,2026-03-01,general practice,referral,low,none,1,66.0,public,1.9,5,1,24.0,no
+501007,10428,2026-03-01,paediatrics,referral,normal,none,2,9.0,public,2.8,4,1,10.0,no
+501008,10433,2026-03-01,orthopaedics,phone,normal,call,9,60.0,public,4.2,2,2,?,yes
+501009,10683,2026-03-01,general practice,phone,low,none,4,73.0,private,11.0,4,0,6.0,no
+501010,10991,2026-03-01,orthopaedics,phone,high,sms,8,68.0,public,3.7,3,2,8.0,no
+501011,10155,2026-03-02,orthopaedics,phone,low,sms,58,85.0,private,3.1,6,3,?,yes
+501012,10791,2026-03-02,general practice,online,normal,none,8,59.0,private,1.2,4,1,9.0,no
+501013,10963,2026-03-02,dermatology,phone,low,sms,23,?,public,7.0,1,1,12.0,no
+501014,11006,2026-03-02,general practice,phone,low,call,11,82.0,public,4.4,1,0,40.0,no
+501015,10607,2026-03-03,general practice,phone,low,call,1,62.0,public,2.6,0,0,27.0,no
+501016,10709,2026-03-03,general practice,referral,high,call,0,68.0,public,4.6,3,2,44.0,no
+501017,10785,2026-03-03,cardiology,phone,normal,none,30,81.0,private,6.1,7,2,12.0,no
+501018,11048,2026-03-03,general practice,phone,normal,call,1,59.0,public,17.6,6,2,9.0,no
+501019,10874,2026-03-04,dermatology,referral,normal,sms,17,45.0,public,5.8,4,2,10.0,no
+501020,10995,2026-03-04,paediatrics,online,normal,sms,9,11.0,private,4.2,3,0,4.0,no
+501021,10090,2026-03-05,general practice,phone,high,sms,2,92.0,private,2.2,3,0,4.0,no
+501022,10131,2026-03-05,gynaecology,online,low,sms,2,?,public,2.2,3,0,8.0,no
+501023,10270,2026-03-05,general practice,phone,low,call,3,48.0,private,4.3,3,0,21.0,no
+501024,10612,2026-03-05,paediatrics,phone,normal,call,1,9.0,public,4.4,2,0,27.0,no
+501025,10946,2026-03-05,ophthalmology,referral,high,call,2,77.0,public,7.2,6,2,23.0,no
+501026,11058,2026-03-05,ophthalmology,phone,normal,sms,11,51.0,public,9.1,5,4,?,yes
+501027,11149,2026-03-05,cardiology,online,high,sms,0,?,public,2.0,2,1,26.0,no
+501028,10042,2026-03-06,paediatrics,referral,low,sms,11,1.0,public,14.1,2,0,7.0,no
+501029,10212,2026-03-06,orthopaedics,phone,high,none,1,74.0,public,10.0,3,1,29.0,no
+501030,10438,2026-03-06,general practice,phone,low,sms,5,52.0,public,1.9,4,1,21.0,no
+501031,10043,2026-03-07,gynaecology,phone,low,none,9,58.0,public,7.0,1,0,18.0,no
+501032,10089,2026-03-07,general practice,online,normal,sms,4,54.0,public,5.8,8,7,?,yes
+501033,10137,2026-03-07,general practice,phone,low,none,9,42.0,public,5.5,7,4,10.0,no
+501034,10290,2026-03-07,general practice,phone,low,sms,9,85.0,public,1.3,2,2,7.0,no
+501035,10746,2026-03-07,general practice,referral,normal,sms,1,82.0,public,5.5,2,0,10.0,no
+501036,11023,2026-03-07,ophthalmology,referral,normal,none,16,75.0,public,2.1,4,1,43.0,no
+501037,10145,2026-03-08,general practice,online,low,sms,6,?,public,?,3,3,?,yes
+501038,10267,2026-03-08,general practice,phone,normal,none,1,92.0,public,3.2,1,0,7.0,no
+501039,10312,2026-03-08,dermatology,referral,normal,sms,21,54.0,public,11.0,6,3,?,yes
+501040,10552,2026-03-08,general practice,phone,normal,sms,12,61.0,public,3.8,3,0,2.0,no
+501041,10721,2026-03-08,ophthalmology,phone,normal,sms,7,55.0,private,2.6,6,1,71.0,no
+501042,10777,2026-03-08,paediatrics,online,low,call,2,?,public,1.7,5,1,11.0,no
+501043,10785,2026-03-08,gynaecology,phone,low,none,25,81.0,private,6.1,8,2,16.0,no
+501044,11070,2026-03-08,orthopaedics,online,normal,sms,6,62.0,public,5.4,6,1,?,yes
+501045,11111,2026-03-08,general practice,referral,normal,call,8,92.0,public,3.4,4,0,14.0,no
+501046,10076,2026-03-09,cardiology,online,low,sms,6,90.0,public,7.4,3,2,32.0,no
+501047,10363,2026-03-09,dermatology,phone,high,call,8,62.0,public,4.0,2,0,16.0,no
+501048,10573,2026-03-09,dermatology,referral,low,none,9,41.0,private,10.8,4,0,3.0,no
+501049,10653,2026-03-09,general practice,phone,low,none,5,67.0,private,2.3,1,0,11.0,no
+501050,10664,2026-03-09,orthopaedics,phone,low,none,20,82.0,public,6.3,1,0,55.0,no
+501051,11145,2026-03-09,general practice,online,normal,sms,0,?,public,1.4,5,1,15.0,no
+501052,10159,2026-03-10,cardiology,phone,low,none,14,47.0,public,6.6,4,0,45.0,no
+501053,10173,2026-03-10,general practice,phone,normal,call,1,64.0,public,4.0,1,1,16.0,no
+501054,10293,2026-03-10,general practice,phone,low,call,10,36.0,public,7.0,1,0,25.0,no
+501055,10508,2026-03-10,ophthalmology,referral,low,none,16,92.0,private,1.9,7,1,8.0,no
+501056,10589,2026-03-10,cardiology,online,low,call,16,57.0,public,5.1,2,0,6.0,no
+501057,10736,2026-03-10,paediatrics,phone,normal,none,2,11.0,public,2.1,5,0,13.0,no
+501058,10414,2026-03-11,paediatrics,online,low,none,12,12.0,public,2.5,2,0,3.0,no
+501059,10515,2026-03-11,paediatrics,phone,low,sms,5,9.0,public,3.7,1,1,16.0,no
+501060,10326,2026-03-12,cardiology,phone,high,none,7,56.0,public,4.5,4,0,11.0,no
+501061,10770,2026-03-12,cardiology,phone,low,call,6,27.0,public,2.3,6,3,26.0,no
+501062,10790,2026-03-12,general practice,phone,low,none,8,41.0,public,3.2,5,1,45.0,no
+501063,10007,2026-03-13,dermatology,phone,normal,sms,3,71.0,private,0.8,5,2,10.0,no
+501064,10068,2026-03-13,gynaecology,referral,high,none,4,92.0,private,2.6,3,0,10.0,no
+501065,10989,2026-03-13,dermatology,referral,low,call,1,52.0,public,1.4,7,3,14.0,no
+501066,11031,2026-03-13,general practice,phone,low,sms,3,83.0,private,2.9,2,1,25.0,no
+501067,10078,2026-03-14,general practice,phone,low,call,3,92.0,public,2.0,4,3,41.0,no
+501068,10134,2026-03-14,dermatology,phone,low,none,6,82.0,public,2.7,5,2,3.0,no
+501069,10504,2026-03-14,paediatrics,referral,normal,call,4,13.0,public,9.9,3,1,24.0,no
+501070,10746,2026-03-14,cardiology,phone,low,sms,21,82.0,public,5.5,3,0,6.0,no
+501071,10088,2026-03-15,general practice,phone,low,call,1,55.0,public,1.5,7,2,26.0,no
+501072,10369,2026-03-15,ophthalmology,phone,normal,sms,28,92.0,public,1.6,2,1,?,yes
+501073,10673,2026-03-15,ophthalmology,phone,low,sms,29,370.0,private,11.1,2,0,?,yes
+501074,10685,2026-03-15,general practice,phone,high,sms,7,92.0,private,21.3,2,1,10.0,no
+501075,10877,2026-03-15,orthopaedics,phone,normal,none,4,66.0,public,6.9,2,0,11.0,no
+501076,11140,2026-03-15,paediatrics,referral,normal,sms,19,2.0,private,1.3,1,0,6.0,no
+501077,10316,2026-03-16,general practice,online,low,sms,7,56.0,private,1.2,3,0,11.0,no
+501078,10592,2026-03-16,gynaecology,online,low,sms,19,?,public,4.7,3,2,?,yes
+501079,10940,2026-03-16,dermatology,online,normal,none,2,68.0,public,4.0,2,1,?,yes
+501080,10217,2026-03-17,paediatrics,online,low,sms,8,8.0,public,?,1,1,?,yes
+501081,10317,2026-03-17,cardiology,phone,low,none,3,79.0,public,2.2,4,0,12.0,no
+501082,10647,2026-03-17,paediatrics,phone,normal,none,3,13.0,public,1.6,3,0,8.0,no
+501083,10689,2026-03-17,ophthalmology,phone,normal,sms,5,92.0,public,6.5,4,0,9.0,no
+501084,10987,2026-03-17,general practice,phone,low,none,6,36.0,private,13.7,5,0,22.0,no
+501085,11124,2026-03-17,general practice,online,normal,sms,1,36.0,private,3.8,5,0,14.0,no
+501086,10144,2026-03-18,general practice,phone,low,sms,8,83.0,public,1.2,8,0,15.0,no
+501087,10201,2026-03-18,general practice,referral,low,none,0,85.0,public,2.5,0,0,21.0,no
+501088,10482,2026-03-18,general practice,phone,normal,call,1,61.0,public,0.9,3,0,17.0,no
+501089,10830,2026-03-18,ophthalmology,online,low,none,12,30.0,public,3.8,7,1,?,yes
+501090,10024,2026-03-19,ophthalmology,online,normal,sms,18,?,public,?,1,0,8.0,no
+501091,10044,2026-03-19,gynaecology,phone,low,none,4,68.0,private,5.0,6,1,10.0,no
+501092,10131,2026-03-19,orthopaedics,phone,low,none,6,27.0,public,2.2,4,0,38.0,no
+501093,10582,2026-03-19,orthopaedics,referral,normal,none,8,86.0,public,4.1,5,0,24.0,no
+501094,10740,2026-03-19,paediatrics,phone,low,sms,4,13.0,public,6.8,4,0,54.0,no
+501095,10740,2026-03-19,paediatrics,phone,low,sms,1,13.0,public,6.8,5,0,8.0,no
+501096,10940,2026-03-19,orthopaedics,phone,low,call,16,68.0,public,4.0,3,2,22.0,no
+501097,10098,2026-03-20,paediatrics,online,low,none,3,?,private,4.6,4,0,18.0,no
+501098,10189,2026-03-20,ophthalmology,phone,normal,none,22,43.0,private,5.6,3,0,9.0,no
+501099,10802,2026-03-20,dermatology,phone,normal,sms,2,48.0,public,15.2,4,2,?,yes
+501100,10907,2026-03-20,general practice,referral,normal,call,0,69.0,public,2.7,5,1,17.0,no
+501101,10943,2026-03-20,dermatology,referral,normal,call,10,91.0,public,1.4,0,0,?,yes
+501102,10104,2026-03-21,dermatology,phone,normal,none,4,83.0,public,15.9,3,0,6.0,no
+501103,10168,2026-03-21,dermatology,phone,low,sms,26,67.0,public,1.8,2,1,?,yes
+501104,10733,2026-03-21,paediatrics,online,low,sms,5,10.0,public,5.1,0,0,44.0,no
+501105,10760,2026-03-21,general practice,online,normal,sms,7,43.0,public,5.8,4,4,?,yes
+501106,10240,2026-03-22,general practice,online,normal,none,1,48.0,private,3.0,4,0,39.0,no
+501107,10285,2026-03-23,general practice,online,low,call,1,45.0,public,6.3,3,0,3.0,no
+501108,10301,2026-03-23,ophthalmology,online,low,sms,19,?,public,4.2,6,1,14.0,no
+501109,10352,2026-03-23,general practice,online,low,none,2,?,public,2.0,4,3,?,yes
+501110,10556,2026-03-23,ophthalmology,referral,normal,sms,39,84.0,public,9.9,1,0,19.0,no
+501111,10587,2026-03-23,ophthalmology,phone,low,sms,11,59.0,public,4.7,2,0,?,yes
+501112,10648,2026-03-23,dermatology,referral,low,sms,9,57.0,public,7.8,4,1,21.0,no
+501113,11022,2026-03-23,gynaecology,phone,high,none,1,43.0,private,3.0,2,0,25.0,no
+501114,10891,2026-03-24,cardiology,online,low,sms,14,?,private,9.4,6,0,6.0,no
+501115,10927,2026-03-24,general practice,phone,normal,sms,15,69.0,private,0.5,6,0,3.0,no
+501116,10130,2026-03-25,orthopaedics,phone,normal,none,32,36.0,public,1.3,5,3,?,yes
+501117,10335,2026-03-25,dermatology,phone,high,sms,1,76.0,public,12.2,0,0,12.0,no
+501118,10731,2026-03-25,general practice,phone,low,none,2,85.0,public,1.4,0,0,10.0,no
+501119,10753,2026-03-25,dermatology,phone,high,sms,4,84.0,public,5.0,4,1,17.0,no
+501120,10901,2026-03-25,ophthalmology,phone,low,none,20,33.0,private,1.5,7,3,?,yes
+501121,10040,2026-03-26,ophthalmology,phone,low,call,9,44.0,public,3.1,4,0,27.0,no
+501122,10174,2026-03-26,cardiology,online,low,call,68,46.0,public,1.2,4,0,24.0,no
+501123,10273,2026-03-26,cardiology,online,low,sms,14,71.0,public,2.2,1,0,16.0,no
+501124,10550,2026-03-26,orthopaedics,online,normal,call,9,71.0,public,4.5,5,0,?,yes
+501125,10948,2026-03-26,ophthalmology,phone,high,none,7,75.0,public,3.6,2,2,?,yes
+501126,10329,2026-03-27,paediatrics,referral,normal,none,3,8.0,public,2.5,7,2,26.0,no
+501127,10372,2026-03-27,orthopaedics,phone,high,call,6,46.0,private,?,4,0,8.0,no
+501128,10401,2026-03-27,general practice,referral,low,sms,6,36.0,public,3.0,3,0,27.0,no
+501129,10424,2026-03-27,dermatology,phone,low,sms,33,38.0,public,4.6,8,0,7.0,no
+501130,10459,2026-03-27,paediatrics,phone,low,call,14,9.0,public,11.9,3,1,10.0,no
+501131,10506,2026-03-27,cardiology,online,high,sms,0,53.0,public,2.7,6,3,42.0,no
+501132,10526,2026-03-27,gynaecology,online,low,sms,61,58.0,public,3.6,4,1,7.0,no
+501133,10917,2026-03-27,cardiology,referral,low,sms,34,57.0,private,1.4,5,1,16.0,no
+501134,10933,2026-03-27,orthopaedics,referral,low,sms,66,29.0,public,6.8,3,1,?,yes
+501135,11097,2026-03-27,cardiology,online,normal,none,22,268.0,public,5.2,3,0,7.0,no
+501136,10372,2026-03-28,dermatology,online,low,none,6,?,private,1.9,5,0,15.0,no
+501137,10688,2026-03-28,dermatology,online,normal,sms,10,?,public,5.2,3,0,17.0,no
+501138,10769,2026-03-28,orthopaedics,phone,high,call,6,92.0,private,0.9,5,2,12.0,no
+501139,10062,2026-03-29,ophthalmology,phone,low,sms,33,68.0,public,18.0,3,0,8.0,no
+501140,10115,2026-03-29,gynaecology,referral,normal,none,11,38.0,public,1.5,6,1,9.0,no
+501141,10471,2026-03-29,general practice,referral,low,none,13,60.0,public,8.2,6,2,35.0,no
+501142,10835,2026-03-29,orthopaedics,online,normal,sms,2,53.0,public,2.2,1,0,61.0,no
+501143,10891,2026-03-29,ophthalmology,referral,low,sms,149,38.0,private,9.4,7,0,17.0,no
+501144,10981,2026-03-29,general practice,online,high,sms,1,60.0,public,4.3,4,0,?,yes
+501145,10315,2026-03-30,cardiology,phone,low,call,11,55.0,public,4.2,5,1,11.0,no
+501146,10428,2026-03-30,paediatrics,online,normal,none,14,9.0,public,2.8,5,1,9.0,no
+501147,10748,2026-03-30,ophthalmology,phone,normal,sms,31,35.0,public,10.7,4,0,9.0,no
+501148,10792,2026-03-30,ophthalmology,referral,low,sms,23,92.0,public,1.7,1,0,6.0,no
+501149,11039,2026-03-30,general practice,online,normal,sms,3,31.0,public,2.7,0,0,13.0,no
+501150,10183,2026-03-31,paediatrics,phone,low,sms,6,2.0,public,11.0,5,1,40.0,no
+501151,10549,2026-03-31,general practice,referral,low,call,4,92.0,public,6.9,2,0,21.0,no
+501152,10780,2026-03-31,general practice,referral,normal,call,1,36.0,public,15.3,3,1,8.0,no
+501153,10925,2026-03-31,dermatology,online,low,sms,8,42.0,private,3.7,8,5,?,yes
+501154,11090,2026-03-31,general practice,phone,normal,none,1,36.0,public,6.9,5,0,28.0,no
+501155,10113,2026-04-01,dermatology,phone,low,none,4,60.0,private,15.2,4,1,14.0,no
+501156,10314,2026-04-01,general practice,phone,low,none,3,78.0,public,1.7,2,0,43.0,no
+501157,10317,2026-04-01,dermatology,online,low,none,5,79.0,public,2.2,5,0,10.0,no
+501158,10397,2026-04-01,ophthalmology,phone,low,none,51,54.0,public,2.9,3,3,?,yes
+501159,10423,2026-04-01,gynaecology,online,normal,none,41,74.0,public,3.2,4,1,?,yes
+501160,10566,2026-04-01,dermatology,online,low,sms,41,42.0,public,5.2,5,1,19.0,no
+501161,10642,2026-04-01,paediatrics,online,normal,sms,3,7.0,public,14.0,7,1,10.0,no
+501162,10773,2026-04-01,gynaecology,phone,normal,sms,42,92.0,public,4.2,9,0,4.0,no
+501163,10325,2026-04-02,ophthalmology,phone,low,call,21,51.0,public,5.6,2,0,10.0,no
+501164,10389,2026-04-02,dermatology,phone,normal,none,4,92.0,public,5.0,4,3,?,yes
+501165,10525,2026-04-02,cardiology,online,high,sms,11,48.0,public,11.9,2,0,16.0,no
+501166,10533,2026-04-02,general practice,phone,high,none,1,55.0,public,3.2,5,0,13.0,no
+501167,10536,2026-04-03,paediatrics,online,normal,sms,1,14.0,public,7.1,3,2,20.0,no
+501168,10550,2026-04-03,general practice,phone,low,sms,7,71.0,public,4.5,6,1,13.0,no
+501169,11050,2026-04-03,paediatrics,phone,normal,sms,5,14.0,public,1.3,2,1,16.0,no
+501170,10390,2026-04-04,general practice,phone,low,none,1,69.0,private,0.8,1,1,14.0,no
+501171,10445,2026-04-04,general practice,online,low,sms,12,53.0,private,1.3,4,0,26.0,no
+501172,10470,2026-04-04,paediatrics,phone,high,call,3,13.0,private,6.1,1,1,25.0,no
+501173,10483,2026-04-04,general practice,online,low,sms,5,49.0,public,18.1,2,0,38.0,no
+501174,10874,2026-04-04,ophthalmology,online,normal,none,8,45.0,public,5.8,5,2,?,yes
+501175,11058,2026-04-04,general practice,phone,normal,none,12,51.0,public,9.1,6,5,?,yes
+501176,10363,2026-04-05,dermatology,online,low,sms,3,62.0,public,4.0,3,0,21.0,no
+501177,11135,2026-04-05,general practice,phone,low,none,0,65.0,public,4.4,3,0,14.0,no
+501178,10579,2026-04-06,gynaecology,phone,low,sms,6,49.0,public,13.7,4,0,12.0,no
+501179,10631,2026-04-06,orthopaedics,referral,low,sms,103,75.0,private,2.7,3,0,12.0,no
+501180,10888,2026-04-06,gynaecology,online,high,sms,3,78.0,private,3.6,7,2,12.0,no
+501181,11085,2026-04-06,general practice,phone,low,sms,11,62.0,public,3.2,3,1,?,yes
+501182,10176,2026-04-07,orthopaedics,phone,normal,none,3,55.0,public,2.6,8,1,21.0,no
+501183,10193,2026-04-07,gynaecology,online,normal,sms,11,?,private,5.1,2,0,33.0,no
+501184,10374,2026-04-07,cardiology,phone,normal,sms,2,24.0,public,5.0,5,0,31.0,no
+501185,10912,2026-04-07,general practice,phone,normal,sms,5,37.0,public,6.3,2,0,14.0,no
+501186,10311,2026-04-08,general practice,referral,low,sms,16,92.0,private,9.8,6,1,24.0,no
+501187,10781,2026-04-08,dermatology,phone,normal,none,55,65.0,public,9.2,4,1,15.0,no
+501188,10986,2026-04-08,dermatology,phone,low,sms,9,31.0,public,5.4,2,0,39.0,no
+501189,11133,2026-04-08,general practice,referral,low,none,11,31.0,public,4.2,2,0,24.0,no
+501190,10694,2026-04-09,general practice,phone,low,none,11,67.0,public,16.4,7,2,10.0,no
+501191,10181,2026-04-10,paediatrics,referral,normal,sms,5,5.0,public,2.1,3,1,27.0,no
+501192,10674,2026-04-10,dermatology,phone,high,call,4,88.0,public,5.5,5,1,43.0,no
+501193,10697,2026-04-10,paediatrics,phone,normal,none,10,12.0,public,3.0,4,1,9.0,no
+501194,10840,2026-04-10,cardiology,online,low,none,14,59.0,public,3.0,1,0,11.0,no
+501195,10854,2026-04-10,gynaecology,referral,normal,sms,1,59.0,public,8.5,1,0,44.0,no
+501196,10072,2026-04-11,general practice,referral,normal,sms,5,37.0,public,4.1,6,1,6.0,no
+501197,10205,2026-04-11,ophthalmology,phone,low,sms,5,47.0,public,1.0,4,3,13.0,no
+501198,10217,2026-04-11,paediatrics,phone,low,call,10,8.0,public,2.5,2,2,?,yes
+501199,10332,2026-04-11,general practice,phone,normal,call,6,71.0,public,5.6,3,1,6.0,no
+501200,10371,2026-04-11,orthopaedics,phone,normal,sms,1,92.0,private,5.3,3,0,25.0,no
+501201,10739,2026-04-11,ophthalmology,phone,low,none,32,88.0,public,2.7,2,0,7.0,no
+501202,10761,2026-04-11,dermatology,online,normal,call,40,92.0,public,2.8,5,1,31.0,no
+501203,10927,2026-04-11,dermatology,phone,low,none,4,69.0,private,0.5,7,0,12.0,no
+501204,10943,2026-04-11,general practice,phone,normal,sms,4,91.0,public,1.4,1,1,20.0,no
+501205,10542,2026-04-12,general practice,referral,low,none,8,44.0,private,4.1,2,1,?,yes
+501206,10739,2026-04-12,general practice,phone,low,call,15,88.0,public,2.7,3,0,25.0,no
+501207,10868,2026-04-12,dermatology,phone,normal,sms,11,62.0,public,1.4,3,0,13.0,no
+501208,10949,2026-04-12,general practice,online,normal,none,4,49.0,public,10.9,2,0,10.0,no
+501209,10088,2026-04-13,general practice,referral,normal,call,6,55.0,public,1.5,8,2,15.0,no
+501210,10482,2026-04-13,cardiology,phone,high,none,3,61.0,public,0.9,4,0,12.0,no
+501211,10539,2026-04-13,cardiology,referral,normal,none,52,53.0,public,5.9,4,2,?,yes
+501212,10892,2026-04-13,gynaecology,referral,normal,sms,4,57.0,public,14.1,7,0,29.0,no
+501213,11038,2026-04-13,paediatrics,online,low,sms,12,?,public,2.6,6,1,20.0,no
+501214,10121,2026-04-14,paediatrics,online,low,none,14,10.0,public,2.5,1,0,2.0,no
+501215,10274,2026-04-14,dermatology,online,normal,call,25,45.0,public,6.1,4,2,?,yes
+501216,10592,2026-04-14,general practice,referral,normal,sms,4,65.0,public,4.7,4,3,9.0,no
+501217,10939,2026-04-14,general practice,phone,normal,sms,1,77.0,public,2.2,3,0,3.0,no
+501218,11044,2026-04-14,general practice,online,low,call,1,38.0,public,2.9,1,1,13.0,no
+501219,11131,2026-04-14,general practice,referral,normal,none,2,83.0,private,4.9,0,0,14.0,no
+501220,10409,2026-04-15,ophthalmology,phone,high,none,6,57.0,public,3.8,5,2,13.0,no
+501221,10691,2026-04-15,general practice,online,low,none,6,59.0,public,3.2,3,0,20.0,no
+501222,10858,2026-04-15,paediatrics,online,normal,sms,2,10.0,public,7.5,6,2,?,yes
+501223,10248,2026-04-16,general practice,online,low,none,6,?,public,2.8,2,0,18.0,no
+501224,10645,2026-04-16,general practice,online,normal,call,22,48.0,public,3.3,5,1,19.0,no
+501225,10919,2026-04-16,dermatology,online,normal,sms,1,42.0,public,3.3,3,2,?,yes
+501226,11076,2026-04-16,paediatrics,phone,low,none,0,10.0,private,4.9,1,1,15.0,no
+501227,10061,2026-04-17,cardiology,phone,normal,sms,4,80.0,private,3.3,4,0,34.0,no
+501228,10233,2026-04-17,paediatrics,referral,low,none,1,1.0,public,2.2,5,2,3.0,no
+501229,10842,2026-04-17,ophthalmology,referral,low,none,13,40.0,private,4.2,2,0,43.0,no
+501230,11067,2026-04-17,paediatrics,online,low,sms,10,7.0,private,1.8,6,1,33.0,no
+501231,10237,2026-04-18,paediatrics,phone,low,sms,12,6.0,private,20.7,2,1,16.0,no
+501232,10267,2026-04-18,general practice,phone,low,none,14,92.0,public,?,2,0,19.0,no
+501233,10437,2026-04-18,general practice,referral,high,call,1,34.0,public,3.2,3,1,23.0,no
+501234,10731,2026-04-18,ophthalmology,phone,normal,none,7,85.0,public,1.4,1,0,7.0,no
+501235,10797,2026-04-18,dermatology,online,low,sms,30,44.0,private,4.2,5,1,5.0,no
+501236,10961,2026-04-18,general practice,online,low,sms,12,54.0,public,3.9,1,1,?,yes
+501237,10020,2026-04-19,ophthalmology,phone,normal,none,3,49.0,public,5.3,7,6,21.0,no
+501238,10042,2026-04-19,paediatrics,phone,low,sms,13,1.0,public,14.1,3,0,6.0,no
+501239,10538,2026-04-19,orthopaedics,online,high,sms,2,?,private,5.2,3,0,19.0,no
+501240,10005,2026-04-20,orthopaedics,phone,high,call,2,31.0,private,4.8,5,0,13.0,no
+501241,10089,2026-04-20,gynaecology,online,high,none,3,54.0,public,5.8,9,8,?,yes
+501242,10275,2026-04-20,dermatology,phone,low,sms,2,68.0,public,4.7,6,0,?,yes
+501243,10650,2026-04-20,general practice,phone,low,none,16,45.0,public,3.3,3,0,16.0,no
+501244,10733,2026-04-20,paediatrics,phone,low,none,6,10.0,public,5.1,1,0,?,yes
+501245,10159,2026-04-21,ophthalmology,phone,low,none,2,47.0,public,6.6,5,0,21.0,no
+501246,10368,2026-04-21,cardiology,referral,low,sms,16,58.0,public,7.6,4,2,?,yes
+501247,10884,2026-04-21,paediatrics,phone,low,sms,42,8.0,private,15.0,4,1,7.0,no
+501248,11019,2026-04-21,paediatrics,referral,high,none,0,10.0,public,5.5,5,0,10.0,no
+501249,11044,2026-04-21,dermatology,online,low,sms,9,38.0,public,2.9,2,1,?,yes
+501250,11140,2026-04-21,paediatrics,online,normal,sms,12,?,private,1.3,2,0,7.0,no
+501251,10127,2026-04-22,general practice,phone,low,call,0,72.0,public,4.7,3,0,11.0,no
+501252,10131,2026-04-22,general practice,online,low,call,2,27.0,public,2.2,5,0,10.0,no
+501253,10382,2026-04-23,gynaecology,online,high,sms,8,62.0,public,1.9,4,1,25.0,no
+501254,10778,2026-04-23,orthopaedics,phone,low,none,7,92.0,private,5.6,3,1,?,yes
+501255,10021,2026-04-24,gynaecology,phone,normal,sms,9,78.0,private,8.9,3,0,22.0,no
+501256,10053,2026-04-24,gynaecology,online,low,none,1,?,public,1.7,6,3,32.0,no
+501257,10153,2026-04-24,ophthalmology,referral,low,sms,28,38.0,public,3.7,1,0,21.0,no
+501258,10257,2026-04-24,orthopaedics,phone,low,sms,88,40.0,public,5.9,5,1,4.0,no
+501259,10414,2026-04-24,paediatrics,online,low,sms,19,12.0,public,2.5,3,0,41.0,no
+501260,10594,2026-04-24,general practice,online,low,sms,6,57.0,public,3.9,7,0,21.0,no
+501261,10716,2026-04-24,gynaecology,phone,high,sms,5,73.0,private,8.5,3,0,15.0,no
+501262,10729,2026-04-24,gynaecology,phone,normal,call,2,58.0,public,1.9,6,1,30.0,no
+501263,10928,2026-04-24,general practice,referral,high,none,4,?,private,9.1,5,0,14.0,no
+501264,10939,2026-04-24,general practice,phone,normal,none,3,77.0,public,2.2,4,0,57.0,no
+501265,10118,2026-04-25,orthopaedics,phone,normal,sms,1,92.0,public,2.1,6,1,28.0,no
+501266,10533,2026-04-25,general practice,phone,low,sms,19,55.0,public,3.2,6,0,16.0,no
+501267,10733,2026-04-25,paediatrics,online,low,sms,24,10.0,public,5.1,2,1,?,yes
+501268,10341,2026-04-26,general practice,phone,high,sms,0,61.0,public,2.6,3,0,16.0,no
+501269,10364,2026-04-26,orthopaedics,phone,normal,none,29,91.0,public,9.8,4,1,15.0,no
+501270,10380,2026-04-26,paediatrics,online,low,none,0,2.0,public,15.3,3,0,30.0,no
+501271,10537,2026-04-26,gynaecology,referral,low,sms,20,57.0,public,3.2,5,1,25.0,no
+501272,10710,2026-04-26,general practice,phone,normal,none,8,50.0,public,4.4,2,0,7.0,no
+501273,10734,2026-04-26,paediatrics,phone,high,none,1,2.0,public,4.7,5,0,9.0,no
+501274,11111,2026-04-26,cardiology,phone,low,call,27,92.0,public,3.4,5,0,6.0,no
+501275,10167,2026-04-27,general practice,phone,low,call,3,36.0,public,4.0,3,1,20.0,no
+501276,10479,2026-04-27,general practice,phone,low,none,12,49.0,public,0.8,5,0,29.0,no
+501277,10563,2026-04-27,orthopaedics,online,normal,sms,17,61.0,private,3.0,4,0,11.0,no
+501278,10617,2026-04-27,general practice,online,low,sms,2,?,public,5.7,4,1,18.0,no
+501279,10022,2026-04-28,general practice,referral,normal,none,0,42.0,public,5.3,6,0,6.0,no
+501280,10928,2026-04-28,cardiology,online,low,sms,29,59.0,private,9.1,6,0,21.0,no
+501281,11064,2026-04-28,gynaecology,phone,low,sms,8,?,public,0.9,6,4,46.0,no
+501282,10662,2026-04-29,general practice,phone,low,none,9,79.0,private,6.2,5,1,5.0,no
+501283,11083,2026-04-29,gynaecology,phone,low,sms,7,58.0,public,3.5,4,0,6.0,no
+501284,10378,2026-04-30,general practice,phone,low,none,5,41.0,public,8.2,6,1,7.0,no
+501285,10772,2026-04-30,general practice,phone,high,none,4,76.0,public,4.0,3,0,11.0,no
+501286,10860,2026-04-30,dermatology,referral,low,sms,3,81.0,private,6.2,2,0,22.0,no
+501287,10900,2026-04-30,gynaecology,referral,high,none,6,62.0,public,?,1,0,26.0,no
+501288,10327,2026-05-01,orthopaedics,phone,normal,sms,1,73.0,public,4.0,8,0,20.0,no
+501289,10509,2026-05-01,general practice,phone,high,none,0,60.0,public,11.2,3,0,12.0,no
+501290,10587,2026-05-01,general practice,phone,low,sms,0,59.0,public,4.7,3,1,10.0,no
+501291,10628,2026-05-01,paediatrics,online,low,sms,1,?,private,?,2,1,27.0,no
+501292,10914,2026-05-01,gynaecology,phone,high,call,1,92.0,public,8.9,1,0,28.0,no
+501293,10574,2026-05-02,cardiology,phone,normal,call,56,56.0,public,10.1,7,4,?,yes
+501294,10849,2026-05-02,general practice,phone,normal,call,0,92.0,public,8.5,7,2,21.0,no
+501295,11004,2026-05-02,dermatology,online,normal,sms,4,72.0,public,?,1,0,22.0,no
+501296,11106,2026-05-02,general practice,phone,low,none,6,60.0,public,1.8,2,1,23.0,no
+501297,10397,2026-05-03,cardiology,phone,low,sms,14,54.0,public,2.9,4,4,?,yes
+501298,10005,2026-05-04,cardiology,phone,low,none,15,31.0,private,4.8,6,0,?,yes
+501299,10226,2026-05-04,ophthalmology,phone,normal,none,2,82.0,private,?,4,0,9.0,no
+501300,10235,2026-05-04,general practice,online,low,none,3,47.0,public,6.2,1,0,13.0,no
+501301,10583,2026-05-04,ophthalmology,phone,high,sms,7,36.0,public,2.0,4,0,20.0,no
+501302,11105,2026-05-04,orthopaedics,online,high,sms,1,67.0,private,3.1,1,0,7.0,no
+501303,10094,2026-05-05,cardiology,referral,normal,sms,10,36.0,public,?,9,0,22.0,no
+501304,10387,2026-05-05,general practice,referral,low,sms,9,70.0,public,3.6,4,0,41.0,no
+501305,10534,2026-05-05,dermatology,phone,normal,none,3,48.0,public,8.0,5,0,?,yes
+501306,10782,2026-05-05,general practice,phone,high,none,0,69.0,public,3.3,2,0,21.0,no
+501307,10489,2026-05-06,general practice,online,low,sms,3,45.0,public,3.7,2,1,?,yes
+501308,10624,2026-05-06,general practice,phone,low,none,10,71.0,public,16.1,1,0,?,yes
+501309,10207,2026-05-07,paediatrics,phone,normal,none,1,14.0,private,11.5,1,0,7.0,no
+501310,10298,2026-05-07,general practice,phone,normal,none,7,38.0,public,5.1,7,1,27.0,no
+501311,10369,2026-05-07,general practice,phone,normal,none,1,92.0,public,1.6,3,2,42.0,no
+501312,10398,2026-05-07,gynaecology,online,high,call,1,49.0,public,1.1,3,0,8.0,no
+501313,10443,2026-05-07,general practice,phone,normal,none,0,76.0,public,7.2,6,1,25.0,no
+501314,10886,2026-05-07,general practice,phone,low,sms,26,75.0,public,4.7,5,0,15.0,no
+501315,10906,2026-05-07,ophthalmology,phone,normal,none,33,76.0,public,7.0,3,1,?,yes
+501316,10298,2026-05-08,orthopaedics,phone,low,none,50,38.0,public,5.1,8,1,30.0,no
+501317,10837,2026-05-08,orthopaedics,phone,low,call,9,?,public,13.2,4,0,11.0,no
+501318,11025,2026-05-08,cardiology,phone,low,none,97,51.0,public,4.5,2,0,17.0,no
+501319,11107,2026-05-08,general practice,phone,low,call,11,74.0,public,9.2,2,1,13.0,no
+501320,10017,2026-05-09,cardiology,phone,normal,none,32,69.0,public,2.8,2,0,37.0,no
+501321,10131,2026-05-09,general practice,online,low,call,9,27.0,public,2.2,6,0,20.0,no
+501322,10555,2026-05-09,ophthalmology,online,normal,none,5,?,public,0.8,4,1,29.0,no
+501323,10632,2026-05-09,ophthalmology,phone,high,call,17,61.0,public,24.4,7,5,19.0,no
+501324,10819,2026-05-09,general practice,phone,low,sms,16,37.0,private,5.5,1,0,2.0,no
+501325,10835,2026-05-09,orthopaedics,online,low,call,9,?,public,?,2,0,?,yes
+501326,10913,2026-05-09,paediatrics,online,normal,none,1,5.0,public,1.3,1,0,12.0,no
+501327,10431,2026-05-10,ophthalmology,online,high,sms,8,43.0,private,2.2,1,0,25.0,no
+501328,10568,2026-05-10,cardiology,phone,low,call,26,81.0,public,5.7,0,0,27.0,no
+501329,10664,2026-05-10,general practice,referral,low,call,17,82.0,public,6.3,2,0,36.0,no
+501330,11041,2026-05-10,general practice,phone,low,none,3,88.0,public,10.7,4,0,20.0,no
+501331,10022,2026-05-11,ophthalmology,referral,low,none,18,42.0,public,5.3,7,0,5.0,no
+501332,10379,2026-05-11,paediatrics,online,normal,sms,3,?,public,2.3,2,0,28.0,no
+501333,10897,2026-05-11,orthopaedics,online,low,sms,3,?,public,9.1,3,0,15.0,no
+501334,10475,2026-05-12,gynaecology,phone,low,call,35,32.0,public,1.6,1,0,23.0,no
+501335,10522,2026-05-12,general practice,online,normal,call,1,39.0,public,1.9,5,0,17.0,no
+501336,10613,2026-05-12,general practice,phone,high,sms,1,39.0,public,0.5,3,1,2.0,no
+501337,11049,2026-05-12,orthopaedics,phone,high,sms,3,84.0,public,1.3,6,0,17.0,no
+501338,10101,2026-05-13,general practice,online,high,none,2,45.0,public,4.7,2,0,15.0,no
+501339,10112,2026-05-13,general practice,online,low,sms,3,46.0,public,?,3,1,7.0,no
+501340,10782,2026-05-13,cardiology,phone,low,none,8,69.0,public,3.3,3,0,12.0,no
+501341,11049,2026-05-13,general practice,phone,normal,sms,3,84.0,public,1.3,7,0,7.0,no
+501342,10267,2026-05-14,general practice,phone,low,sms,3,92.0,public,3.2,3,0,?,yes
+501343,10432,2026-05-14,general practice,phone,normal,none,2,67.0,public,?,3,0,31.0,no
+501344,10551,2026-05-14,general practice,online,high,sms,2,36.0,public,1.0,2,1,18.0,no
+501345,10590,2026-05-14,general practice,phone,high,none,0,92.0,public,5.8,1,0,10.0,no
+501346,10788,2026-05-14,dermatology,online,high,sms,14,?,public,7.4,2,2,?,yes
+501347,10879,2026-05-14,general practice,referral,low,none,16,34.0,public,2.9,6,0,4.0,no
+501348,10461,2026-05-15,paediatrics,referral,low,none,2,2.0,public,4.3,2,0,38.0,no
+501349,10889,2026-05-15,cardiology,phone,low,sms,7,68.0,private,4.4,0,0,?,yes
+501350,10904,2026-05-15,dermatology,online,normal,sms,44,36.0,public,1.3,1,1,?,yes
+501351,10062,2026-05-16,cardiology,referral,high,none,4,68.0,public,?,4,0,20.0,no
+501352,10468,2026-05-16,gynaecology,referral,low,none,38,58.0,private,4.7,2,1,11.0,no
+501353,10603,2026-05-16,dermatology,phone,low,call,76,72.0,public,4.1,2,0,15.0,no
+501354,11104,2026-05-16,orthopaedics,phone,low,call,18,35.0,private,?,3,1,34.0,no
+501355,10268,2026-05-17,dermatology,phone,low,sms,2,33.0,public,6.5,2,0,44.0,no
+501356,10520,2026-05-17,gynaecology,referral,normal,none,16,46.0,public,4.1,2,0,23.0,no
+501357,10841,2026-05-17,orthopaedics,phone,normal,call,0,67.0,public,1.8,3,2,6.0,no
+501358,10865,2026-05-17,general practice,phone,high,none,1,92.0,private,9.5,6,3,9.0,no
+501359,10941,2026-05-17,paediatrics,phone,low,none,23,6.0,public,4.1,3,0,20.0,no
+501360,10989,2026-05-17,orthopaedics,phone,low,none,12,52.0,public,1.4,8,3,11.0,no
+501361,11127,2026-05-17,paediatrics,referral,normal,none,24,2.0,public,1.9,5,2,?,yes
+501362,10076,2026-05-18,general practice,referral,normal,none,5,90.0,public,7.4,4,2,56.0,no
+501363,10251,2026-05-18,cardiology,phone,normal,call,21,47.0,public,2.7,8,1,21.0,no
+501364,10435,2026-05-18,cardiology,phone,normal,sms,13,87.0,public,3.5,3,1,19.0,no
+501365,10079,2026-05-19,general practice,phone,low,none,5,92.0,public,3.8,6,0,?,yes
+501366,10111,2026-05-19,general practice,referral,high,sms,1,65.0,public,6.9,2,0,26.0,no
+501367,10150,2026-05-19,general practice,phone,high,call,2,49.0,public,?,4,1,4.0,no
+501368,10700,2026-05-19,dermatology,phone,high,none,9,57.0,public,17.1,1,0,13.0,no
+501369,11142,2026-05-19,general practice,online,low,call,2,62.0,public,16.0,4,1,21.0,no
+501370,10507,2026-05-21,dermatology,phone,high,none,2,70.0,private,1.8,7,0,4.0,no
+501371,10709,2026-05-21,dermatology,phone,low,none,48,68.0,public,4.6,4,2,?,yes
+501372,10999,2026-05-22,orthopaedics,referral,low,call,30,61.0,public,12.6,4,0,22.0,no
+501373,11000,2026-05-22,dermatology,phone,normal,none,26,81.0,public,6.4,4,0,14.0,no
+501374,10096,2026-05-23,gynaecology,referral,low,none,1,48.0,public,9.5,7,1,15.0,no
+501375,10833,2026-05-23,paediatrics,online,low,sms,1,13.0,public,0.9,6,2,12.0,no
+501376,10132,2026-05-24,paediatrics,phone,low,none,1,12.0,public,4.2,2,1,34.0,no
+501377,10669,2026-05-25,general practice,referral,low,none,6,71.0,private,4.4,3,0,26.0,no
+501378,10885,2026-05-25,cardiology,phone,normal,none,1,92.0,public,?,1,0,22.0,no
+501379,11081,2026-05-25,paediatrics,phone,normal,sms,1,2.0,public,?,3,0,2.0,no
+501380,10188,2026-05-26,gynaecology,phone,low,sms,22,80.0,public,?,6,2,?,yes
+501381,10380,2026-05-26,paediatrics,phone,low,none,2,2.0,public,15.3,4,0,27.0,no
+501382,10612,2026-05-26,paediatrics,online,normal,sms,4,9.0,public,4.4,3,0,6.0,no
+501383,10954,2026-05-27,general practice,phone,normal,sms,6,92.0,private,3.3,5,4,8.0,no
+501384,10959,2026-05-27,gynaecology,phone,high,sms,3,33.0,public,1.8,5,0,8.0,no
+501385,11013,2026-05-27,general practice,phone,low,sms,3,35.0,public,6.3,4,0,21.0,no
+501386,10126,2026-05-28,general practice,phone,normal,sms,1,92.0,public,6.3,2,0,23.0,no
+501387,10160,2026-05-28,dermatology,phone,normal,call,30,83.0,private,1.9,5,0,14.0,no
+501388,10460,2026-05-28,general practice,referral,low,sms,6,83.0,public,10.5,2,2,16.0,no
+501389,10560,2026-05-28,ophthalmology,online,high,sms,7,?,public,4.2,1,0,?,yes
+501390,10961,2026-05-28,dermatology,online,normal,none,1,54.0,public,3.9,2,2,6.0,no
+501391,10244,2026-05-29,gynaecology,phone,normal,sms,20,36.0,public,2.3,2,0,33.0,no
+501392,10327,2026-05-29,dermatology,referral,low,call,53,73.0,public,4.0,9,0,?,yes
+501393,10597,2026-05-29,general practice,online,low,none,12,65.0,private,3.4,5,1,?,yes
+501394,10818,2026-05-29,general practice,phone,normal,sms,10,64.0,private,3.8,4,2,32.0,no
+501395,10948,2026-05-29,orthopaedics,phone,low,none,20,75.0,public,3.6,3,3,12.0,no
+501396,10769,2026-05-30,orthopaedics,phone,low,none,10,92.0,private,0.9,6,2,?,yes
+501397,11130,2026-05-30,general practice,phone,normal,call,16,69.0,public,1.1,6,1,26.0,no
+501398,10197,2026-05-31,cardiology,online,low,call,22,51.0,public,1.4,3,1,19.0,no
+501399,10655,2026-05-31,dermatology,phone,normal,none,7,48.0,public,13.0,3,0,16.0,no
+501400,10765,2026-05-31,general practice,phone,low,sms,11,69.0,private,1.3,4,2,24.0,no
+501401,11139,2026-05-31,general practice,phone,normal,sms,4,65.0,public,4.8,2,0,5.0,no
+501402,10403,2026-06-01,general practice,online,normal,call,1,47.0,public,5.5,6,2,27.0,no
+501403,10915,2026-06-01,general practice,phone,low,sms,1,40.0,public,3.7,3,0,21.0,no
+501404,10269,2026-06-02,gynaecology,phone,low,none,29,92.0,public,12.7,2,0,37.0,no
+501405,10293,2026-06-02,dermatology,phone,low,none,57,36.0,public,7.0,2,0,?,yes
+501406,10691,2026-06-02,cardiology,online,low,sms,10,59.0,public,3.2,4,0,38.0,no
+501407,10226,2026-06-03,general practice,referral,low,sms,2,82.0,private,?,5,0,?,yes
+501408,10333,2026-06-03,general practice,referral,low,call,2,44.0,public,0.9,6,3,10.0,no
+501409,10410,2026-06-03,general practice,phone,low,sms,14,83.0,public,5.8,8,2,?,yes
+501410,10767,2026-06-03,paediatrics,phone,normal,sms,5,9.0,public,2.3,5,1,21.0,no
+501411,10774,2026-06-03,general practice,phone,normal,none,3,92.0,public,11.3,2,1,?,yes
+501412,10112,2026-06-04,dermatology,phone,normal,none,35,46.0,public,4.6,4,1,10.0,no
+501413,10318,2026-06-04,paediatrics,phone,high,none,3,6.0,public,6.1,5,0,14.0,no
+501414,10422,2026-06-04,dermatology,phone,high,sms,5,92.0,public,3.1,3,0,9.0,no
+501415,10441,2026-06-04,general practice,phone,low,none,10,76.0,public,?,3,0,31.0,no
+501416,10710,2026-06-04,general practice,online,low,sms,4,50.0,public,4.4,3,0,43.0,no
+501417,10779,2026-06-04,dermatology,online,high,sms,5,26.0,public,3.8,2,1,47.0,no
+501418,10815,2026-06-04,cardiology,online,low,sms,8,53.0,private,2.6,6,2,?,yes
+501419,10295,2026-06-05,general practice,phone,low,none,4,54.0,private,1.0,6,1,16.0,no
+501420,10438,2026-06-05,dermatology,phone,low,none,32,52.0,public,1.9,5,1,?,yes
+501421,10956,2026-06-05,paediatrics,phone,normal,sms,4,11.0,public,1.8,3,0,34.0,no
+501422,10184,2026-06-06,paediatrics,phone,low,none,9,7.0,public,7.6,4,0,?,yes
+501423,10488,2026-06-06,orthopaedics,phone,normal,none,1,69.0,public,4.0,6,0,45.0,no
+501424,10690,2026-06-06,general practice,referral,high,sms,0,62.0,public,?,2,0,27.0,no
+501425,10774,2026-06-06,general practice,referral,normal,none,2,92.0,public,11.3,3,2,?,yes
+501426,10810,2026-06-07,general practice,phone,low,sms,6,29.0,private,16.7,2,0,17.0,no
+501427,10811,2026-06-07,cardiology,phone,normal,none,18,65.0,public,5.9,3,0,32.0,no
+501428,10824,2026-06-07,cardiology,referral,high,sms,5,62.0,public,1.4,2,0,24.0,no
+501429,10952,2026-06-07,general practice,phone,low,sms,2,78.0,public,?,5,0,16.0,no
+501430,10146,2026-06-08,cardiology,online,normal,sms,2,40.0,public,11.2,4,1,?,yes
+501431,10926,2026-06-08,gynaecology,phone,normal,sms,48,62.0,public,8.2,2,1,?,yes
+501432,11006,2026-06-08,ophthalmology,phone,normal,sms,26,82.0,public,4.4,2,0,?,yes
+501433,10080,2026-06-09,dermatology,referral,high,sms,4,60.0,public,2.8,3,0,4.0,no
+501434,10204,2026-06-09,general practice,phone,low,call,4,46.0,public,3.5,3,0,2.0,no
+501435,10255,2026-06-09,ophthalmology,phone,normal,none,52,92.0,public,?,3,0,3.0,no
+501436,10473,2026-06-09,cardiology,referral,normal,sms,6,62.0,public,6.8,4,0,36.0,no
+501437,10600,2026-06-09,gynaecology,phone,high,none,7,32.0,public,10.2,3,0,15.0,no
+501438,10696,2026-06-09,cardiology,online,normal,sms,3,59.0,public,1.0,0,0,4.0,no
+501439,10870,2026-06-09,gynaecology,online,high,call,3,40.0,public,9.8,2,0,6.0,no
+501440,10998,2026-06-09,ophthalmology,online,low,call,22,37.0,public,7.6,4,0,3.0,no
+501441,10042,2026-06-10,paediatrics,referral,normal,call,4,?,public,14.1,4,0,26.0,no
+501442,10348,2026-06-10,cardiology,referral,low,none,6,69.0,public,4.7,1,0,?,yes
+501443,10741,2026-06-10,general practice,online,low,call,5,64.0,public,3.0,2,0,20.0,no
+501444,11050,2026-06-10,paediatrics,online,low,sms,3,14.0,public,1.3,3,1,31.0,no
+501445,11106,2026-06-10,ophthalmology,phone,high,none,2,60.0,public,1.8,3,1,10.0,no
+501446,10060,2026-06-11,dermatology,referral,low,sms,59,84.0,public,9.8,6,0,11.0,no
+501447,10075,2026-06-11,orthopaedics,online,low,sms,3,92.0,public,7.6,4,0,1.0,no
+501448,10512,2026-06-11,orthopaedics,phone,normal,call,72,88.0,public,5.1,7,1,5.0,no
+501449,10582,2026-06-11,general practice,referral,low,none,3,86.0,public,4.1,6,0,28.0,no
+501450,10626,2026-06-11,paediatrics,phone,low,call,12,4.0,public,5.8,3,1,30.0,no
+501451,10722,2026-06-11,general practice,referral,high,sms,0,72.0,private,3.3,3,0,5.0,no
+501452,10818,2026-06-11,general practice,referral,low,sms,8,64.0,private,3.8,5,2,38.0,no
+501453,10383,2026-06-12,general practice,referral,low,none,1,42.0,private,12.7,4,0,24.0,no
+501454,10471,2026-06-12,general practice,phone,low,none,9,60.0,public,8.2,7,2,?,yes
+501455,10482,2026-06-12,general practice,referral,high,none,2,61.0,public,0.9,5,0,42.0,no
+501456,10938,2026-06-12,orthopaedics,phone,high,none,2,43.0,public,2.7,5,3,14.0,no
+501457,10229,2026-06-13,cardiology,phone,normal,none,14,67.0,public,3.5,4,1,?,yes
+501458,10411,2026-06-13,ophthalmology,phone,normal,none,21,74.0,public,4.5,3,0,25.0,no
+501459,10605,2026-06-13,paediatrics,online,low,call,20,6.0,public,7.0,4,0,?,yes
+501460,10978,2026-06-13,gynaecology,referral,low,none,33,47.0,public,1.0,1,0,9.0,no
+501461,11139,2026-06-13,gynaecology,referral,low,sms,19,65.0,public,4.8,3,0,5.0,no
+501462,10293,2026-06-14,gynaecology,phone,normal,call,18,36.0,public,7.0,3,1,27.0,no
+501463,10437,2026-06-14,general practice,phone,high,none,0,34.0,public,3.2,4,1,13.0,no
+501464,10774,2026-06-14,orthopaedics,phone,normal,sms,14,92.0,public,11.3,4,3,3.0,no
+501465,10180,2026-06-15,general practice,phone,normal,none,3,52.0,private,2.8,7,4,?,yes
+501466,10288,2026-06-15,ophthalmology,phone,low,call,41,87.0,public,2.7,2,0,?,yes
+501467,10381,2026-06-15,dermatology,phone,low,sms,15,81.0,public,9.7,3,0,?,yes
+501468,10418,2026-06-15,paediatrics,online,normal,none,1,5.0,public,2.7,7,2,18.0,no
+501469,10466,2026-06-15,orthopaedics,online,normal,call,2,64.0,private,?,3,0,13.0,no
+501470,10745,2026-06-15,general practice,phone,low,call,17,43.0,public,3.4,2,1,25.0,no
+501471,10038,2026-06-16,orthopaedics,phone,low,none,87,58.0,public,1.8,3,0,14.0,no
+501472,10177,2026-06-16,ophthalmology,phone,high,none,1,50.0,private,?,2,1,15.0,no
+501473,10353,2026-06-16,general practice,online,high,sms,2,25.0,private,3.4,2,0,10.0,no
+501474,10610,2026-06-16,orthopaedics,phone,low,call,23,71.0,public,10.4,3,0,?,yes
+501475,10878,2026-06-16,general practice,phone,low,call,10,92.0,public,7.1,9,4,36.0,no
+501476,10894,2026-06-16,general practice,phone,normal,none,3,88.0,public,2.3,2,0,14.0,no
+501477,10032,2026-06-17,general practice,phone,high,call,1,64.0,public,13.6,5,3,21.0,no
+501478,10219,2026-06-17,dermatology,phone,normal,call,3,42.0,public,4.4,4,0,?,yes
+501479,10410,2026-06-18,cardiology,online,low,call,7,83.0,public,5.8,9,3,44.0,no
+501480,10473,2026-06-18,cardiology,referral,normal,sms,16,62.0,public,6.8,5,0,12.0,no
+501481,10484,2026-06-18,paediatrics,phone,low,none,12,10.0,public,2.8,2,1,22.0,no
+501482,10699,2026-06-18,cardiology,phone,normal,sms,33,80.0,public,6.1,4,0,20.0,no
+501483,10751,2026-06-18,ophthalmology,phone,high,sms,0,92.0,public,1.7,7,1,26.0,no
+501484,10836,2026-06-18,cardiology,online,low,sms,16,32.0,public,2.4,3,0,12.0,no
+501485,10909,2026-06-18,gynaecology,referral,low,sms,17,69.0,public,2.9,1,0,16.0,no
+501486,10218,2026-06-19,paediatrics,referral,low,none,1,6.0,public,1.3,0,0,?,yes
+501487,10345,2026-06-19,general practice,phone,normal,sms,1,40.0,private,9.3,5,1,2.0,no
+501488,10691,2026-06-19,dermatology,phone,normal,none,15,59.0,public,3.2,5,0,9.0,no
+501489,10104,2026-06-20,general practice,phone,low,sms,1,83.0,public,15.9,4,0,13.0,no
+501490,10431,2026-06-20,gynaecology,phone,normal,sms,3,43.0,private,2.2,2,0,15.0,no
+501491,10442,2026-06-20,paediatrics,online,normal,sms,5,7.0,public,5.0,3,0,29.0,no
+501492,10864,2026-06-20,general practice,phone,low,none,9,62.0,public,?,5,1,43.0,no
+501493,11022,2026-06-20,cardiology,referral,low,sms,9,43.0,private,3.0,3,0,34.0,no
+501494,11082,2026-06-20,orthopaedics,referral,normal,none,10,74.0,public,6.1,3,1,19.0,no
+501495,10768,2026-06-21,gynaecology,referral,normal,call,24,21.0,private,3.8,2,1,3.0,no
+501496,10902,2026-06-21,cardiology,phone,low,call,38,77.0,public,2.0,4,0,14.0,no
+501497,10355,2026-06-22,paediatrics,online,normal,none,15,4.0,public,4.4,0,0,9.0,no
+501498,10666,2026-06-22,gynaecology,referral,high,call,3,58.0,public,2.0,1,0,11.0,no
+501499,10731,2026-06-22,general practice,online,low,sms,4,?,public,1.4,2,0,7.0,no
+501500,11026,2026-06-22,gynaecology,online,high,sms,5,50.0,private,5.4,4,1,29.0,no
+501501,11135,2026-06-22,general practice,phone,low,none,18,65.0,public,4.4,4,0,7.0,no
+501502,10107,2026-06-23,general practice,phone,normal,call,3,34.0,private,12.3,2,0,22.0,no
+501503,10129,2026-06-23,orthopaedics,phone,high,none,2,92.0,public,1.6,3,1,18.0,no
+501504,10515,2026-06-23,paediatrics,phone,normal,none,8,9.0,public,3.7,2,1,31.0,no
+501505,10756,2026-06-23,general practice,online,normal,sms,0,51.0,public,2.3,2,0,?,yes
+501506,10785,2026-06-23,gynaecology,phone,high,none,1,81.0,private,6.1,9,2,18.0,no
+501507,10236,2026-06-24,paediatrics,online,low,sms,10,?,public,4.9,4,1,35.0,no
+501508,10407,2026-06-24,paediatrics,phone,normal,none,3,7.0,public,2.1,4,0,10.0,no
+501509,10645,2026-06-24,cardiology,phone,high,call,8,48.0,public,?,6,1,5.0,no
+501510,10180,2026-06-25,dermatology,phone,high,none,2,52.0,private,2.8,8,5,22.0,no
+501511,10450,2026-06-25,cardiology,referral,high,none,2,48.0,public,5.2,3,2,42.0,no
+501512,10822,2026-06-25,ophthalmology,online,low,sms,36,62.0,private,9.2,2,0,?,yes
+501513,10959,2026-06-25,orthopaedics,phone,normal,sms,11,33.0,public,1.8,6,0,44.0,no
+501514,10066,2026-06-26,general practice,phone,low,call,12,35.0,public,2.9,4,1,3.0,no
+501515,10203,2026-06-26,cardiology,phone,low,none,19,92.0,public,18.0,5,1,?,yes
+501516,10317,2026-06-26,dermatology,phone,normal,sms,27,79.0,public,2.2,6,0,17.0,no
+501517,11087,2026-06-26,paediatrics,online,normal,none,5,?,private,4.8,7,2,?,yes
+501518,10776,2026-06-27,dermatology,phone,high,none,4,63.0,private,3.2,1,1,?,yes
+501519,10801,2026-06-27,orthopaedics,phone,low,call,39,92.0,public,4.4,4,0,12.0,no
+501520,10995,2026-06-27,paediatrics,phone,normal,none,5,11.0,private,4.2,4,0,11.0,no
+501521,11097,2026-06-27,general practice,phone,low,none,7,26.0,public,5.2,4,0,6.0,no
+501522,11112,2026-06-27,general practice,phone,normal,none,4,44.0,public,4.0,1,0,7.0,no
+501523,10272,2026-06-28,cardiology,phone,high,none,2,92.0,public,2.0,5,1,15.0,no
+501524,10324,2026-06-28,general practice,referral,low,none,5,62.0,public,10.0,6,3,?,yes
+501525,10447,2026-06-28,paediatrics,phone,high,sms,1,14.0,public,4.4,6,4,?,yes
+501526,10846,2026-06-28,general practice,phone,low,none,2,63.0,public,6.7,4,1,23.0,no
+501527,11068,2026-06-28,general practice,phone,low,call,3,76.0,private,1.4,2,0,19.0,no
+501528,10077,2026-06-29,paediatrics,phone,normal,call,13,12.0,private,5.1,3,1,5.0,no
+501529,10093,2026-06-29,general practice,online,low,call,11,64.0,public,7.1,3,0,25.0,no
+501530,10366,2026-06-29,general practice,referral,normal,sms,3,52.0,private,4.5,6,2,49.0,no
+501531,10615,2026-06-29,gynaecology,phone,low,sms,11,92.0,public,2.2,7,0,3.0,no
+501532,10366,2026-06-30,ophthalmology,referral,low,none,8,52.0,private,4.5,7,2,28.0,no
+501533,10481,2026-06-30,gynaecology,referral,normal,call,8,76.0,public,4.5,3,0,13.0,no
+501534,10486,2026-06-30,general practice,phone,normal,none,22,92.0,public,1.6,4,0,14.0,no
+501535,11108,2026-06-30,general practice,referral,low,none,25,68.0,public,44.0,4,1,28.0,no
+501536,10110,2026-07-01,general practice,online,normal,sms,4,55.0,public,2.0,3,1,19.0,no
+501537,10189,2026-07-01,cardiology,phone,normal,sms,14,?,private,5.6,4,0,40.0,no
+501538,10294,2026-07-01,ophthalmology,phone,normal,call,82,47.0,public,15.7,4,1,?,yes
+501539,10558,2026-07-01,gynaecology,phone,low,sms,10,92.0,public,5.0,0,0,?,yes
+501540,10601,2026-07-01,paediatrics,online,low,sms,4,7.0,public,3.6,7,1,24.0,no
+501541,10086,2026-07-02,paediatrics,phone,normal,none,4,2.0,public,7.3,2,1,?,yes
+501542,10928,2026-07-02,gynaecology,online,normal,sms,6,59.0,private,9.1,7,0,29.0,no
+501543,11116,2026-07-02,gynaecology,referral,high,call,1,59.0,public,2.1,4,0,41.0,no
+501544,11125,2026-07-02,cardiology,phone,low,none,1,56.0,private,5.9,4,1,25.0,no
+501545,10566,2026-07-03,gynaecology,phone,normal,call,15,42.0,public,5.2,6,1,12.0,no
+501546,10806,2026-07-03,cardiology,referral,high,call,0,29.0,public,5.7,3,1,4.0,no
+501547,10101,2026-07-04,cardiology,referral,normal,call,3,45.0,public,4.7,3,0,19.0,no
+501548,10474,2026-07-04,gynaecology,phone,low,none,14,34.0,private,2.9,4,0,26.0,no
+501549,10508,2026-07-04,general practice,phone,normal,sms,6,92.0,private,?,8,1,22.0,no
+501550,10570,2026-07-04,general practice,online,low,sms,11,49.0,private,4.1,2,0,10.0,no
+501551,10576,2026-07-04,gynaecology,phone,low,call,7,81.0,public,4.4,7,2,11.0,no
+501552,10855,2026-07-04,general practice,phone,normal,call,5,77.0,public,6.2,2,0,11.0,no
+501553,10949,2026-07-04,general practice,referral,normal,call,3,49.0,public,10.9,3,0,11.0,no
+501554,10041,2026-07-05,paediatrics,phone,high,sms,1,14.0,public,3.5,5,2,14.0,no
+501555,10087,2026-07-05,ophthalmology,phone,low,sms,46,59.0,public,11.4,6,2,?,yes
+501556,10179,2026-07-05,dermatology,phone,low,none,9,72.0,public,1.2,1,0,8.0,no
+501557,10514,2026-07-05,general practice,phone,normal,none,2,47.0,public,8.2,1,0,8.0,no
+501558,11057,2026-07-05,paediatrics,phone,low,none,10,13.0,public,1.3,2,0,17.0,no
+501559,11088,2026-07-05,cardiology,phone,low,none,6,43.0,public,3.3,3,0,7.0,no
+501560,10000,2026-07-06,general practice,referral,low,none,12,37.0,public,7.5,2,1,?,yes
+501561,10619,2026-07-06,paediatrics,referral,high,none,2,3.0,public,12.8,5,3,?,yes
+501562,10036,2026-07-07,orthopaedics,phone,low,none,28,48.0,public,8.8,3,1,?,yes
+501563,10127,2026-07-07,dermatology,online,low,sms,40,72.0,public,4.7,4,0,54.0,no
+501564,10416,2026-07-07,general practice,referral,low,none,14,72.0,private,5.5,2,2,?,yes
+501565,10703,2026-07-07,dermatology,phone,low,sms,12,80.0,public,3.6,3,3,?,yes
+501566,10142,2026-07-09,cardiology,phone,low,sms,38,36.0,private,6.7,2,1,17.0,no
+501567,10177,2026-07-09,general practice,online,normal,sms,2,50.0,private,4.8,3,1,41.0,no
+501568,10200,2026-07-09,gynaecology,phone,normal,sms,5,55.0,public,3.0,1,0,17.0,no
+501569,10299,2026-07-09,dermatology,phone,normal,call,0,39.0,public,2.0,5,0,49.0,no
+501570,10441,2026-07-09,orthopaedics,phone,normal,none,12,76.0,public,9.1,4,0,27.0,no
+501571,10821,2026-07-09,general practice,phone,low,sms,31,47.0,public,9.3,5,1,?,yes
+501572,10936,2026-07-09,cardiology,online,normal,sms,67,57.0,private,0.4,2,1,46.0,no
+501573,10857,2026-07-10,cardiology,online,normal,sms,14,49.0,public,8.3,6,2,23.0,no
+501574,10803,2026-07-11,ophthalmology,online,low,sms,40,49.0,public,4.4,2,0,3.0,no
+501575,10914,2026-07-11,general practice,online,high,none,1,92.0,public,8.9,2,0,7.0,no
+501576,11111,2026-07-11,general practice,phone,high,sms,1,92.0,public,3.4,6,0,36.0,no
+501577,10031,2026-07-12,cardiology,phone,low,sms,51,34.0,public,2.0,8,0,?,yes
+501578,10230,2026-07-12,paediatrics,phone,normal,call,0,11.0,private,9.2,5,0,6.0,no
+501579,10743,2026-07-12,dermatology,referral,low,call,125,92.0,public,3.9,5,2,8.0,no
+501580,10771,2026-07-12,paediatrics,phone,high,none,1,9.0,private,1.9,5,0,8.0,no
+501581,10902,2026-07-12,dermatology,referral,low,none,23,77.0,public,2.0,5,0,11.0,no
+501582,11032,2026-07-12,general practice,online,normal,sms,2,?,public,1.3,4,0,10.0,no
+501583,11148,2026-07-12,dermatology,phone,high,none,5,53.0,public,3.0,6,3,?,yes
+501584,10281,2026-07-13,general practice,referral,normal,none,2,90.0,public,2.5,2,1,20.0,no
+501585,10535,2026-07-13,gynaecology,phone,normal,none,40,92.0,public,4.3,5,0,66.0,no
+501586,10622,2026-07-13,general practice,referral,normal,call,13,62.0,public,6.5,6,0,?,yes
+501587,10490,2026-07-14,general practice,online,low,none,23,54.0,public,5.1,2,2,?,yes
+501588,11043,2026-07-14,paediatrics,referral,normal,sms,1,10.0,private,3.8,2,0,15.0,no
+501589,10071,2026-07-15,paediatrics,phone,low,none,6,1.0,public,2.2,5,1,18.0,no
+501590,10243,2026-07-15,orthopaedics,referral,high,sms,3,70.0,private,5.4,4,0,25.0,no
+501591,10304,2026-07-15,paediatrics,referral,low,sms,13,3.0,public,11.7,0,0,5.0,no
+501592,10551,2026-07-15,general practice,phone,low,none,3,36.0,public,1.0,3,1,10.0,no
+501593,10678,2026-07-15,ophthalmology,phone,low,call,2,81.0,public,1.0,2,1,15.0,no
+501594,11088,2026-07-15,orthopaedics,phone,normal,sms,11,43.0,public,3.3,4,0,45.0,no
+501595,11107,2026-07-15,general practice,phone,low,sms,9,74.0,public,?,3,1,30.0,no
+501596,10096,2026-07-16,general practice,phone,low,call,6,48.0,public,9.5,8,1,26.0,no
+501597,10197,2026-07-16,gynaecology,phone,normal,sms,20,51.0,public,1.4,4,1,19.0,no
+501598,10386,2026-07-16,general practice,phone,normal,call,6,55.0,private,12.7,2,0,40.0,no
+501599,10496,2026-07-16,gynaecology,phone,normal,none,4,41.0,public,?,3,2,58.0,no
+501600,10622,2026-07-17,general practice,referral,low,call,2,62.0,public,6.5,7,1,37.0,no
+501601,11021,2026-07-17,dermatology,phone,low,sms,16,36.0,private,9.2,3,0,12.0,no
+501602,11062,2026-07-17,general practice,phone,high,none,5,45.0,public,4.0,2,1,16.0,no
+501603,10455,2026-07-18,ophthalmology,referral,normal,none,14,27.0,private,3.0,4,0,?,yes
+501604,10478,2026-07-18,orthopaedics,online,low,none,3,60.0,public,3.2,1,0,?,yes
+501605,11035,2026-07-18,paediatrics,referral,low,call,12,5.0,private,2.2,2,0,7.0,no
+501606,11073,2026-07-18,general practice,phone,normal,call,8,33.0,public,6.7,1,1,19.0,no
+501607,11123,2026-07-18,general practice,phone,low,none,0,91.0,public,3.7,8,0,24.0,no
+501608,10223,2026-07-19,general practice,referral,low,none,20,73.0,private,2.6,3,0,?,yes
+501609,10359,2026-07-19,orthopaedics,phone,low,call,79,52.0,public,9.7,3,3,?,yes
+501610,10727,2026-07-19,general practice,online,normal,sms,3,22.0,private,3.5,1,1,?,yes
+501611,10762,2026-07-19,ophthalmology,online,low,none,114,58.0,private,6.0,2,0,4.0,no
+501612,10929,2026-07-19,general practice,phone,low,none,4,61.0,public,5.5,3,0,20.0,no
+501613,10164,2026-07-20,orthopaedics,referral,normal,sms,30,49.0,private,3.6,1,0,32.0,no
+501614,10247,2026-07-20,cardiology,online,normal,sms,39,?,public,2.1,2,0,36.0,no
+501615,10530,2026-07-20,paediatrics,phone,normal,none,5,2.0,public,3.7,3,0,31.0,no
+501616,10036,2026-07-21,ophthalmology,online,low,call,37,48.0,public,8.8,4,2,11.0,no
+501617,10095,2026-07-21,gynaecology,phone,high,sms,5,65.0,public,?,7,0,4.0,no
+501618,10514,2026-07-21,general practice,referral,high,none,2,478.0,public,8.2,2,0,20.0,no
+501619,10176,2026-07-22,orthopaedics,referral,normal,sms,37,55.0,public,2.6,9,1,8.0,no
+501620,10299,2026-07-22,general practice,phone,low,none,3,39.0,public,2.0,6,0,6.0,no
+501621,10737,2026-07-22,general practice,online,high,none,0,47.0,public,2.8,4,0,7.0,no
+501622,10827,2026-07-22,general practice,referral,low,sms,19,66.0,public,4.7,4,2,13.0,no
+501623,10361,2026-07-23,paediatrics,phone,low,none,9,12.0,public,3.4,2,0,23.0,no
+501624,10004,2026-07-24,cardiology,online,low,sms,40,58.0,private,3.2,3,2,?,yes
+501625,10018,2026-07-24,general practice,referral,low,sms,1,92.0,public,29.5,4,3,?,yes
+501626,10137,2026-07-24,ophthalmology,online,low,sms,11,?,public,5.5,8,4,?,yes
+501627,10505,2026-07-24,cardiology,phone,normal,call,5,45.0,public,2.3,6,0,3.0,no
+501628,10652,2026-07-24,dermatology,phone,normal,sms,1,42.0,public,?,4,1,8.0,no
+501629,10129,2026-07-25,cardiology,online,low,sms,6,?,public,1.6,4,1,27.0,no
+501630,10750,2026-07-25,paediatrics,phone,low,none,8,9.0,public,3.7,4,0,18.0,no
+501631,10569,2026-07-26,paediatrics,phone,low,none,21,1.0,private,6.8,3,0,9.0,no
+501632,10869,2026-07-26,general practice,online,low,sms,15,72.0,public,?,2,1,3.0,no
+501633,10950,2026-07-26,ophthalmology,referral,low,none,6,49.0,private,1.9,4,1,13.0,no
+501634,10264,2026-07-27,orthopaedics,online,low,none,4,55.0,private,1.8,3,1,6.0,no
+501635,10314,2026-07-27,general practice,phone,high,sms,1,78.0,public,1.7,3,0,2.0,no
+501636,10408,2026-07-27,cardiology,phone,low,none,77,66.0,public,3.4,5,1,27.0,no
+501637,10749,2026-07-27,orthopaedics,phone,low,none,32,92.0,public,8.1,6,3,?,yes
+501638,10059,2026-07-28,general practice,online,normal,sms,9,64.0,public,2.8,3,2,15.0,no
+501639,10510,2026-07-28,orthopaedics,online,normal,sms,24,51.0,public,3.3,4,0,14.0,no
+501640,10837,2026-07-28,gynaecology,phone,low,sms,77,40.0,public,13.2,5,0,13.0,no
+501641,10578,2026-07-29,orthopaedics,online,normal,call,26,?,public,1.3,2,1,17.0,no
+501642,10333,2026-07-30,dermatology,online,high,sms,1,44.0,public,0.9,7,3,20.0,no
+501643,10555,2026-07-30,general practice,online,high,call,0,64.0,public,0.8,5,1,12.0,no
+501644,10594,2026-07-30,ophthalmology,online,low,call,80,57.0,public,?,8,0,22.0,no
+501645,10813,2026-07-30,ophthalmology,phone,normal,call,30,50.0,public,7.9,7,2,?,yes
+501646,11075,2026-07-30,dermatology,online,low,none,20,?,public,2.7,4,0,6.0,no
+501647,10055,2026-07-31,general practice,phone,normal,sms,5,38.0,public,1.3,6,3,?,yes
+501648,10331,2026-07-31,dermatology,referral,low,call,14,53.0,private,1.0,7,1,7.0,no
+501649,10890,2026-07-31,gynaecology,online,normal,sms,8,?,public,4.1,5,0,11.0,no
+501650,10041,2026-08-01,paediatrics,phone,low,sms,3,14.0,public,3.5,6,2,21.0,no
+501651,10225,2026-08-01,gynaecology,phone,high,sms,1,44.0,private,?,3,0,18.0,no
+501652,10262,2026-08-01,general practice,referral,normal,none,4,60.0,private,8.6,3,0,21.0,no
+501653,10020,2026-08-02,orthopaedics,referral,normal,none,4,49.0,public,?,8,6,?,yes
+501654,10089,2026-08-02,orthopaedics,online,low,sms,4,?,public,5.8,10,9,?,yes
+501655,10362,2026-08-02,general practice,phone,low,call,3,51.0,public,8.8,5,0,17.0,no
+501656,10495,2026-08-02,gynaecology,phone,low,sms,22,67.0,public,11.3,9,2,4.0,no
+501657,11071,2026-08-02,gynaecology,phone,normal,call,7,56.0,private,5.7,2,0,8.0,no
+501658,11084,2026-08-02,paediatrics,phone,low,none,5,12.0,private,12.0,2,0,29.0,no
+501659,10284,2026-08-03,orthopaedics,online,low,sms,12,63.0,public,2.8,1,1,3.0,no
+501660,10339,2026-08-03,general practice,online,low,sms,3,38.0,public,1.5,4,0,34.0,no
+501661,10550,2026-08-03,orthopaedics,online,low,none,33,71.0,public,4.5,7,1,?,yes
+501662,10917,2026-08-03,general practice,phone,low,sms,0,57.0,private,1.4,6,1,35.0,no
+501663,10937,2026-08-03,cardiology,phone,low,none,2,73.0,public,4.3,2,1,?,yes
+501664,11010,2026-08-03,orthopaedics,online,normal,sms,20,71.0,public,2.5,7,0,34.0,no
+501665,10106,2026-08-04,orthopaedics,phone,low,sms,18,51.0,private,0.8,4,3,44.0,no
+501666,10244,2026-08-04,gynaecology,phone,low,none,21,36.0,public,2.3,3,0,16.0,no
+501667,10818,2026-08-04,dermatology,online,normal,sms,8,?,private,3.8,6,2,28.0,no
+501668,11072,2026-08-04,general practice,online,normal,sms,1,36.0,public,5.1,4,0,27.0,no
+501669,10119,2026-08-05,ophthalmology,phone,normal,call,28,45.0,public,6.7,0,0,19.0,no
+501670,10303,2026-08-05,gynaecology,online,normal,sms,3,73.0,private,11.8,1,0,13.0,no
+501671,10448,2026-08-05,general practice,referral,low,none,5,40.0,public,4.9,3,1,?,yes
+501672,10531,2026-08-05,paediatrics,phone,low,none,1,1.0,public,3.6,5,0,10.0,no
+501673,10565,2026-08-05,cardiology,online,low,none,49,?,private,3.5,1,0,?,yes
+501674,10662,2026-08-05,ophthalmology,phone,normal,sms,11,79.0,private,6.2,6,1,39.0,no
+501675,10850,2026-08-05,ophthalmology,phone,low,sms,3,64.0,private,4.9,2,2,?,yes
+501676,10125,2026-08-06,dermatology,online,normal,sms,5,72.0,public,4.4,7,0,?,yes
+501677,10228,2026-08-06,dermatology,phone,normal,none,3,?,public,?,2,0,38.0,no
+501678,10245,2026-08-06,dermatology,referral,low,none,12,50.0,private,2.7,5,2,23.0,no
+501679,10434,2026-08-06,orthopaedics,referral,high,sms,1,51.0,public,3.7,3,0,12.0,no
+501680,10609,2026-08-06,cardiology,online,normal,sms,11,52.0,private,11.5,9,1,11.0,no
+501681,10997,2026-08-06,general practice,referral,low,none,1,67.0,public,?,0,0,9.0,no
+501682,10471,2026-08-07,orthopaedics,phone,normal,sms,6,60.0,public,8.2,8,3,?,yes
+501683,10787,2026-08-07,general practice,referral,high,sms,1,37.0,public,2.4,6,2,47.0,no
+501684,10864,2026-08-07,cardiology,online,normal,none,8,62.0,public,3.1,6,1,43.0,no
+501685,11080,2026-08-07,ophthalmology,online,normal,none,12,44.0,public,3.8,2,0,27.0,no
+501686,11085,2026-08-07,orthopaedics,online,low,sms,4,62.0,public,3.2,4,2,?,yes
+501687,10030,2026-08-08,ophthalmology,phone,low,none,20,74.0,public,13.3,4,0,20.0,no
+501688,10037,2026-08-08,dermatology,phone,low,none,28,92.0,public,5.2,1,0,10.0,no
+501689,10054,2026-08-08,ophthalmology,phone,normal,none,54,44.0,public,2.4,4,1,?,yes
+501690,10715,2026-08-08,general practice,phone,low,none,15,70.0,private,2.9,3,1,?,yes
+501691,10867,2026-08-08,general practice,online,high,sms,0,44.0,public,2.7,2,0,19.0,no
+501692,10344,2026-08-09,dermatology,online,low,sms,16,?,private,?,6,0,52.0,no
+501693,11018,2026-08-09,cardiology,referral,normal,none,8,80.0,public,5.2,5,1,17.0,no
+501694,10266,2026-08-10,ophthalmology,online,low,sms,39,?,public,6.3,2,0,47.0,no
+501695,10763,2026-08-10,orthopaedics,phone,normal,none,49,91.0,public,23.9,4,1,?,yes
+501696,10518,2026-08-11,general practice,phone,low,none,9,70.0,public,3.6,3,1,12.0,no
+501697,10673,2026-08-11,orthopaedics,online,normal,call,4,37.0,private,11.1,3,1,16.0,no
+501698,10757,2026-08-11,cardiology,referral,normal,sms,3,51.0,public,12.5,4,1,4.0,no
+501699,10029,2026-08-12,general practice,referral,low,none,3,47.0,public,2.9,2,0,15.0,no
+501700,10139,2026-08-12,cardiology,phone,low,none,0,80.0,public,2.8,1,0,15.0,no
+501701,10302,2026-08-12,general practice,online,high,call,1,53.0,public,1.3,2,1,87.0,no
+501702,10534,2026-08-12,general practice,referral,low,none,3,48.0,public,8.0,6,1,12.0,no
+501703,10586,2026-08-12,dermatology,phone,high,none,8,27.0,private,3.1,0,0,6.0,no
+501704,10235,2026-08-13,orthopaedics,phone,normal,sms,2,47.0,public,6.2,2,0,18.0,no
+501705,10305,2026-08-13,gynaecology,phone,normal,none,32,40.0,public,3.5,0,0,?,yes
+501706,10702,2026-08-13,general practice,referral,low,none,6,37.0,public,4.1,0,0,27.0,no
+501707,10955,2026-08-13,cardiology,phone,low,sms,48,92.0,public,6.5,2,1,3.0,no
+501708,10969,2026-08-13,orthopaedics,phone,low,sms,16,35.0,private,5.4,0,0,40.0,no
+501709,11033,2026-08-13,paediatrics,referral,high,sms,1,8.0,public,1.8,3,0,37.0,no
+501710,11086,2026-08-13,general practice,phone,high,sms,0,61.0,public,3.5,3,1,46.0,no
+501711,10794,2026-08-14,orthopaedics,phone,high,call,2,92.0,public,1.9,7,2,8.0,no
+501712,11028,2026-08-14,ophthalmology,online,low,none,24,90.0,public,4.8,2,1,?,yes
+501713,10766,2026-08-15,paediatrics,referral,low,none,16,11.0,public,3.5,9,1,17.0,no
+501714,10880,2026-08-15,ophthalmology,online,low,sms,8,?,public,3.4,3,0,?,yes
+501715,10941,2026-08-15,paediatrics,referral,normal,call,0,6.0,public,4.1,4,0,41.0,no
+501716,11009,2026-08-15,general practice,referral,low,sms,1,52.0,public,4.7,1,0,5.0,no
+501717,10079,2026-08-16,general practice,phone,high,sms,1,92.0,public,3.8,7,1,56.0,no
+501718,10170,2026-08-16,cardiology,phone,low,call,29,92.0,public,1.6,3,0,24.0,no
+501719,10222,2026-08-16,general practice,referral,normal,none,2,43.0,public,3.9,5,2,?,yes
+501720,10232,2026-08-16,general practice,online,normal,sms,1,?,public,3.1,2,0,33.0,no
+501721,10239,2026-08-16,general practice,online,low,sms,20,43.0,public,2.6,4,0,9.0,no
+501722,10322,2026-08-16,ophthalmology,phone,normal,call,10,92.0,public,9.7,0,0,14.0,no
+501723,10434,2026-08-16,general practice,referral,high,none,0,51.0,public,?,4,0,17.0,no
+501724,10752,2026-08-16,general practice,phone,normal,sms,2,66.0,public,5.2,7,1,14.0,no
+501725,11132,2026-08-16,gynaecology,phone,low,call,50,66.0,public,3.7,6,4,47.0,no
+501726,10315,2026-08-17,general practice,online,low,call,5,55.0,public,4.2,6,1,17.0,no
+501727,10331,2026-08-17,orthopaedics,online,low,sms,5,?,private,1.0,8,1,16.0,no
+501728,10861,2026-08-17,cardiology,online,high,call,11,?,public,3.0,7,2,38.0,no
+501729,11029,2026-08-17,dermatology,online,high,sms,5,48.0,public,1.4,3,0,54.0,no
+501730,10147,2026-08-18,gynaecology,phone,low,none,21,70.0,public,?,4,0,31.0,no
+501731,10395,2026-08-18,general practice,phone,low,sms,3,71.0,private,6.6,4,1,18.0,no
+501732,11118,2026-08-18,gynaecology,phone,high,none,7,60.0,private,3.0,5,0,22.0,no
+501733,10731,2026-08-19,orthopaedics,phone,high,none,4,85.0,public,1.4,3,0,7.0,no
+501734,10767,2026-08-19,paediatrics,phone,normal,sms,10,9.0,public,2.3,6,1,16.0,no
+501735,10920,2026-08-19,dermatology,referral,normal,sms,9,43.0,public,2.3,1,0,22.0,no
+501736,11052,2026-08-19,orthopaedics,online,low,sms,34,89.0,public,5.0,2,0,22.0,no
+501737,10322,2026-08-20,gynaecology,phone,low,sms,26,92.0,public,9.7,1,0,28.0,no
+501738,10623,2026-08-21,cardiology,referral,normal,sms,4,68.0,public,6.2,6,1,18.0,no
+501739,10722,2026-08-21,gynaecology,referral,high,sms,33,72.0,private,3.3,4,0,2.0,no
+501740,10925,2026-08-21,general practice,phone,normal,none,21,42.0,private,3.7,9,6,?,yes
+501741,11048,2026-08-21,cardiology,online,high,sms,11,59.0,public,17.6,7,2,2.0,no
+501742,10625,2026-08-22,cardiology,phone,high,sms,1,55.0,public,28.6,5,0,30.0,no
+501743,10389,2026-08-23,dermatology,phone,low,none,31,92.0,public,5.0,5,4,?,yes
+501744,10522,2026-08-23,gynaecology,referral,low,none,25,39.0,public,1.9,6,0,17.0,no
+501745,10602,2026-08-23,orthopaedics,phone,normal,call,25,63.0,private,3.4,1,0,17.0,no
+501746,10951,2026-08-23,dermatology,referral,low,none,8,28.0,public,4.8,1,1,?,yes
+501747,10962,2026-08-23,cardiology,phone,high,none,0,83.0,public,1.8,2,1,12.0,no
+501748,11027,2026-08-23,paediatrics,phone,high,none,3,1.0,public,5.3,5,1,16.0,no
+501749,11116,2026-08-23,general practice,referral,normal,call,4,59.0,public,2.1,5,0,17.0,no
+501750,10458,2026-08-24,paediatrics,online,normal,sms,7,9.0,public,0.7,4,1,22.0,no
+501751,10638,2026-08-24,cardiology,phone,low,none,16,48.0,private,12.1,5,1,27.0,no
+501752,10947,2026-08-24,cardiology,online,normal,sms,15,?,public,1.8,9,3,22.0,no
+501753,11078,2026-08-24,gynaecology,referral,low,none,8,68.0,public,0.9,7,1,36.0,no
+501754,10080,2026-08-25,general practice,phone,low,none,5,60.0,public,2.8,4,0,17.0,no
+501755,10271,2026-08-25,ophthalmology,online,low,sms,23,29.0,public,4.5,3,1,26.0,no
+501756,10284,2026-08-25,cardiology,referral,low,sms,5,63.0,public,2.8,2,1,3.0,no
+501757,10376,2026-08-25,paediatrics,online,normal,call,10,13.0,private,11.9,4,1,13.0,no
+501758,10566,2026-08-25,general practice,online,low,sms,2,?,public,5.2,7,1,24.0,no
+501759,10636,2026-08-25,paediatrics,referral,high,call,1,1.0,public,7.6,7,0,4.0,no
+501760,11069,2026-08-25,general practice,phone,low,call,17,62.0,public,14.9,4,1,?,yes
+501761,10232,2026-08-26,orthopaedics,referral,normal,sms,7,61.0,public,3.1,3,0,15.0,no
+501762,10097,2026-08-27,general practice,online,low,sms,1,31.0,public,1.3,6,0,9.0,no
+501763,10843,2026-08-27,general practice,phone,normal,none,0,?,public,6.2,6,4,4.0,no
+501764,10964,2026-08-27,paediatrics,referral,normal,none,11,2.0,public,3.7,1,0,13.0,no
+501765,10014,2026-08-28,paediatrics,phone,normal,none,1,14.0,private,6.1,0,0,?,yes
+501766,10071,2026-08-28,paediatrics,phone,normal,none,0,1.0,public,2.2,6,1,35.0,no
+501767,10245,2026-08-28,cardiology,phone,low,sms,13,50.0,private,2.7,6,2,15.0,no
+501768,10344,2026-08-28,general practice,online,low,sms,5,46.0,private,?,7,0,6.0,no
+501769,10463,2026-08-28,general practice,phone,low,sms,19,26.0,public,5.5,3,1,?,yes
+501770,11001,2026-08-28,paediatrics,phone,high,call,3,12.0,private,1.1,3,1,11.0,no
+501771,11077,2026-08-28,general practice,online,low,call,20,?,public,4.0,1,0,8.0,no
+501772,10018,2026-08-29,cardiology,referral,low,none,58,92.0,public,29.5,5,4,?,yes
+501773,10146,2026-08-29,ophthalmology,phone,low,call,9,40.0,public,11.2,5,2,19.0,no
+501774,10181,2026-08-29,paediatrics,online,normal,sms,7,5.0,public,2.1,4,1,?,yes
+501775,10286,2026-08-29,gynaecology,phone,high,sms,11,32.0,public,?,5,1,7.0,no
+501776,10569,2026-08-29,paediatrics,phone,low,none,5,1.0,private,6.8,4,0,14.0,no
+501777,10639,2026-08-29,general practice,online,normal,sms,5,?,public,12.6,7,1,11.0,no
+501778,10923,2026-08-29,dermatology,phone,high,none,6,81.0,public,0.7,3,2,?,yes
+501779,11025,2026-08-29,general practice,phone,low,sms,7,51.0,public,4.5,3,0,20.0,no
+501780,10439,2026-08-30,cardiology,online,normal,sms,30,?,public,2.8,3,1,24.0,no
+501781,10450,2026-08-30,dermatology,phone,normal,sms,5,48.0,public,5.2,4,2,57.0,no
+501782,10486,2026-08-30,gynaecology,phone,high,none,7,92.0,public,1.6,5,0,36.0,no
+501783,10511,2026-08-30,general practice,phone,normal,none,16,48.0,public,4.2,4,1,?,yes
+501784,10591,2026-08-30,general practice,phone,normal,none,9,84.0,private,12.6,1,1,?,yes
+501785,10695,2026-08-30,orthopaedics,referral,low,sms,18,81.0,private,4.8,4,0,48.0,no
+501786,10752,2026-08-30,gynaecology,phone,normal,call,10,66.0,public,5.2,8,1,3.0,no
+501787,10755,2026-08-30,dermatology,phone,low,none,11,66.0,public,0.5,5,1,29.0,no
+501788,10868,2026-08-30,general practice,referral,low,sms,18,62.0,public,1.4,4,0,7.0,no
+501789,11024,2026-08-30,general practice,referral,high,sms,2,92.0,private,3.6,3,0,14.0,no
+501790,11028,2026-08-30,cardiology,phone,normal,none,18,90.0,public,4.8,3,2,?,yes
+501791,10103,2026-08-31,general practice,online,normal,sms,4,?,private,8.6,5,0,27.0,no
+501792,10701,2026-08-31,gynaecology,referral,low,none,15,68.0,public,3.2,3,0,25.0,no
+501793,11106,2026-08-31,general practice,online,normal,sms,5,60.0,public,1.8,4,1,12.0,no
+501794,10425,2026-09-01,ophthalmology,referral,normal,none,12,92.0,public,10.4,3,1,?,yes
+501795,10749,2026-09-01,dermatology,phone,low,sms,6,92.0,public,8.1,7,4,?,yes
+501796,11089,2026-09-01,orthopaedics,phone,low,sms,15,29.0,public,10.0,3,0,28.0,no
+501797,10162,2026-09-02,dermatology,phone,low,sms,13,34.0,private,7.7,2,0,7.0,no
+501798,10165,2026-09-02,gynaecology,referral,high,sms,10,88.0,private,1.4,8,4,?,yes
+501799,10255,2026-09-03,orthopaedics,phone,low,none,18,92.0,public,6.0,4,0,20.0,no
+501800,10330,2026-09-03,general practice,online,low,call,3,56.0,public,5.5,3,1,?,yes
+501801,10685,2026-09-03,dermatology,phone,high,none,16,92.0,private,21.3,3,1,30.0,no
+501802,11002,2026-09-03,general practice,phone,normal,sms,1,39.0,private,2.9,3,1,?,yes
+501803,10766,2026-09-04,paediatrics,phone,normal,sms,3,11.0,public,3.5,10,1,27.0,no
+501804,11041,2026-09-04,dermatology,referral,low,call,13,88.0,public,10.7,5,0,21.0,no
+501805,11147,2026-09-04,general practice,online,low,none,1,44.0,public,2.6,4,0,10.0,no
+501806,10547,2026-09-05,paediatrics,online,normal,none,13,2.0,public,12.6,6,4,?,yes
+501807,10051,2026-09-06,dermatology,phone,low,none,4,72.0,private,4.3,4,1,7.0,no
+501808,10151,2026-09-06,gynaecology,phone,high,sms,0,59.0,private,6.4,2,1,30.0,no
+501809,10168,2026-09-06,orthopaedics,phone,normal,none,7,67.0,public,1.8,3,2,30.0,no
+501810,10306,2026-09-06,gynaecology,phone,low,none,16,63.0,private,1.2,7,1,12.0,no
+501811,10403,2026-09-06,general practice,phone,normal,none,10,47.0,public,5.5,7,2,?,yes
+501812,10452,2026-09-06,general practice,phone,high,sms,1,64.0,public,2.4,4,1,10.0,no
+501813,10456,2026-09-06,dermatology,online,low,call,40,54.0,private,8.5,0,0,23.0,no
+501814,10527,2026-09-06,gynaecology,online,low,none,4,39.0,public,4.6,6,1,12.0,no
+501815,10593,2026-09-06,ophthalmology,referral,low,none,15,92.0,public,2.1,2,0,13.0,no
+501816,10049,2026-09-07,paediatrics,phone,low,call,6,2.0,private,2.8,4,0,57.0,no
+501817,10562,2026-09-07,paediatrics,phone,low,sms,4,10.0,public,2.7,6,3,9.0,no
+501818,10686,2026-09-07,dermatology,online,low,sms,5,44.0,public,1.7,6,1,?,yes
+501819,10423,2026-09-08,gynaecology,referral,low,sms,6,74.0,public,3.2,5,2,7.0,no
+501820,10538,2026-09-08,general practice,online,low,sms,3,48.0,private,5.2,4,0,18.0,no
+501821,10651,2026-09-08,orthopaedics,phone,low,sms,77,73.0,public,12.6,3,1,?,yes
+501822,10713,2026-09-08,gynaecology,online,low,none,7,64.0,private,3.1,3,0,25.0,no
+501823,11050,2026-09-08,paediatrics,referral,low,sms,6,14.0,public,1.3,4,1,?,yes
+501824,10064,2026-09-09,paediatrics,phone,low,sms,4,12.0,public,5.7,4,0,41.0,no
+501825,10365,2026-09-09,paediatrics,referral,low,sms,7,8.0,public,8.3,2,0,35.0,no
+501826,10056,2026-09-10,general practice,phone,normal,call,2,47.0,public,6.0,8,2,3.0,no
+501827,10400,2026-09-10,dermatology,phone,normal,call,42,54.0,public,3.2,1,0,16.0,no
+501828,10437,2026-09-10,ophthalmology,referral,normal,none,7,34.0,public,3.2,5,1,12.0,no
+501829,10859,2026-09-10,general practice,phone,low,sms,3,75.0,public,3.5,2,0,13.0,no
+501830,11115,2026-09-10,general practice,phone,low,sms,8,37.0,public,6.1,3,0,12.0,no
+501831,10175,2026-09-11,ophthalmology,phone,normal,call,13,47.0,public,4.0,5,0,11.0,no
+501832,10291,2026-09-11,dermatology,phone,normal,none,7,64.0,public,6.4,1,0,22.0,no
+501833,10771,2026-09-11,paediatrics,online,high,sms,2,?,private,1.9,6,0,25.0,no
+501834,10887,2026-09-11,paediatrics,phone,low,call,29,3.0,private,7.2,4,2,12.0,no
+501835,10960,2026-09-11,orthopaedics,referral,normal,sms,0,76.0,public,11.5,7,3,35.0,no
+501836,11143,2026-09-11,general practice,online,normal,call,3,58.0,public,3.0,2,1,49.0,no
+501837,10114,2026-09-12,paediatrics,referral,normal,call,2,2.0,public,6.1,2,0,15.0,no
+501838,10133,2026-09-13,ophthalmology,referral,low,none,12,67.0,public,2.6,3,0,20.0,no
+501839,10142,2026-09-13,general practice,online,normal,call,3,36.0,private,6.7,3,1,19.0,no
+501840,10308,2026-09-13,gynaecology,online,low,call,15,26.0,private,2.5,1,1,45.0,no
+501841,10453,2026-09-13,general practice,phone,normal,call,2,81.0,public,?,3,1,6.0,no
+501842,10480,2026-09-13,gynaecology,phone,normal,none,29,33.0,public,6.4,2,0,?,yes
+501843,10878,2026-09-13,general practice,phone,low,none,1,?,public,7.1,10,4,?,yes
+501844,11148,2026-09-13,orthopaedics,phone,normal,call,5,53.0,public,3.0,7,4,13.0,no
+501845,10200,2026-09-14,orthopaedics,online,normal,sms,32,55.0,public,3.0,2,0,11.0,no
+501846,10252,2026-09-14,paediatrics,phone,low,none,15,9.0,public,3.1,7,2,12.0,no
+501847,10335,2026-09-14,general practice,phone,low,none,3,76.0,public,12.2,1,0,29.0,no
+501848,10407,2026-09-14,paediatrics,online,normal,sms,0,?,public,2.1,5,0,2.0,no
+501849,10513,2026-09-14,orthopaedics,phone,high,sms,6,66.0,public,2.1,2,1,4.0,no
+501850,10820,2026-09-14,paediatrics,phone,high,none,7,11.0,public,?,3,0,17.0,no
+501851,10865,2026-09-14,general practice,phone,low,none,7,92.0,private,9.5,7,3,?,yes
+501852,11125,2026-09-14,cardiology,phone,low,sms,53,56.0,private,5.9,5,1,?,yes
+501853,10205,2026-09-15,ophthalmology,referral,low,sms,1,47.0,public,1.0,5,3,36.0,no
+501854,10585,2026-09-15,general practice,phone,low,call,6,78.0,public,3.2,3,1,31.0,no
+501855,10358,2026-09-16,general practice,referral,low,sms,0,92.0,public,3.6,3,0,?,yes
+501856,10503,2026-09-16,general practice,phone,high,call,4,62.0,private,5.6,3,2,11.0,no
+501857,10788,2026-09-16,cardiology,phone,normal,none,0,61.0,public,7.4,3,3,?,yes
+501858,10997,2026-09-16,cardiology,online,normal,call,15,67.0,public,6.0,1,0,2.0,no
+501859,11092,2026-09-16,ophthalmology,phone,high,call,6,85.0,public,5.5,4,2,37.0,no
+501860,10023,2026-09-17,general practice,online,low,sms,3,38.0,public,12.1,4,0,28.0,no
+501861,10142,2026-09-17,general practice,phone,high,call,3,36.0,private,6.7,4,1,8.0,no
+501862,10271,2026-09-17,orthopaedics,referral,high,sms,8,29.0,public,4.5,4,1,18.0,no
+501863,10378,2026-09-17,general practice,phone,low,sms,2,41.0,public,8.2,7,1,25.0,no
+501864,10498,2026-09-17,paediatrics,phone,normal,none,2,12.0,public,4.3,3,0,18.0,no
+501865,10051,2026-09-18,orthopaedics,phone,high,none,3,72.0,private,4.3,5,1,6.0,no
+501866,10149,2026-09-18,dermatology,phone,normal,call,5,66.0,public,2.8,0,0,18.0,no
+501867,10210,2026-09-18,gynaecology,phone,normal,sms,3,41.0,public,2.1,4,0,20.0,no
+501868,10257,2026-09-18,gynaecology,phone,low,sms,45,40.0,public,5.9,6,1,23.0,no
+501869,10393,2026-09-18,ophthalmology,online,low,sms,8,53.0,public,4.0,2,1,?,yes
+501870,10589,2026-09-18,orthopaedics,online,low,none,13,57.0,public,5.1,3,0,?,yes
+501871,11036,2026-09-18,cardiology,phone,normal,none,48,57.0,private,3.4,2,0,36.0,no
+501872,10211,2026-09-20,paediatrics,phone,low,none,11,9.0,public,1.7,3,0,45.0,no
+501873,10257,2026-09-20,orthopaedics,phone,high,none,1,40.0,public,5.9,7,1,24.0,no
+501874,10484,2026-09-20,paediatrics,phone,normal,none,21,10.0,public,2.8,3,1,?,yes
+501875,10947,2026-09-20,general practice,online,low,none,1,53.0,public,1.8,10,3,18.0,no
+501876,10630,2026-09-21,ophthalmology,online,low,sms,15,?,public,5.1,6,0,14.0,no
+501877,10682,2026-09-21,general practice,phone,low,none,19,53.0,private,?,3,2,?,yes
+501878,10685,2026-09-21,orthopaedics,phone,normal,sms,1,92.0,private,21.3,4,1,33.0,no
+501879,10944,2026-09-21,general practice,online,low,call,11,?,public,?,6,2,?,yes
+501880,10995,2026-09-21,paediatrics,online,low,none,11,11.0,private,4.2,5,0,26.0,no
+501881,11147,2026-09-21,orthopaedics,phone,low,none,27,44.0,public,2.6,5,0,6.0,no
+501882,10415,2026-09-22,cardiology,phone,high,sms,4,82.0,public,2.3,2,0,31.0,no
+501883,10491,2026-09-22,ophthalmology,online,low,sms,12,60.0,private,3.6,7,1,33.0,no
+501884,10739,2026-09-22,orthopaedics,phone,low,none,13,88.0,public,2.7,4,0,11.0,no
+501885,10809,2026-09-22,orthopaedics,referral,high,none,1,78.0,public,1.2,5,3,64.0,no
+501886,11062,2026-09-22,general practice,phone,low,call,20,45.0,public,4.0,3,1,9.0,no
+501887,10215,2026-09-23,paediatrics,online,low,sms,10,8.0,private,7.5,0,0,?,yes
+501888,10250,2026-09-23,general practice,referral,low,none,1,65.0,public,9.0,5,0,11.0,no
+501889,10973,2026-09-23,orthopaedics,online,normal,sms,22,61.0,public,4.3,1,0,9.0,no
+501890,10679,2026-09-24,dermatology,phone,low,sms,34,64.0,private,1.8,1,1,54.0,no
+501891,10851,2026-09-24,paediatrics,online,low,sms,22,2.0,public,14.6,2,0,?,yes
+501892,10963,2026-09-24,general practice,phone,normal,none,2,53.0,public,7.0,2,1,43.0,no
+501893,10184,2026-09-25,paediatrics,referral,low,none,15,7.0,public,7.6,5,1,8.0,no
+501894,10313,2026-09-25,ophthalmology,online,normal,sms,34,83.0,public,15.5,1,0,14.0,no
+501895,10370,2026-09-25,dermatology,online,low,sms,49,31.0,private,?,6,0,13.0,no
+501896,10010,2026-09-26,orthopaedics,phone,low,sms,23,66.0,private,8.6,4,0,15.0,no
+501897,10190,2026-09-26,paediatrics,online,high,none,1,13.0,public,1.3,3,0,12.0,no
+501898,10360,2026-09-26,general practice,online,normal,none,3,51.0,public,2.1,4,1,8.0,no
+501899,10972,2026-09-26,general practice,referral,low,sms,4,47.0,public,12.6,1,1,?,yes
+501900,11120,2026-09-26,general practice,phone,low,none,6,84.0,public,4.1,3,0,11.0,no
+501901,10234,2026-09-27,orthopaedics,phone,normal,none,0,51.0,public,6.4,6,2,15.0,no
+501902,10288,2026-09-27,orthopaedics,phone,normal,call,61,87.0,public,2.7,3,1,19.0,no
+501903,10394,2026-09-27,general practice,phone,low,none,0,69.0,public,7.3,6,3,5.0,no
+501904,10484,2026-09-27,paediatrics,phone,low,sms,3,10.0,public,2.8,4,2,10.0,no
+501905,11124,2026-09-27,general practice,phone,high,call,0,36.0,private,3.8,6,0,21.0,no
+501906,10433,2026-09-28,general practice,online,normal,call,7,60.0,public,4.2,3,3,18.0,no
+501907,10477,2026-09-28,gynaecology,phone,low,sms,40,92.0,public,6.7,6,5,?,yes
+501908,10714,2026-09-28,dermatology,phone,low,none,6,62.0,public,22.9,4,2,?,yes
+501909,10754,2026-09-28,general practice,phone,low,sms,1,87.0,public,3.8,2,0,11.0,no
+501910,10383,2026-09-29,general practice,online,low,none,21,42.0,private,12.7,5,0,18.0,no
+501911,10545,2026-09-29,ophthalmology,phone,low,call,29,61.0,public,18.0,8,7,?,yes
+501912,10012,2026-09-30,cardiology,phone,low,sms,34,92.0,public,4.3,3,0,16.0,no
+501913,10267,2026-09-30,general practice,online,low,sms,5,?,public,3.2,4,1,48.0,no
+501914,10288,2026-09-30,general practice,phone,normal,none,6,87.0,public,2.7,4,1,11.0,no
+501915,10362,2026-09-30,dermatology,phone,high,call,2,51.0,public,8.8,6,0,22.0,no
+501916,10516,2026-09-30,general practice,online,low,sms,1,49.0,public,5.3,3,0,50.0,no
+501917,10996,2026-09-30,general practice,phone,normal,none,6,89.0,public,4.1,7,0,6.0,no
+501918,11046,2026-09-30,general practice,phone,low,call,2,28.0,public,10.4,1,0,13.0,no
+501919,11051,2026-09-30,general practice,referral,low,sms,10,92.0,private,10.1,2,0,?,yes
+501920,11133,2026-09-30,general practice,phone,normal,none,3,31.0,public,4.2,3,0,34.0,no

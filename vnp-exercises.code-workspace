@@ -9,6 +9,11 @@
     {
       "path": "my-lab-exercises",
     },
+    {
+      "path": "my-exam-exercises",
+    },
   ],
-  "settings": {},
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "I2DS-26-27",
+  },
 }
